@@ -1,0 +1,22 @@
+{
+    "title_id": "SORR00001",
+    "name": "SoRR",
+    "updated_at": "2021-10-04",
+    "authors": [
+        {
+            "name": "isage",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/isage\/sorr-vita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/isage\/sorr-vita\/releases\/download\/v1.3\/sorr.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/isage\/sorr-vita\/"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

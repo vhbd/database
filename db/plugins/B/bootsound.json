@@ -1,0 +1,21 @@
+{
+    "plugin_name": "bootsound",
+    "name": "Vita-BootSound",
+    "updated_at": "2020-06-07",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/Vita-BootSound\/releases\/download\/1.0\/bootsound.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/bootsound.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/teakhanirons\/Vita-BootSound.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

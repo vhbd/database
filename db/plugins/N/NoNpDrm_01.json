@@ -1,0 +1,21 @@
+{
+    "plugin_name": "NoNpDrm_01",
+    "name": "NoPsmDrm",
+    "updated_at": "2020-05-27",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "frangarcj",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/frangarcj\/NoPsmDrm\/releases\/download\/v1.4\/nopsmdrm.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/NoNpDrm_01.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/frangarcj\/NoPsmDrm.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

@@ -1,0 +1,24 @@
+{
+    "plugin_name": "iduSpoof",
+    "name": "IduSpoof",
+    "updated_at": "2020-06-15",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "TheHeroGac",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/iduspoof\/downloads\/iduSpoof.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/iduSpoof.suprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/iduspoof.git"
+    ],
+    "license": "Unknown"
+}

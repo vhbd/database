@@ -1,0 +1,26 @@
+{
+    "title_id": "SKG4V2SW1",
+    "name": "switch avls mode",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "SKGleba",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SKGleba\/VITA-NoAutoAvls\/master\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SKG4V2SW1_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SKGleba\/VITA-NoAutoAvls\/releases\/download\/v1.0\/naavls.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKG4V2SW1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SKGleba\/VITA-NoAutoAvls.git"
+    ],
+    "type": "app",
+    "description": "A small utility to permanently enable\/disable the Auto AVLS feature on Playstation Vita.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

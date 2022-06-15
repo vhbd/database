@@ -1,0 +1,27 @@
+{
+    "title_id": "AUTOVPK00",
+    "name": "Auto Installer vpk",
+    "updated_at": "2020-06-09",
+    "authors": [
+        {
+            "name": "Team OneLUA",
+            "type": "author"
+        },
+        {
+            "name": "TheHeroGac",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/theheroGAC\/Auto-Installer-vpk\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/Auto-Installer-vpk\/releases\/download\/1.26\/Auto.Vpk.Installer.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/AUTOVPK00.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/Auto-Installer-vpk.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

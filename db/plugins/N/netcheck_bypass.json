@@ -1,0 +1,20 @@
+{
+    "plugin_name": "netcheck_bypass",
+    "name": "netcheck_bypass",
+    "updated_at": "2020-06-08",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "yifanlu",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/yifanlu\/netcheck_bypass\/releases\/download\/v0.1\/netcheck_bypass.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/netcheck_bypass.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/yifanlu\/netcheck_bypass.git"
+    ],
+    "license": "Unknown"
+}

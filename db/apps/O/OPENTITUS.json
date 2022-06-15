@@ -1,0 +1,26 @@
+{
+    "title_id": "OPENTITUS",
+    "name": "OpenTitus",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/usineur\/opentitus\/vita\/vita\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/OPENTITUS_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/opentitus\/releases\/download\/1.0\/Titus.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/OPENTITUS.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/opentitus.git"
+    ],
+    "type": "game",
+    "description": "A port of the game engine behind the DOS versions of Titus the Fox.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

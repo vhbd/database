@@ -1,0 +1,29 @@
+{
+    "title_id": "PKGJ00000",
+    "name": "PKGj",
+    "updated_at": "2021-04-05",
+    "authors": [
+        {
+            "name": "blastrock",
+            "type": "author"
+        },
+        {
+            "name": "mmozeiko",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/blastrock\/pkgj\/master\/assets\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/blastrock\/pkgj\/releases\/download\/v0.55\/pkgj.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PKGJ00000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/blastrock\/pkgj.git"
+    ],
+    "type": "app",
+    "description": "This homebrew allows to download and unpack pkg file directly on Vita together with your NoNpDrm fake license.",
+    "version": "v.0.55",
+    "license": "Unknown"
+}

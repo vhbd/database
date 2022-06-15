@@ -1,0 +1,24 @@
+{
+    "title_id": "XEROX0000",
+    "name": "Xerox",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "dragaron",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/dragaron\/Xerox\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/XEROX0000.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/dragaron\/Xerox\/releases\/download\/v1.01\/Xerox.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/XEROX0000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/dragaron\/Xerox.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "GRZB00003",
+    "name": "Pingo",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Grzybojad",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Grzybojad\/Pingo\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/GRZB00003_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Grzybojad\/Pingo\/releases\/download\/2.1\/Pingo.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/GRZB00003.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Grzybojad\/Pingo.git"
+    ],
+    "type": "game",
+    "description": "Pingo is a puzzle game in which your goal is to paint the whole level in as little steps as possible. Try to earn 3 stars in 60 hand crafted levels!",
+    "version": "v.2.1",
+    "license": "Unknown"
+}

@@ -1,0 +1,25 @@
+{
+    "title_id": "ZXGQ00004",
+    "name": "GoHAN_Parallel",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "OneRice07",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ZXGQ00004_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/OneRice07\/GoHAN\/releases\/download\/v2.10\/GoHAN_Parallel_2.10.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ZXGQ00004.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/OneRice07\/GoHAN.git"
+    ],
+    "type": "app",
+    "description": "Homebrew that allows the user to modify games data.",
+    "version": "v.2.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,22 @@
+{
+    "title_id": "STARKILL0",
+    "name": "StarKiller2D",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Freakler",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/STARKILL0_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/STARKILL0.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "This is a basic & minimalistic 2D puzzle game. The game isn't meant to look pretty with a lot of fancy graphics but further stay in a somewhat \"text-based-adventure-way\".\nThis release has 54 Levels currently and there also is a level editor for even more fun.",
+    "version": "v.1.00",
+    "license": "Unknown"
+}

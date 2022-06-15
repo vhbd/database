@@ -1,0 +1,20 @@
+{
+    "title_id": "CHESSPS3D",
+    "name": "Chess 3D",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Team ONELua ",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CHESSPS3D.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CHESSPS3D.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

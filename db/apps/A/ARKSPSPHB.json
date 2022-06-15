@@ -1,0 +1,22 @@
+{
+    "title_id": "ARKSPSPHB",
+    "name": "PSP Homebrew Browser",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Arkanite",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ARKSPSPHB_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ARKSPSPHB.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "A HENkaku application to help with installing PSP homebrews to run under Adrenaline.",
+    "version": "v.0.9b",
+    "license": "Unknown"
+}

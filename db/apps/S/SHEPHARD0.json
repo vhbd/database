@@ -1,0 +1,25 @@
+{
+    "title_id": "SHEPHARD0",
+    "name": "ShepHard",
+    "updated_at": "2020-08-27",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "Butterscotch Shenanigans",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SHEPHARD0_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/gm-shb\/raw\/master\/ShepHard\/Shephard.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SHEPHARD0.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

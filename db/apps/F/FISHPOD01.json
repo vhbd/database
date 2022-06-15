@@ -1,0 +1,25 @@
+{
+    "title_id": "FISHPOD01",
+    "name": "Fishpod the Platformer",
+    "updated_at": "2020-08-31",
+    "authors": [
+        {
+            "name": "Team789er",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Team789er\/Fishpod-the-Platformer\/releases\/download\/1.0.0\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Team789er\/Fishpod-the-Platformer\/releases\/download\/1.0.0\/fishpod.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FISHPOD01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Team789er\/Fishpod-the-Platformer.git"
+    ],
+    "type": "game",
+    "description": "A platformer game for PSVITA made with GameMaker.",
+    "version": "v.1.0.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,23 @@
+{
+    "title_id": "ADRBUBMAN",
+    "name": "Adrenaline Bubbles Manager",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ONElua\/AdrenalineBubbleManager\/master\/AdrenalineBubbleManager\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ONElua\/AdrenalineBubbleManager\/releases\/download\/6.16\/AdrenalineBubbleManager.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ADRBUBMAN.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ONElua\/AdrenalineBubbleManager.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

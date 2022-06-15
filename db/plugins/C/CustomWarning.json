@@ -1,0 +1,21 @@
+{
+    "plugin_name": "CustomWarning",
+    "name": "custom_warning",
+    "updated_at": "2020-06-07",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "TheFloW",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/TheOfficialFloW\/VitaTweaks\/releases\/download\/CustomWarning\/custom_warning.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/CustomWarning.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/TheOfficialFloW\/VitaTweaks.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

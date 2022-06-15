@@ -1,0 +1,18 @@
+{
+    "title_id": "PSVVSHREC",
+    "name": "PSV-VSH Recovery Menu",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSVVSHREC.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

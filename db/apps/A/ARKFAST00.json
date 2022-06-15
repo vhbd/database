@@ -1,0 +1,23 @@
+{
+    "title_id": "ARKFAST00",
+    "name": "ArkFast",
+    "updated_at": "2020-05-27",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ONElua\/ArkFast\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ONElua\/ArkFast\/releases\/download\/2.30\/ArkFast.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ARKFAST00.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ONElua\/ArkFast.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

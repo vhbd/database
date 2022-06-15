@@ -1,0 +1,26 @@
+{
+    "title_id": "PSVIBE001",
+    "name": "PSVibe",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "NamelessGhoul0",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/NamelessGhoul0\/PSVibe\/master\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PSVIBE001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/NamelessGhoul0\/PSVibe\/releases\/download\/v2-final\/PSVibe.v2-final.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSVIBE001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/NamelessGhoul0\/PSVibe.git"
+    ],
+    "type": "app",
+    "description": "PSVibe is a simple controller vibrator, inspired by an old PS3 homebrew that can be used to test your controllers.",
+    "version": "v.2-final",
+    "license": "Unknown"
+}

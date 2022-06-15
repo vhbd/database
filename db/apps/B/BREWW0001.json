@@ -1,0 +1,27 @@
+{
+    "title_id": "BREWW0001",
+    "name": "BreakVeetOut",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "dal3boy",
+            "type": "author"
+        },
+        {
+            "name": "Ruben_Wolfe",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/ddB0515\/BreakVeetOut\/releases\/download\/v0.3\/BreakVeetOut_v0.3.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BREWW0001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ddB0515\/BreakVeetOut.git"
+    ],
+    "type": "game",
+    "description": "BreakOut \/ Arkanoid clone for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

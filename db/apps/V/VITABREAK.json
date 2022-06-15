@@ -1,0 +1,26 @@
+{
+    "title_id": "VITABREAK",
+    "name": "VitOut",
+    "updated_at": "2020-05-27",
+    "authors": [
+        {
+            "name": "Dane64",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Dane64\/VitOut\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITABREAK_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Dane64\/VitOut\/releases\/download\/2.0\/VitOut.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITABREAK.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Dane64\/VitOut.git"
+    ],
+    "type": "game",
+    "description": "A BreakOut\/Arkanoid clone for PSVITA\/PSTV.",
+    "version": "v.2.0",
+    "license": "Unknown"
+}

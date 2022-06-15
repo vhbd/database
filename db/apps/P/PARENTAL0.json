@@ -1,0 +1,23 @@
+{
+    "title_id": "PARENTAL0",
+    "name": "Parental Control Bypass",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/parentalcontrolbypass\/raw\/master\/src\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/parentalcontrolbypass\/downloads\/Parental_Control_Bypass.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PARENTAL0.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/parentalcontrolbypass.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

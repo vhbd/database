@@ -1,0 +1,23 @@
+{
+    "title_id": "MULTIDOWN",
+    "name": "Multidownload Vita",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MULTIDOWN.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/DavisDev\/Multidownload-Vita\/releases\/download\/1.00\/Multidownload-Vita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MULTIDOWN.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/DavisDev\/Multidownload-Vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,23 @@
+{
+    "title_id": "PSVITAEMU",
+    "name": "PSVITA EMU INSTALLER",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PSVITAEMU.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/PSVITAEMUINSTALLER\/releases\/download\/1.0\/PSVITA.EMU.INSTALLER.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSVITAEMU.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/PSVITAEMUINSTALLER.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

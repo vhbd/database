@@ -1,0 +1,21 @@
+{
+    "plugin_name": "FreePSM",
+    "name": "FreePSM",
+    "updated_at": "2020-05-27",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/freepsm\/downloads\/FreePSM-v1.1.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/FreePSM.suprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/freepsm.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

@@ -1,0 +1,25 @@
+{
+    "title_id": "SKGIMCULK",
+    "name": "IMCUnlockLite",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "SKGleba",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SKGleba\/IMCUnlockLite\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SKGIMCULK_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKGIMCULK.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SKGleba\/IMCUnlockLite.git"
+    ],
+    "type": "app",
+    "description": "This mod allows you to permanently add a internal ux0 storage (imc) to the PSVita 1000 by modifying boot data regions.",
+    "version": "v.4",
+    "license": "Unknown"
+}

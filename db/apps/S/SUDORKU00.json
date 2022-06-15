@@ -1,0 +1,23 @@
+{
+    "title_id": "SUDORKU00",
+    "name": "Sudorku",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "dragaron",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SUDORKU00.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/dragaron\/Sudorku\/releases\/download\/v1.01\/Sudorku.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SUDORKU00.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/dragaron\/Sudorku.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

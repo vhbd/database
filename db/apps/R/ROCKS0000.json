@@ -1,0 +1,31 @@
+{
+    "title_id": "ROCKS0000",
+    "name": "rocksndiamonds",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "rsn8887",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/rsn8887\/rocksndiamonds\/master\/psp2data\/rocksndiamonds\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ROCKS0000_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/rsn8887\/rocksndiamonds\/releases\/download\/1.15\/rocksndiamonds_vita_1.12.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ROCKS0000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/rsn8887\/rocksndiamonds.git"
+    ],
+    "type": "game",
+    "description": "Rocks'n'Diamonds is a scrolling tile-based computer puzzle game that can be described as a combined Boulder Dash, Supaplex, Emerald Mine, and Sokoban clone. It is a free software game under the GPLv2 license created by Artsoft Entertainment and designed by Holger Schemel. For additional level packs, see the release notes at https:\/\/github.com\/rsn8887\/rocksndiamonds\/releases\/latest",
+    "version": "v.1.12",
+    "data": [
+        "https:\/\/github.com\/rsn8887\/rocksndiamonds\/releases\/download\/1.15\/rocksndiamonds_data.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/bd3d35e_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

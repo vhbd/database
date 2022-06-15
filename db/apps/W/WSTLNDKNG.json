@@ -1,0 +1,26 @@
+{
+    "title_id": "WSTLNDKNG",
+    "name": "Wasteland Kings",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Vlambeer",
+            "type": "author"
+        },
+        {
+            "name": "JeffRuLz345",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/WSTLNDKNG_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/WSTLNDKNG.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Wasteland Kings is the precursor to Nuclear Throne. This game is a top-down shooter in which you fight enemies in a nuclear wasteland in order to become its ruler.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

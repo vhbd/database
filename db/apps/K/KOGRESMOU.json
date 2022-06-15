@@ -1,0 +1,23 @@
+{
+    "title_id": "KOGRESMOU",
+    "name": "Kogre's Mountain",
+    "updated_at": "2020-06-09",
+    "authors": [
+        {
+            "name": "crait",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/KOGRESMOU_icon0.png"
+    ],
+    "downloads": [
+        "http:\/\/crait.net\/download.php?file=KogresMountain.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/KOGRESMOU.vpk"
+    ],
+    "repos": [
+        "http:\/\/crait.net\/download.php?file=KogresMountain.zip"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

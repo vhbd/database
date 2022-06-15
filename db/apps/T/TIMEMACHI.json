@@ -1,0 +1,23 @@
+{
+    "title_id": "TIMEMACHI",
+    "name": "Time Machine",
+    "updated_at": "2020-05-14",
+    "authors": [
+        {
+            "name": "BalisticksMain",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/BalisticksMain\/TimeMachine\/master\/app\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/BalisticksMain\/TimeMachine\/releases\/download\/v1.0\/TimeMachine.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TIMEMACHI.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/BalisticksMain\/TimeMachine.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

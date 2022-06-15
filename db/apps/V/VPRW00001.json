@@ -1,0 +1,22 @@
+{
+    "title_id": "VPRW00001",
+    "name": "VitaRW",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "tomtomdu80",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VPRW00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/MajorTomSec\/VitaRW.git"
+    ],
+    "type": "app",
+    "description": "Enable RW access to \"read-only\" partitions. This is a PoC, and should be used by devs who like the risk.",
+    "version": "#04d791c",
+    "license": "Unknown"
+}

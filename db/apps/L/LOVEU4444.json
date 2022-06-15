@@ -1,0 +1,23 @@
+{
+    "title_id": "LOVEU4444",
+    "name": "LOVEU",
+    "updated_at": "2020-05-03",
+    "authors": [
+        {
+            "name": "Deppressiety",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/itz-depression\/loveU-vita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/itz-depression\/loveU-vita\/releases\/download\/2.0\/LOVEU.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/LOVEU4444.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/itz-depression\/loveU-vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

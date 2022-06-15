@@ -1,0 +1,24 @@
+{
+    "title_id": "RTFD12345",
+    "name": "Red Runner",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "RetroGamer74",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/RTFD12345_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/RTFD12345.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/RetroGamer74\/RedRunner.git"
+    ],
+    "type": "game",
+    "description": "Red Runner is an open source endless game similar to Super Meat Boy in its mechanics.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

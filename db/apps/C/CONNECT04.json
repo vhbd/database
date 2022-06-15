@@ -1,0 +1,25 @@
+{
+    "title_id": "CONNECT04",
+    "name": "Connect Four",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "Dane64",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Dane64\/ConnectFour\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Dane64\/ConnectFour\/releases\/download\/1.00\/C4.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CONNECT04.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Dane64\/ConnectFour.git"
+    ],
+    "type": "game",
+    "description": "A simple Connect 4 game for PSVITA\/PSTV with Minimax algorithm implemented.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

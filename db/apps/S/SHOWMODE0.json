@@ -1,0 +1,21 @@
+{
+    "title_id": "SHOWMODE0",
+    "name": "show-mode",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/show-mode\/downloads\/show-mode.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SHOWMODE0.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/show-mode.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

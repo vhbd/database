@@ -1,0 +1,22 @@
+{
+    "title_id": "AKRK00003",
+    "name": "Monaural Config",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "cuevavirus",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/AKRK00003.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/AKRK00003.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/cuevavirus\/monaural.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

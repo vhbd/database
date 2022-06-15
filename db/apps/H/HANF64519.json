@@ -1,0 +1,24 @@
+{
+    "title_id": "HANF64519",
+    "name": "Granny_psvita",
+    "updated_at": "2021-10-13",
+    "authors": [
+        {
+            "name": "BasHeemskerk",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/icon0\/granny\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/BasHeemskerk\/Granny-Decompiled\/releases\/download\/v1.2.0\/Granny.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/BasHeemskerk\/Granny-Decompiled"
+    ],
+    "type": "game",
+    "description": "A port of Granny (a horror game for iOS\/Android\/PC) to the Playstation vita, made from my decompilation of the game.",
+    "version": "v.1.2.0",
+    "license": "Unknown"
+}

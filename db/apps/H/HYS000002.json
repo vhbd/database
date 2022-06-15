@@ -1,0 +1,23 @@
+{
+    "title_id": "HYS000002",
+    "name": "History Deleter",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/HYS000002.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/PS-Vita\/releases\/download\/2.0\/History_Deleter_reboot_v2.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HYS000002.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/PS-Vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

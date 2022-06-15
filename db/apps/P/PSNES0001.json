@@ -1,0 +1,18 @@
+{
+    "title_id": "PSNES0001",
+    "name": "pSNES",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Cpasjuste",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSNES0001.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

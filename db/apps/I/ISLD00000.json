@@ -1,0 +1,24 @@
+{
+    "title_id": "ISLD00000",
+    "name": "A Super Small SHMUP",
+    "updated_at": "2021-11-18",
+    "authors": [
+        {
+            "name": "island-games",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/island-games\/A-Super-Small-Shmup\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/island-games\/A-Super-Small-Shmup\/releases\/download\/v1.02\/ASUPERSMALLSHMUP.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/island-games\/A-Super-Small-Shmup"
+    ],
+    "type": "game",
+    "description": "This is a small Galaga type game for the PSVita. It features 10 waves and a boss fight. It is also the first game to utilize the Bartender trophy system.",
+    "version": "v.1.02",
+    "license": "Unknown"
+}

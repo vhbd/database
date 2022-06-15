@@ -1,0 +1,23 @@
+{
+    "title_id": "CREEPER00",
+    "name": "CreeperDiver",
+    "updated_at": "2020-08-27",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CREEPER00_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/creeperdiver\/downloads\/creeperdiver-1.2-vita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CREEPER00.vpk"
+    ],
+    "repos": [
+        "git clone https:\/\/bitbucket.org\/SilicaAndPina\/creeperdiver.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

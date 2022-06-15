@@ -1,0 +1,26 @@
+{
+    "title_id": "PLMN00001",
+    "name": "Plugins Manager",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "kylon",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/kylon\/plugins-manager-vita\/raw\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PLMN00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/kylon\/plugins-manager-vita\/downloads\/plgmn.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PLMN00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/kylon\/plugins-manager-vita\/overview"
+    ],
+    "type": "app",
+    "description": "A minimalistic plugin manager for taiHEN.",
+    "version": "v.2.5",
+    "license": "Unknown"
+}

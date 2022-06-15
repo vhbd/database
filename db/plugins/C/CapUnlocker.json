@@ -1,0 +1,21 @@
+{
+    "plugin_name": "CapUnlocker",
+    "name": "CapUnlocker",
+    "updated_at": "2021-04-30",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "GrapheneCt",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/GrapheneCt\/CapUnlocker\/releases\/download\/v1.4\/CapUnlocker.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/CapUnlocker.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/GrapheneCt\/CapUnlocker.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "plugin_name": "ds4touch_01",
+    "name": "ds4Touch",
+    "updated_at": "2020-09-15",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "MERLev",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/MERLev\/ds4Touch\/releases\/download\/1.1.3\/ds4touch.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/ds4touch_01.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/MERLev\/ds4Touch.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

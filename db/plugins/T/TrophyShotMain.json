@@ -1,0 +1,21 @@
+{
+    "plugin_name": "TrophyShotMain",
+    "name": "TrophyShot",
+    "updated_at": "2020-09-20",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "FMudanyali",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/FMudanyali\/trophyshot\/uploads\/b603396ff786d9b118aaeefc1a4e527e\/trophyshot_shell.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/TrophyShotMain.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/FMudanyali\/TrophyShot.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

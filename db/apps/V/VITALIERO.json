@@ -1,0 +1,31 @@
+{
+    "title_id": "VITALIERO",
+    "name": "Wiiero",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Grzybojad",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Grzybojad\/wiiero-vita\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITALIERO_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Grzybojad\/wiiero-vita\/releases\/download\/1.2\/wiiero.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITALIERO.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Grzybojad\/wiiero-vita.git"
+    ],
+    "type": "game",
+    "description": "THIS GAME IS LOCAL MULTIPLAYER ONLY! It requires 2 controllers to play, so it won't work on a regular Vita.\nWiiero is a clone of Liero specially originally developed for Wii. Liero is a PvP game between two worms armed with heavy weapons of all kinds battling in underground caves. Wiiero is composed of 3 game modes: Deathmatch, Capture the flag and game of tag. In the wiiero world, players are able to fight with the original Liero weapons ( there are basically thirty of them) or add the twenty more or less harmful new ones.",
+    "version": "v.1.2",
+    "data": [
+        "https:\/\/github.com\/Grzybojad\/wiiero-vita\/releases\/download\/1.2\/wiiero.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/a27883ff_data.zip"
+    ],
+    "data_path": "ux0:\/data\/wiiero",
+    "license": "Unknown"
+}

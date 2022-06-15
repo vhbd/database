@@ -1,0 +1,26 @@
+{
+    "title_id": "VITABUP00",
+    "name": "Vita Backup",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/joel16\/VitaBackup\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITABUP00_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/joel16\/VitaBackup\/releases\/download\/2.00\/VitaBackup.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITABUP00.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/VitaBackup.git"
+    ],
+    "type": "app",
+    "description": "This utility aims to backup and restore VITA specific files (hardware ids, activation data, databases etc) on the go.",
+    "version": "v.2.00",
+    "license": "Unknown"
+}

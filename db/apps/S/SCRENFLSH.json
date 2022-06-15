@@ -1,0 +1,22 @@
+{
+    "title_id": "SCRENFLSH",
+    "name": "VitaScreenFlasher",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "NamelessGhoul0",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SCRENFLSH.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/NamelessGhoul0\/VitaScreenFlasher.git"
+    ],
+    "type": "app",
+    "description": "Application that just flashes the PSVITA's screen. Useful if you want to fix dead pixels on your screen.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

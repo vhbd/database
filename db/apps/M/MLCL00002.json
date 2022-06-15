@@ -1,0 +1,26 @@
+{
+    "title_id": "MLCL00002",
+    "name": "offlineInstaller",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "xyzz",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/henkaku\/offline-installer\/master\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MLCL00002_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/henkaku\/offline-installer\/releases\/download\/1.0\/offlineInstaller.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MLCL00002.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/henkaku\/offline-installer.git"
+    ],
+    "type": "app",
+    "description": "Mail application exploit that allows you to start HENkaku without an Internet connection.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

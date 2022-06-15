@@ -1,0 +1,26 @@
+{
+    "title_id": "ZELDAOLB1",
+    "name": "Zelda: Oni Link Begins",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/ZeldaOLB\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ZELDAOLB1_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=265",
+        "https:\/\/dl.coolatoms.org\/vitadb\/hbs\/ZeldaOLB.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ZELDAOLB1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/ZeldaOLB.git"
+    ],
+    "type": "game",
+    "description": "Port of Zelda: Oni Link Begins, fanmade Zelda game sequel of Zelda: Return of the Hylian, for PSVITA.\nIt has also been translated to several languages, it now currently supports english, spanish, francais and italian.",
+    "version": "v.1.5",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "VITASHELL",
+    "name": "VitaShell",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "TheFloW",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/TheOfficialFloW\/VitaShell\/master\/release\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITASHELL_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/TheOfficialFloW\/VitaShell\/releases\/download\/v2.02\/VitaShell.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITASHELL.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/TheOfficialFloW\/VitaShell.git"
+    ],
+    "type": "app",
+    "description": "VitaShell is an alternative replacement of the PS Vita's LiveArea. It offers you a file manager, package installer, built-in FTP and much more.\nIt also have advanced features like USB hard-drive mounting for PSTV users and standard USB protocool implementation for file transfering with a PC.",
+    "version": "v.2.02",
+    "license": "Unknown"
+}

@@ -1,0 +1,23 @@
+{
+    "plugin_name": "oclockvita",
+    "name": "oclockvita",
+    "updated_at": "2020-07-07",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "frangarcj",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/frangarcj\/oclockvita\/releases\/download\/1.2.1\/oclockvita.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/oclockvita.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/frangarcj\/oclockvita.git"
+    ],
+    "description": "taiHEN plugin for overclocking your PSVita\/PSTV.",
+    "version": "v.1.2.1",
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

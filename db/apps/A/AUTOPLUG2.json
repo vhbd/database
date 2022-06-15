@@ -1,0 +1,27 @@
+{
+    "title_id": "AUTOPLUG2",
+    "name": "AutoPlugin II",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        },
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ONElua\/AutoPlugin2\/master\/AUTOPLUG2\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ONElua\/AutoPlugin2\/releases\/download\/1.26\/AutoPlugin2.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/AUTOPLUG2.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ONElua\/AutoPlugin2.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

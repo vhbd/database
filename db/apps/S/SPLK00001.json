@@ -1,0 +1,20 @@
+{
+    "title_id": "SPLK00001",
+    "name": "Spelunky Classic HD",
+    "updated_at": "2020-08-07",
+    "authors": [
+        {
+            "name": "nkrapivin",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SPLK00001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SPLK00001.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

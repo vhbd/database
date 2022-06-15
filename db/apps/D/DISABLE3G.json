@@ -1,0 +1,23 @@
+{
+    "title_id": "DISABLE3G",
+    "name": "3G Disabler",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "KanadeEngel",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/KanadeEngel\/PS-Vita\/master\/3G_Disable\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DISABLE3G.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DISABLE3G.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/KanadeEngel\/PS-Vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

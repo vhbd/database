@@ -1,0 +1,25 @@
+{
+    "title_id": "VPRO00001",
+    "name": "VitaRO",
+    "updated_at": "2020-06-15",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "Major_Tom",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/vitaro\/downloads\/VitaRO.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VPRO00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/vitaro.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

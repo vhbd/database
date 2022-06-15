@@ -1,0 +1,26 @@
+{
+    "title_id": "VAIH00001",
+    "name": "vitaAirHockey",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "LaGaipaG",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/LaGaipaG\/vitaAirHockey\/master\/source\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VAIH00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/raw.githubusercontent.com\/LaGaipaG\/vitaAirHockey\/master\/v0.2\/vitaAirHockey_v0.2.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VAIH00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/LaGaipaG\/vitaAirHockey.git"
+    ],
+    "type": "game",
+    "description": "Air Hockey\/Pong game for PSVITA\/PSTV.",
+    "version": "v.0.2",
+    "license": "Unknown"
+}

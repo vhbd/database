@@ -1,0 +1,21 @@
+{
+    "plugin_name": "SysidentUser",
+    "name": "sysident",
+    "updated_at": "2020-06-03",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Princess of Sleeping",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/cuevavirus\/sysident\/releases\/download\/v1.0\/sysident.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/SysidentUser.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/cuevavirus\/sysident.git"
+    ],
+    "plugin_section": "*NPXS10015|*NPXS10016",
+    "license": "Unknown"
+}

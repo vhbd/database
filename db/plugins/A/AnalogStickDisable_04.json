@@ -1,0 +1,21 @@
+{
+    "plugin_name": "AnalogStickDisable_04",
+    "name": "AnalogStickDisable Right To Left",
+    "updated_at": "2020-06-08",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Hack-Usagi",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Hack-Usagi\/AnalogStickDisable\/releases\/download\/Ver1.2\/AnalogStickDisable_RightToLeft.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/AnalogStickDisable_04.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Hack-Usagi\/AnalogStickDisable.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "plugin_name": "CoreUnlocker80000H",
+    "name": "CoreUnlocker80000H",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "GrapheneCt",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/GrapheneCt\/CapUnlocker\/releases\/download\/v1.4\/CapUnlocker.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/CoreUnlocker80000H.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/GrapheneCt\/CoreUnlocker80000H.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

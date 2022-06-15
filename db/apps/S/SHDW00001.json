@@ -1,0 +1,23 @@
+{
+    "title_id": "SHDW00001",
+    "name": "advremap",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "ShadowPrince",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/shdwp\/advremap\/releases\/download\/00.10\/advremap.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SHDW00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/shdwp\/advremap.git"
+    ],
+    "type": "app",
+    "description": "PSVita homebrew for remapping controls\/assigning macros.",
+    "version": "Alpha 1",
+    "license": "Unknown"
+}

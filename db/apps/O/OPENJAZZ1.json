@@ -1,0 +1,35 @@
+{
+    "title_id": "OPENJAZZ1",
+    "name": "OpenJazz",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/usineur\/openjazz\/vita\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/OPENJAZZ1_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/openjazz\/releases\/download\/1.1\/OpenJazz.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/OPENJAZZ1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/openjazz.git"
+    ],
+    "type": "game",
+    "description": "OpenJazz is a free, open-source version of the classic Jazz Jackrabbit\u2122 games. OpenJazz can be compiled on a wide range of operating systems, including Windows 98\/Me\/XP and Linux. To play, you will need the files from one of the original games.",
+    "version": "v.1.1",
+    "videos": [
+        {
+            "youtube_id": "m5f7AVw8d6M"
+        }
+    ],
+    "data": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/28fb04cb_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

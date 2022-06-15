@@ -1,0 +1,25 @@
+{
+    "title_id": "YPID00001",
+    "name": "PSV IDPS Dumper v0.7",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Yoti",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/YPID00001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Yoti\/psv_idpsdump\/releases\/download\/v0.7\/PSV_IDPS_Dumper_v0.7.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/YPID00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Yoti\/psv_idpsdump.git"
+    ],
+    "type": "app",
+    "description": "A little utility that allows to dump your console IDPS-",
+    "version": "v.0.8",
+    "license": "Unknown"
+}

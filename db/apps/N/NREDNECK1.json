@@ -1,0 +1,30 @@
+{
+    "title_id": "NREDNECK1",
+    "name": "NRedneck",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/NRedneck-Vita\/master\/source\/kenbuild\/rsrc\/build_icon.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/NREDNECK1_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=436",
+        "https:\/\/dl.coolatoms.org\/vitadb\/13\/NRedneck.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NREDNECK1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/NRedneck-Vita.git"
+    ],
+    "type": "game",
+    "description": "NRedneck (previously Rednukem) is a fork of EDuke32 that adds support for Redneck Rampage and Rednack Rampage: Rides Again.\nRedneck Rampage is a 1997 first-person shooter game developed by Xatrix Entertainment and published by Interplay. The game is a first person shooter with a variety of weapons and levels, but has a hillbilly theme, primarily taking place in a fictional Arkansas town. Many of the weapons and power-ups border on nonsensical, and in some ways it is a parody of both first shooter games and rural American life.",
+    "version": "v.1.1",
+    "data": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/ec02344b_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

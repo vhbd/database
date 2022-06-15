@@ -1,0 +1,23 @@
+{
+    "title_id": "REBDB0001",
+    "name": "Rebuild_Database",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "theHeroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/REBDB0001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/rebuild_database\/releases\/download\/1.02\/Rebuild_Database.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/REBDB0001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/rebuild_database.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

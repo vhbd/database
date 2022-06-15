@@ -1,0 +1,25 @@
+{
+    "plugin_name": "noavls",
+    "name": "NoAVLS",
+    "updated_at": "2020-06-07",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "dots-tb",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/noavls\/downloads\/noavls.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/noavls.skprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/noavls.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

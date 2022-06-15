@@ -1,0 +1,27 @@
+{
+    "title_id": "LAPY30015",
+    "name": "Super Console Wars",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Lapy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/LAPY30015.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/LAPY30015.VPK"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A side scrolling shoot'em up for PSVITA\/PSTV made with Unity.",
+    "version": "v.1.05",
+    "videos": [
+        {
+            "youtube_id": "aUzQYqlMm7c"
+        }
+    ],
+    "license": "Unknown"
+}

@@ -1,0 +1,24 @@
+{
+    "title_id": "KUNI00002",
+    "name": "sudokucpp",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Kuni59",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/KUNI00002_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/KUNI00002.vpk"
+    ],
+    "repos": [
+        "http:\/\/www.mediafire.com\/file\/wu7ptl6t57wo5tl\/SudokuCPP.rar"
+    ],
+    "type": "game",
+    "description": "Sudoku game for PSVITA\/PSTV.",
+    "version": "v.0.1",
+    "license": "Unknown"
+}

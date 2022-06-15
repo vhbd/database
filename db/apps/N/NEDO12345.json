@@ -1,0 +1,27 @@
+{
+    "title_id": "NEDO12345",
+    "name": "The Great Adventure of Nedokun",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "nedmapagmahal",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/NEDO12345.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NEDO12345.VPK"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Rejected by her colleague he ran away crying going to nowhere accidentally warping to some mysterious place and, in order to get back to his world, he needs to get the Castle Bu-Wind.",
+    "version": "v.1.1",
+    "videos": [
+        {
+            "youtube_id": "QicTcicHH7w"
+        }
+    ],
+    "license": "Unknown"
+}

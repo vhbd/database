@@ -1,0 +1,24 @@
+{
+    "title_id": "SPACEPINB",
+    "name": "Space Cadet Pinball",
+    "updated_at": "2021-09-20",
+    "authors": [
+        {
+            "name": "suicvne",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/suicvne\/SpaceCadetPinball_Vita\/master\/resources\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/suicvne\/SpaceCadetPinball_Vita\/releases\/download\/Release_1.1.1_VitaBuild_2\/SpaceCadetPinballVita_VB2.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/suicvne\/SpaceCadetPinball_Vita"
+    ],
+    "type": "game",
+    "description": "Port of Space Cadet, popular pinball game bundled with Windows XP.",
+    "version": "v.1.1.1-VB2",
+    "license": "Unknown"
+}

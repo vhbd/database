@@ -1,0 +1,26 @@
+{
+    "title_id": "VTCD00001",
+    "name": "VitaCord",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "devingDev",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/devingDev\/VitaCord\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VTCD00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/devingDev\/VitaCord\/releases\/download\/1.5fix1\/vita_cord.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VTCD00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/devingDev\/VitaCord.git"
+    ],
+    "type": "app",
+    "description": "A Discord client for PSVITA\/PSTV.",
+    "version": "v.1.5fix1",
+    "license": "Unknown"
+}

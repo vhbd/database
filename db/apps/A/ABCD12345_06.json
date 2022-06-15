@@ -1,0 +1,20 @@
+{
+    "title_id": "ABCD12345",
+    "name": "Ronister Adventure Demo",
+    "updated_at": "2020-08-30",
+    "authors": [
+        {
+            "name": "Ronikgames",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ABCD12345_06_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABCD12345_06.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

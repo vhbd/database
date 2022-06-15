@@ -1,0 +1,26 @@
+{
+    "title_id": "FLAPPY001",
+    "name": "FlappyBird Classic",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Creckeryop",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Creckeryop\/Flappy-Bird-Classic-vita\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FLAPPY001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Creckeryop\/Flappy-Bird-Classic-vita\/releases\/download\/v1.21\/FBClassic.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FLAPPY001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Creckeryop\/Flappy-Bird-Classic-vita.git"
+    ],
+    "type": "game",
+    "description": "A Flappy Bird clone for PSVITA\/PSTV.",
+    "version": "v.1.2",
+    "license": "Unknown"
+}

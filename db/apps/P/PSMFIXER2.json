@@ -1,0 +1,26 @@
+{
+    "title_id": "PSMFIXER2",
+    "name": "PSM Manager",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Yoti",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Yoti\/psv_npdrmfix\/master\/nopsmdrm_fixer\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PSMFIXER2_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Yoti\/psv_npdrmfix\/releases\/download\/v2.1\/PSM_Manager.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSMFIXER2.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Yoti\/psv_npdrmfix.git"
+    ],
+    "type": "app",
+    "description": "This program bypasses the PSN account requirement when using PSM games.",
+    "version": "v.2.0",
+    "license": "Unknown"
+}

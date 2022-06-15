@@ -1,0 +1,24 @@
+{
+    "title_id": "ACTMANGER",
+    "name": "Account_Manager",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ONElua\/AccountManager\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ACTMANGER.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ONElua\/AccountManager\/releases\/download\/1.10\/Account_Manager.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ACTMANGER.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ONElua\/AccountManager.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

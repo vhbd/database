@@ -1,0 +1,22 @@
+{
+    "title_id": "APPMANP01",
+    "name": "App Manager Plus",
+    "updated_at": "2020-06-17",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/theheroGAC\/AppManager-Plus\/master\/AppManager-PLUS\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/APPMANP01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/AppManager-Plus.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

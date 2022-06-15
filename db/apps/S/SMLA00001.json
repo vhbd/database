@@ -1,0 +1,30 @@
+{
+    "title_id": "SMLA00001",
+    "name": "Launcher",
+    "updated_at": "2020-10-27",
+    "authors": [
+        {
+            "name": "cy33hc",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/cy33hc\/vita-launcher\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/cy33hc\/vita-launcher\/releases\/download\/latest\/launcher.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SMLA00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/cy33hc\/vita-launcher.git"
+    ],
+    "type": "app",
+    "description": "An application that allows to launch other installed apps, roms from emulators and PSP games and homebrews thbrough Adrenaline. This removes the bubbles limit of Livearea and allows to categorize applications.",
+    "version": "v.3.9",
+    "videos": [
+        {
+            "youtube_id": "HfZzWkk328g"
+        }
+    ],
+    "license": "Unknown"
+}

@@ -1,0 +1,22 @@
+{
+    "title_id": "CSCC00001",
+    "name": "Socal Credit Checker",
+    "updated_at": "2021-10-13",
+    "authors": [
+        {
+            "name": "itz-depression",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/itz-depression\/china-socal-credit-checker\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/itz-depression\/china-socal-credit-checker\/releases\/download\/1\/CSCC.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/itz-depression\/china-socal-credit-checker\/releases\/tag\/1"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

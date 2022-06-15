@@ -1,0 +1,22 @@
+{
+    "title_id": "RNPYDDLC1",
+    "name": "Doki Doki Literature Club Vita",
+    "updated_at": "2021-09-17",
+    "authors": [
+        {
+            "name": "SonicMastr ",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SonicMastr\/Doki-Doki-Literature-Club-Vita\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SonicMastr\/Doki-Doki-Literature-Club-Vita\/releases\/download\/v1.01\/Doki.Doki.Literature.Club-01.01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SonicMastr\/Doki-Doki-Literature-Club-Vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

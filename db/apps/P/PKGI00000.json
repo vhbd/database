@@ -1,0 +1,26 @@
+{
+    "title_id": "PKGI00000",
+    "name": "PKGi",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "mmozeiko",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/mmozeiko\/pkgi\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PKGI00000_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/mmozeiko\/pkgi\/releases\/download\/v0.05\/pkgi-v0.05.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PKGI00000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/mmozeiko\/pkgi.git"
+    ],
+    "type": "app",
+    "description": "PKGi allows to install original pkg files on your Vita.\nThis homebrew allows to download & unpack pkg file directly on Vita together with your NoNpDrm fake license.",
+    "version": "v.0.05",
+    "license": "Unknown"
+}

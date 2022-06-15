@@ -1,0 +1,26 @@
+{
+    "title_id": "ZERO00001",
+    "name": "ZeldaROTH",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/usineur\/ZeldaROTH\/vita\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ZERO00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/ZeldaROTH\/releases\/download\/1.3\/ZeldaROTH.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ZERO00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/ZeldaROTH.git"
+    ],
+    "type": "game",
+    "description": "This is a Vita port of the Zelda fan game: The Legend of Zelda : Return of the Hylian, made by Vincent Jouillat.",
+    "version": "v.1.3",
+    "license": "Unknown"
+}

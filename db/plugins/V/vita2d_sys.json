@@ -1,0 +1,25 @@
+{
+    "plugin_name": "vita2d_sys",
+    "name": "libvita2d_sys",
+    "updated_at": "2020-11-29",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "GrapheneCt",
+            "type": "author"
+        },
+        {
+            "name": "xerpi",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/GrapheneCt\/libvita2d_sys\/releases\/download\/v1.46\/libvita2d_sys.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/vita2d_sys.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/GrapheneCt\/libvita2d_sys.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

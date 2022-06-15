@@ -1,0 +1,24 @@
+{
+    "title_id": "PLYMARS01",
+    "name": "Terri-Fried",
+    "updated_at": "2020-06-13",
+    "authors": [
+        {
+            "name": "PolyMarsDev",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/PolyMarsDev\/Terri-Fried\/master\/psvita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PLYMARS01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/PolyMarsDev\/Terri-Fried.git"
+    ],
+    "type": "game",
+    "description": "Everyone is dead except for... an egg. Humanity is depending on you to make sure this egg survives. Balance power and precision in Terri-Fried, a game made in 72-hours with raylib for Ludum Dare 46!",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

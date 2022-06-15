@@ -1,0 +1,36 @@
+{
+    "title_id": "QUAK00001",
+    "name": "vitaQuake",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/vitaQuake\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/QUAK00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=10",
+        "https:\/\/dl.coolatoms.org\/vitadb\/13\/vitaQuake.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/QUAK00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/vitaQuake.git"
+    ],
+    "type": "game",
+    "description": "vitaQuake is a port of Quake for PSVITA. It's based on glQuake but has several features from different source ports such as ProQuake and similars.\nAt the moment vitaQuake has unique features like Dualshock rumbling when player get hit, an fps counter. It supports also double analogs for comfortable gameplay, online and locale multiplayer with featured servers, soundtracks support, sounds support and a lot more stuffs.",
+    "version": "v.4.1",
+    "videos": [
+        {
+            "youtube_id": "Z13BLcKq5Kw"
+        }
+    ],
+    "data": [
+        "https:\/\/dl.coolatoms.org\/vitadb\/Homebrews Data Files\/vitaQuake.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/85ff504d_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

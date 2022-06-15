@@ -1,0 +1,28 @@
+{
+    "title_id": "PFBA00001",
+    "name": "pfba",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "cpasjuste",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Cpasjuste\/pemu\/master\/pfba\/data\/vita\/romfs\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PFBA00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PFBA00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Cpasjuste\/pemu.git"
+    ],
+    "type": "app",
+    "data": [
+        "https:\/\/github.com\/Cpasjuste\/pemu\/releases\/download\/v4.4\/pfba-4.4_vita.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/21bcaa01_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

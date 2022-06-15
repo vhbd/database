@@ -1,0 +1,20 @@
+{
+    "title_id": "ONELUA4R1",
+    "name": "ONEluaVita4R1",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ONELUA4R1.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ONELUA4R1.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,22 @@
+{
+    "title_id": "CUID18745",
+    "name": "Cup Critters",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "FantaHourglass",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CUID18745_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CUID18745.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Clone of Cup Critters for PSVITA\/PSTV.\nIn Cup Critters, you must manipulate gravity to keep those crazy balls in the cups. As you advance, your score gets higher and the tricks get more difficult. Great fun for casual players and core gamers alike!",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

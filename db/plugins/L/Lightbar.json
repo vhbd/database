@@ -1,0 +1,21 @@
+{
+    "plugin_name": "Lightbar",
+    "name": "VolLightbarCtrlWithDS4",
+    "updated_at": "2021-04-30",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "CallmeBK",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/CallmeBK\/VolLightbarCtrlWithDS4\/releases\/download\/v1.3\/VolLightbarCtrlWithDS4.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/Lightbar.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/CallmeBK\/VolLightbarCtrlWithDS4.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

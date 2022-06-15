@@ -1,0 +1,30 @@
+{
+    "title_id": "DSEMU0000",
+    "name": "DeSmuME",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "MasterFeizz",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DSEMU0000_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/masterfeizz\/DeSmuME-Vita\/releases\/download\/v0.2\/desmume.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DSEMU0000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/masterfeizz\/DeSmuME-Vita.git"
+    ],
+    "type": "emulator",
+    "description": "Port of DeSmuME DS Emulator for the PSVita.\nIt's currently a fully interpreted DS emulator, which means the performance is not so great.",
+    "version": "v.0.2",
+    "videos": [
+        {
+            "youtube_id": "xQdZCaTNw0A"
+        }
+    ],
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "PSVGC0001",
+    "name": "Virtual GC",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "motoharu",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/motoharu-gosuto\/psvgamesd\/master\/app\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PSVGC0001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/motoharu-gosuto\/psvgamesd\/releases\/download\/v2.0\/psvgc.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSVGC0001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/motoharu-gosuto\/psvgamesd.git"
+    ],
+    "type": "app",
+    "description": "Application that allows you to dump and run your physical gamecards.",
+    "version": "v.2.0",
+    "license": "Unknown"
+}

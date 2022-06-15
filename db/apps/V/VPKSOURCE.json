@@ -1,0 +1,26 @@
+{
+    "title_id": "VPKSOURCE",
+    "name": "Better Browser Dowloader",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "THEN00P",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/THEN00P\/Better-Browser-Downloader\/master\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VPKSOURCE_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/THEN00P\/Better-Browser-Downloader\/releases\/download\/0.95\/BetterBrowserDownloader.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VPKSOURCE.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/THEN00P\/Better-Browser-Downloader.git"
+    ],
+    "type": "app",
+    "description": "The Better Browser Downloader is a modified VPK Mirror direct installer that allows you to download pretty much any file you want from any website.",
+    "version": "v.0.95",
+    "license": "Unknown"
+}

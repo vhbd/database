@@ -1,0 +1,22 @@
+{
+    "title_id": "WONR00001",
+    "name": "tactic_miner",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "wonre",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/WONR00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/WONR00001.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Tactic miner fell in an unknown cavern. Help him escape. 'Little' 2d action game for PSVita\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

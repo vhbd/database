@@ -1,0 +1,22 @@
+{
+    "title_id": "LAPY00009",
+    "name": "Wild Gunman Remake",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Lapy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/LAPY00009_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/LAPY00009.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Clone of Wild Gunman, classic game for NES, for PSVITA\/PSTV.",
+    "version": "v.1.02",
+    "license": "Unknown"
+}

@@ -1,0 +1,31 @@
+{
+    "title_id": "VPAD00001",
+    "name": "VitaPad",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/VitaPad\/master\/Server\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VPAD00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=50",
+        "https:\/\/dl.coolatoms.org\/vitadb\/Homebrews\/VitaPad.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VPAD00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/VitaPad.git"
+    ],
+    "type": "app",
+    "description": "VitaPad allows you to use your PSVITA as a wireless PC controller. It supports Windows (both 32 and 64 bit), Android and Linux.",
+    "version": "v.1.3",
+    "videos": [
+        {
+            "youtube_id": "CQ5wUMOpXoM"
+        }
+    ],
+    "license": "Unknown"
+}

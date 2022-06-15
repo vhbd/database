@@ -1,0 +1,23 @@
+{
+    "title_id": "BOMB00001",
+    "name": "Bomberman",
+    "updated_at": "2020-06-07",
+    "authors": [
+        {
+            "name": "Rufis_",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Rufis01\/bomberman-sdl2\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Rufis01\/bomberman-sdl2\/releases\/download\/1.01\/bomberman.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BOMB00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rufis01\/bomberman-sdl2.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

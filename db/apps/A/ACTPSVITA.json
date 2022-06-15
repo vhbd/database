@@ -1,0 +1,23 @@
+{
+    "title_id": "ACTPSVITA",
+    "name": "System Check Enabled",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Draqen",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ACTPSVITA_icon0.png"
+    ],
+    "downloads": [
+        "http:\/\/aldezo.bplaced.net\/SystemCheckEnabled.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ACTPSVITA.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "Simple homebrew that checks if your system is enabled.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

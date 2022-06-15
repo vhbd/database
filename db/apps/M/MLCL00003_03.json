@@ -1,0 +1,27 @@
+{
+    "title_id": "MLCL00003",
+    "name": "enso-dex",
+    "updated_at": "2020-08-25",
+    "authors": [
+        {
+            "name": "Team Molecule",
+            "type": "author"
+        },
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/KuromeSan\/enso-dex\/master\/installer\/res\/icon.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/KuromeSan\/enso-dex\/releases\/download\/V1.4\/enso.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MLCL00003_03.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/KuromeSan\/enso-dex.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

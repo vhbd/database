@@ -1,0 +1,23 @@
+{
+    "title_id": "UPDATBLOC",
+    "name": "UpdateBlocker",
+    "updated_at": "2020-05-03",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/updateblocker\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/updateblocker\/downloads\/UpdateBlocker-1.1.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/UPDATBLOC.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/updateblocker.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

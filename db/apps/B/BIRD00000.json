@@ -1,0 +1,22 @@
+{
+    "title_id": "BIRD00000",
+    "name": "flappybird",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "yukkurisinai",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BIRD00000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/yukkurisinai\/vita-flappybird.git"
+    ],
+    "type": "game",
+    "description": "Smartphone game Flappy Bird clone for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "TETR00001",
+    "name": "tetromino",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "svennd",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/svennd\/vita-tetromino\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TETR00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/svennd\/vita-tetromino\/releases\/download\/0.8\/tetromino.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TETR00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/svennd\/vita-tetromino.git"
+    ],
+    "type": "game",
+    "description": "Tetris like game for PSVITA\/PSTV written in Lua.",
+    "version": "v.0.8",
+    "license": "Unknown"
+}

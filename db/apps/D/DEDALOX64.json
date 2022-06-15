@@ -1,0 +1,38 @@
+{
+    "title_id": "DEDALOX64",
+    "name": "DaedalusX64",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "Original Daedalus X64 developers",
+            "type": "author"
+        },
+        {
+            "name": "Xerpi",
+            "type": "author"
+        },
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/DaedalusX64-vitaGL\/master\/Source\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Rinnegatamante\/DaedalusX64-vitaGL\/releases\/download\/Stable\/DaedalusX64.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DEDALOX64.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/DaedalusX64-vitaGL.git"
+    ],
+    "type": "emulator",
+    "description": "Daedalus X64 is a Nintendo 64 emulator originally for Linux and PSP ported to PSVITA thanks to vitaGL usage.",
+    "version": "v.0.6",
+    "videos": [
+        {
+            "youtube_id": "6Kvk8wZ-4mY"
+        }
+    ],
+    "license": "Unknown"
+}

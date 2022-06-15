@@ -1,0 +1,21 @@
+{
+    "plugin_name": "custom_boot_splash",
+    "name": "Custom Boot Splash BMP",
+    "updated_at": "2020-06-08",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/Vita-CustomBootSplashBMP\/releases\/download\/2.0\/custom_boot_splash.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/custom_boot_splash.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/teakhanirons\/Vita-CustomBootSplashBMP.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

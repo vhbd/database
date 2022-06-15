@@ -1,0 +1,26 @@
+{
+    "title_id": "RBSD00001",
+    "name": "Reboot or Shutdown",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "McCallum99",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/McCallum99\/PSVitaRebootShutdown\/master\/source\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/RBSD00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/McCallum99\/PSVitaRebootShutdown\/releases\/download\/v1.08\/VitaRebootShutdown.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/RBSD00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/McCallum99\/PSVitaRebootShutdown.git"
+    ],
+    "type": "app",
+    "description": "This is an app that reboots or powers off your PSVita depending on what trigger you hold. It allows to update or restore icons database too.",
+    "version": "v.1.08",
+    "license": "Unknown"
+}

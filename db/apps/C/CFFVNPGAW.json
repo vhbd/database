@@ -1,0 +1,22 @@
+{
+    "title_id": "CFFVNPGAW",
+    "name": "GirlsAreWeird",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "10TR!LL!ON Percent%",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CFFVNPGAW_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CFFVNPGAW.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Port of a visual novel called Girls are Weird for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

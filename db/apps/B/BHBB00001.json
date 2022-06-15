@@ -1,0 +1,24 @@
+{
+    "title_id": "BHBB00001",
+    "name": "Homebrew Browser",
+    "updated_at": "2021-10-09",
+    "authors": [
+        {
+            "name": "Ibrahim778",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Ibrahim778\/BetterHomebrewBrowser\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Ibrahim778\/BetterHomebrewBrowser\/releases\/download\/V0.6B\/BetterHomebrewBrowser.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Ibrahim778\/BetterHomebrewBrowser"
+    ],
+    "type": "app",
+    "description": "Homebrew Browser and Downloader for PSVITA with background downloads support.",
+    "version": "v.0.61B",
+    "license": "Unknown"
+}

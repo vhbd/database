@@ -1,0 +1,20 @@
+{
+    "title_id": "VITATWEAK",
+    "name": "VitaTweakBox",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "benmitnick",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITATWEAK.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITATWEAK.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

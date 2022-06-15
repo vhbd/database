@@ -1,0 +1,21 @@
+{
+    "plugin_name": "ScoreHax",
+    "name": "ScoreHax",
+    "updated_at": "2020-06-06",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/KuromeSan\/ScoreHax\/releases\/download\/v1.0\/ScoreHax.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/ScoreHax.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/KuromeSan\/ScoreHax.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

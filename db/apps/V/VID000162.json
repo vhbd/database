@@ -1,0 +1,24 @@
+{
+    "title_id": "VID000162",
+    "name": "VITAident GUI",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/joel16\/VITAident\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VID000162_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/joel16\/VITAident\/releases\/download\/0.7.4\/VITAident_GUI.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VID000162.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/VITAident.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

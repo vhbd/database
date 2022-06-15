@@ -1,0 +1,34 @@
+{
+    "title_id": "XYZZ00002",
+    "name": "Moonlight",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "xyzz",
+            "type": "author"
+        },
+        {
+            "name": "d3m3vilurr",
+            "type": "author"
+        },
+        {
+            "name": "ShadowPrince",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/xyzz\/vita-moonlight\/vita\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/XYZZ00002_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/xyzz\/vita-moonlight\/releases\/download\/0.9.1\/moonlight.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/XYZZ00002.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/xyzz\/vita-moonlight.git"
+    ],
+    "type": "app",
+    "description": "Vita Moonlight allows you to stream your full collection of Steam games from your powerful Windows desktop to your PSVITA.",
+    "version": "v.0.9.1",
+    "license": "Unknown"
+}

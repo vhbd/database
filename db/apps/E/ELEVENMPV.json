@@ -1,0 +1,26 @@
+{
+    "title_id": "ELEVENMPV",
+    "name": "Eleven Music Player",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/joel16\/ElevenMPV\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ELEVENMPV_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/joel16\/ElevenMPV\/releases\/download\/v2.10\/ElevenMPV.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ELEVENMPV.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/ElevenMPV.git"
+    ],
+    "type": "app",
+    "description": "A homebrew music player for Playstation VITA that aims to support many different audio formats compared to the offical PS VITA music application.",
+    "version": "v.2.10",
+    "license": "Unknown"
+}

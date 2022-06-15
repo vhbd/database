@@ -1,0 +1,23 @@
+{
+    "title_id": "VHBB00002",
+    "name": "Wiki Vita Homebrew Browser",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VHBB00002.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/DevDavisNunez\/vhbb\/releases\/download\/0.831\/WIki.VitaHBBrowser.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VHBB00002.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/DevDavisNunez\/vhbb.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

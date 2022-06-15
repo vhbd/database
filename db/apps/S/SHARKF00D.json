@@ -1,0 +1,25 @@
+{
+    "title_id": "SHARKF00D",
+    "name": "ShaRKF00D",
+    "updated_at": "2020-07-17",
+    "authors": [
+        {
+            "name": "OsirizX",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/OsirizX\/ShaRKF00D\/master\/pkg\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/OsirizX\/ShaRKF00D\/releases\/download\/1.3\/ShaRKF00D.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SHARKF00D.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/OsirizX\/ShaRKF00D.git"
+    ],
+    "type": "app",
+    "description": "ShaRKF00D is an all in one extractor, decrypter, and installer for SceShaccCg module, required for homebrews to access runtime shader compiler.",
+    "version": "v.1.3",
+    "license": "Unknown"
+}

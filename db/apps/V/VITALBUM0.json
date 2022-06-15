@@ -1,0 +1,25 @@
+{
+    "title_id": "VITALBUM0",
+    "name": "VITAlbum",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/joel16\/VITAlbum\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/joel16\/VITAlbum\/releases\/download\/v1.40\/VITAlbum.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITALBUM0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/VITAlbum.git"
+    ],
+    "type": "app",
+    "description": "A simple homebrew file browser that is used for viewing various image formats on the PlayStation Vita.",
+    "version": "v.1.40",
+    "license": "Unknown"
+}

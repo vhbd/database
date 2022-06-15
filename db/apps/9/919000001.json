@@ -1,0 +1,22 @@
+{
+    "title_id": "919000001",
+    "name": "Switch to PSTV",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "xCorra",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/091900001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/091900001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/xCorra\/SwitchtoPSTV.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

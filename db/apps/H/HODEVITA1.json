@@ -1,0 +1,31 @@
+{
+    "title_id": "HODEVITA1",
+    "name": "hode",
+    "updated_at": "2020-11-29",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/usineur\/hode\/master\/3p\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/HODEVITA1_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/hode\/releases\/download\/0.2.9d\/hode.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HODEVITA1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/hode.git"
+    ],
+    "type": "game",
+    "description": "hode is a reimplementation of the engine used by the game Heart of Darkness developed by Amazing Studio.",
+    "version": "v.0.2.9",
+    "videos": [
+        {
+            "youtube_id": "-xCVQb34tos"
+        }
+    ],
+    "license": "Unknown"
+}

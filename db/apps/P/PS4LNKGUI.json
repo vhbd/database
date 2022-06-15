@@ -1,0 +1,25 @@
+{
+    "title_id": "PS4LNKGUI",
+    "name": "ps4linkcontrols-gui",
+    "updated_at": "2020-06-14",
+    "authors": [
+        {
+            "name": "keltar",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/keltar\/ps4linkcontrols-gui\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/keltar\/ps4linkcontrols-gui\/releases\/download\/0.1\/ps4linkcontrols-gui.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PS4LNKGUI.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/keltar\/ps4linkcontrols-gui.git"
+    ],
+    "type": "app",
+    "description": "Configurator GUI for ps4linkcontrols plugin.",
+    "version": "v.0.1",
+    "license": "Unknown"
+}

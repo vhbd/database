@@ -1,0 +1,20 @@
+{
+    "title_id": "TTFTP0001",
+    "name": "Two Touch FTP",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TTFTP0001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TTFTP0001.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

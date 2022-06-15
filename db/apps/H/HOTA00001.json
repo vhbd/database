@@ -1,0 +1,25 @@
+{
+    "title_id": "HOTA00001",
+    "name": "HOTA",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/HOTA00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/hota\/releases\/download\/vita-1.0\/HOTA.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HOTA00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/hota.git"
+    ],
+    "type": "game",
+    "description": "This is a Vita port of the reverse engine for Heart of the Alien, the sequel of Another World.\nIt's based on the reverse engine made originally by Gil Megidish.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

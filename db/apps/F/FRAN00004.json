@@ -1,0 +1,25 @@
+{
+    "title_id": "FRAN00004",
+    "name": "NeopopVITA",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "frangarcj",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FRAN00004_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/frangarcj\/NeopopVITA\/releases\/download\/0.71.15-Henkaku\/NeopopVITA.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FRAN00004.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/frangarcj\/NeopopVITA.git"
+    ],
+    "type": "emulator",
+    "description": "Neogeo Pocket Color emulator for PSVita.",
+    "version": "v.0.71.15",
+    "license": "Unknown"
+}

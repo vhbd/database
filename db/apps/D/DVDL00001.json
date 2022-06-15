@@ -1,0 +1,20 @@
+{
+    "title_id": "DVDL00001",
+    "name": "DVDLogo",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "caghandemir",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DVDL00001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DVDL00001.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

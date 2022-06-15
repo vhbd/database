@@ -1,0 +1,20 @@
+{
+    "title_id": "DLTR00000",
+    "name": "DELTARUNE: Chapter One",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "tijesef",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DLTR00000.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DLTR00000.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

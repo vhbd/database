@@ -1,0 +1,21 @@
+{
+    "plugin_name": "bmpshot",
+    "name": "bmpshot",
+    "updated_at": "2020-06-03",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Princess-of-Sleeping",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Princess-of-Sleeping\/bmpshot\/releases\/download\/1.3.1\/bmpshot.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/bmpshot.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Princess-of-Sleeping\/bmpshot.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

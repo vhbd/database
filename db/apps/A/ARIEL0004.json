@@ -1,0 +1,22 @@
+{
+    "title_id": "ARIEL0004",
+    "name": "VitaShell Theme Manager",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Ruben_Wolfe",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ARIEL0004_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ARIEL0004.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "VitaShell Theme Manager is a simple and user-friendly GUI to apply themes for TheFloW's VitaShell (version 0.85 and above).",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "title_id": "DUMP0900D",
+    "name": "Dump Partials",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "yifanlu",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/yifanlu\/psvimgtools\/releases\/download\/v0.1\/dump_partials.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DUMP0900D.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/yifanlu\/psvimgtools.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

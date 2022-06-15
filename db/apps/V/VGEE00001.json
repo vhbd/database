@@ -1,0 +1,30 @@
+{
+    "title_id": "VGEE00001",
+    "name": "RPPHS",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "G33",
+            "type": "author"
+        },
+        {
+            "name": "MotoLegacy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/G333333\/RPPHS\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VGEE00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/G333333\/RPPHS\/releases\/download\/v1.2\/RPPHS.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VGEE00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/G333333\/RPPHS.git"
+    ],
+    "type": "game",
+    "description": "Blast your way through those shapes in this Geometry Wars-inspired twin stick shooter for the PlayStation Vita! Enter your initials for the offline leaderboards, customize your crosshair, and mess with our super-cool settings menu.. or don't, that's entirely up to you.",
+    "version": "v.1.2",
+    "license": "Unknown"
+}

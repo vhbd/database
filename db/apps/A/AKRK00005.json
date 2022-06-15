@@ -1,0 +1,20 @@
+{
+    "title_id": "AKRK00005",
+    "name": "Sharpscale Config Menu",
+    "updated_at": "2021-02-24",
+    "authors": [
+        {
+            "name": "cuevavirus",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/AKRK00005.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/AKRK00005.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

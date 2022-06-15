@@ -1,0 +1,31 @@
+{
+    "title_id": "QUAK00003",
+    "name": "vitaQuakeIII",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/vitaQuakeIII\/master\/build_rally\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/QUAK00003_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=375",
+        "http:\/\/dl.coolatoms.org\/vitadb\/13\/vitaQuakeIII.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/QUAK00003.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/vitaQuakeIII.git"
+    ],
+    "type": "game",
+    "description": "ioquake3 port for PSVITA.\nioquake3 is an improved source port of idTech 3, the engine running Quake III: Arena.\nvitaQuakeIII actually supports Quake III: Arena, OpenArena and Quake III: Team Arena.",
+    "version": "v.1.0",
+    "videos": [
+        {
+            "youtube_id": "kOSydb-6IGg"
+        }
+    ],
+    "license": "Unknown"
+}

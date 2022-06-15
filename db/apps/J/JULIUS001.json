@@ -1,0 +1,35 @@
+{
+    "title_id": "JULIUS001",
+    "name": "julius",
+    "updated_at": "2020-06-04",
+    "authors": [
+        {
+            "name": "devnoname120",
+            "type": "author"
+        },
+        {
+            "name": "Julius Team",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/bvschaik\/julius\/master\/res\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/JULIUS001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/bvschaik\/julius\/releases\/download\/v1.7.0\/julius-1.7.0-vita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/JULIUS001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/bvschaik\/julius.git"
+    ],
+    "type": "game",
+    "description": "Caesar III is a video game that was released on September 30, 1998, developed by Impressions Games and published by Sierra On-Line. It is the third installment of the Caesar series of games and is part of Sierra's City Building Series. Players take on the role of a Roman governor, tasked with building up a grand Roman city, in which they must ensure their citizens have their needs met, that their city is safe and profitable, while meeting various goals set for them and dealing with various disasters, angry gods and hostile enemies.",
+    "version": "v.1.7.0",
+    "videos": [
+        {
+            "youtube_id": "ApNhrv8VPrw"
+        }
+    ],
+    "license": "Unknown"
+}

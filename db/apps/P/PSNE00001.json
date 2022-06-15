@@ -1,0 +1,30 @@
+{
+    "title_id": "PSNE00001",
+    "name": "psnes",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "cpasjuste",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Cpasjuste\/pemu\/master\/psnes\/data\/vita\/romfs\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PSNE00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSNE00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Cpasjuste\/pemu.git"
+    ],
+    "type": "emulator",
+    "description": "SNES emulator, multiplatform port of snes9x emulator.",
+    "version": "v.6.5",
+    "data": [
+        "https:\/\/github.com\/Cpasjuste\/pemu\/releases\/download\/v4.4\/pfba-4.4_vita.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/7ac650de_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

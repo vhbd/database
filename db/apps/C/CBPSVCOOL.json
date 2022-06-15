@@ -1,0 +1,23 @@
+{
+    "title_id": "CBPSVCOOL",
+    "name": "CoolBoardPlaysSounds",
+    "updated_at": "2020-05-03",
+    "authors": [
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/teakhanirons\/CoolBoardPlaysSounds\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/CoolBoardPlaysSounds\/releases\/download\/1.0\/CBPS.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CBPSVCOOL.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/teakhanirons\/CoolBoardPlaysSounds.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

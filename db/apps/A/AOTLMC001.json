@@ -1,0 +1,25 @@
+{
+    "title_id": "AOTLMC001",
+    "name": "Caterpillars",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Gremlin Software",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/softwaregremlin\/Attack-of-the-Lettuce-Munching-Caterpillars\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/AOTLMC001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/AOTLMC001.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/softwaregremlin\/Attack-of-the-Lettuce-Munching-Caterpillars.git"
+    ],
+    "type": "game",
+    "description": "Attack of the Lettuce Munching Caterpillars - Shoot 'em up \/ Beat 'em up style game where you must squash all the insects within a given time limit. All the characters are modelled in plasticine \"clay-mation\",  whilst the music and sound effects are in retro 8-bit style.  Several waves of enemies must be defeated, then a Boss Man is faced at the end of each level.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,27 @@
+{
+    "title_id": "CEX2REX20",
+    "name": "CEX 2 REX 2.0",
+    "updated_at": "2020-05-03",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "dots-tb",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/cex-2-rex\/raw\/master\/app\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/cex-2-rex\/downloads\/CEX2REX-2.0.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CEX2REX20.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/cex-2-rex.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

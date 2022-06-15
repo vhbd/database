@@ -1,0 +1,30 @@
+{
+    "title_id": "UAE4ALL00",
+    "name": "uae4all2",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "rsn8887",
+            "type": "author"
+        },
+        {
+            "name": "cpasjuste",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/rsn8887\/uae4all2\/master\/psp2data\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/UAE4ALL00_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/rsn8887\/uae4all2\/releases\/download\/2.00\/uae4all_2.00.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/UAE4ALL00.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/rsn8887\/uae4all2.git"
+    ],
+    "type": "emulator",
+    "description": "UAE4ALL is an Amiga 500\/1200 emulator for the PSVita. To play, you have to supply your own kickstart bios files, and put them in the \"ux0:\/data\/uae4all\/kickstarts\" directory. Files must be named kick13.rom, kick20.rom, and kick31.rom.",
+    "version": "v.2.00",
+    "license": "Unknown"
+}

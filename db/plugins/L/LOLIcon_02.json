@@ -1,0 +1,21 @@
+{
+    "plugin_name": "LOLIcon_02",
+    "name": "DerInClocKS",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/DerInClocKS\/releases\/download\/1.0\/derinclocks.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/LOLIcon_02.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/teakhanirons\/DerInClocKS.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

@@ -1,0 +1,28 @@
+{
+    "title_id": "VITAFBA01",
+    "name": "pfba",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "cpasjuste",
+            "type": "author"
+        },
+        {
+            "name": "rsn8887",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITAFBA01_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITAFBA01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/cpasjuste\/pfba.git"
+    ],
+    "type": "emulator",
+    "description": "PFBA is an arcade emulator supporting the following platforms: Capcom CPS-1, Capcom CPS-2, Capcom CPS-3, Cave, Data East DEC-0, DEC-8 and DECO IC16 based games, Galaxian based hardware, Irem M62, M63, M72, M90, M92 and M107 hardware, Kaneko 16, Konami, Neo-Geo, NMK16, Pacman based hardware, PGM, Psikyo 68EC020 and SH-2 based hardware, Sega System 1, System 16 (and similar), System 18, X-Board and Y-Board, Super Kaneko Nova System, Toaplan 1, Toaplan 2, Taito F2, X, Z and others, Miscellaneous drivers for lots of other hardware\n\nFB Alpha also has WIP console drivers for Sega Megadrive\/Genesis, ColecoVision, Sega SG-1000, Sega Master System\/Game Gear and also PC-Engine\/TurboGrafx 16\/SuperGrafx.",
+    "version": "v.1.57",
+    "license": "Unknown"
+}

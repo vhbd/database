@@ -1,0 +1,24 @@
+{
+    "title_id": "NXEV00001",
+    "name": "NXENGINE-EVO",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "sarcasticat",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/nxengine\/nxengine-evo\/master\/platform\/vita\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/NXEV00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/nxengine\/nxengine-evo\/releases\/download\/v2.6.5\/NXEngine-Evo-v2.6.5-Vita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NXEV00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/nxengine\/nxengine-evo.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

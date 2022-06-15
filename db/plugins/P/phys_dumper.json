@@ -1,0 +1,21 @@
+{
+    "plugin_name": "phys_dumper",
+    "name": "physmem_dumper",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "xyzz",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-RE-tools\/raw\/master\/physmem-dumper\/build\/physmem_dumper.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/phys_dumper.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-RE-tools.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

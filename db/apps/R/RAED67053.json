@@ -1,0 +1,22 @@
+{
+    "title_id": "RAED67053",
+    "name": "Cubik adventure",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "LuckTheGamers",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/RAED67053_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/RAED67053.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Cubik Adventure is a 2.5D platforming game in which you control a cube and have to face various challenges.",
+    "version": "Demo v.2",
+    "license": "Unknown"
+}

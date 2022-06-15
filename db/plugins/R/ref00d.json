@@ -1,0 +1,21 @@
+{
+    "plugin_name": "ref00d",
+    "name": "reF00D",
+    "updated_at": "2021-04-30",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "dots-tb",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/dots-tb\/reF00D\/releases\/download\/1.1.1\/reF00D.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/ref00d.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/dots-tb\/reF00D.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

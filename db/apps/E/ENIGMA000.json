@@ -1,0 +1,31 @@
+{
+    "title_id": "ENIGMA000",
+    "name": "enigma",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "rsn8887",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/rsn8887\/Enigma\/master\/psp2data\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ENIGMA000_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/rsn8887\/Enigma\/releases\/download\/1.16\/enigma_1.11.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ENIGMA000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/rsn8887\/Enigma.git"
+    ],
+    "type": "game",
+    "description": "Vita port of Enigma, a skill\/puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga.",
+    "version": "v.1.11",
+    "data": [
+        "https:\/\/github.com\/rsn8887\/Enigma\/releases\/download\/1.16\/data.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/29672496_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

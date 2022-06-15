@@ -1,0 +1,23 @@
+{
+    "title_id": "EASYDS3BT",
+    "name": "Easy DS3",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/EASYDS3BT.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/DavisDev\/Easy-Ds3\/releases\/download\/1.01\/Easy-Ds3.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/EASYDS3BT.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/DavisDev\/Easy-Ds3.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

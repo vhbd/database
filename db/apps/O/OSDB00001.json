@@ -1,0 +1,22 @@
+{
+    "title_id": "OSDB00001",
+    "name": "GM:S",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "InquisitionImplied",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/OSDB00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/OSDB00001.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "OpenSeason(notTM) the deckbuilder, now without shotguns in the starter set.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "NLTK00001",
+    "name": "VITAPluginsManager",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "NeoLTK",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/NeoLTK\/VITAPluginsManager\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/NLTK00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/NeoLTK\/VITAPluginsManager\/releases\/download\/0.6\/VITAPluginsManager.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NLTK00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/NeoLTK\/VITAPluginsManager.git"
+    ],
+    "type": "app",
+    "description": "Plugins manager for PSVITA for Vitamin game dumps.",
+    "version": "v.0.6",
+    "license": "Unknown"
+}

@@ -1,0 +1,22 @@
+{
+    "title_id": "BTMR12345",
+    "name": "Beat Master",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "LuckTheGamers",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BTMR12345_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BTMR12345.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Beat Master is a Tetris where you should get the highest score possible while listening to really cool songs.",
+    "version": "v.1",
+    "license": "Unknown"
+}

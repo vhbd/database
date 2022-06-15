@@ -1,0 +1,25 @@
+{
+    "title_id": "BBFF12345",
+    "name": "Kill'em All",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "RetroGamer74",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BBFF12345_icon0.png"
+    ],
+    "downloads": [
+        "http:\/\/dl.coolatoms.org\/kill_em_all.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BBFF12345.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/RetroGamer74\/Kill-em-All-PSVita.git"
+    ],
+    "type": "game",
+    "description": "Hi everyone this is the story of a man who is alone .... and ..... well you have to kill them all.\nTo do this you will have to get experience, gold, and so on. Basically win each mission. If you do this you will get money to purchase new weapons and to improve your weapons to get access to new missions. If you don't have enough money to make the improvements then you will have to play the farming levels. Those levels are intended to get money. You can play them as many wants you need, while the History levels can be played just once.",
+    "version": "v.0.92",
+    "license": "Unknown"
+}

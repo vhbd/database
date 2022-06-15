@@ -1,0 +1,26 @@
+{
+    "title_id": "XERP00003",
+    "name": "realboy",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "xerpi",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/xerpi\/realboy-vita\/master\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/XERP00003_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/xerpi\/realboy-vita\/releases\/download\/1.2\/realboy.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/XERP00003.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/xerpi\/realboy-vita.git"
+    ],
+    "type": "emulator",
+    "description": "RealBoy is a Free, Fast and Accurate, Game Boy\/Game Boy Color\/Super Game Boy Emulator.",
+    "version": "v.1.2",
+    "license": "Unknown"
+}

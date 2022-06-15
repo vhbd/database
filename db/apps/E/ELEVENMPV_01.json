@@ -1,0 +1,27 @@
+{
+    "title_id": "ELEVENMPV",
+    "name": "Eleven Music Player A",
+    "updated_at": "2021-01-10",
+    "authors": [
+        {
+            "name": "GrapheneCt",
+            "type": "author"
+        },
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/GrapheneCt\/ElevenMPV-A\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/GrapheneCt\/ElevenMPV-A\/releases\/download\/v6.02\/ElevenMPV-A.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ELEVENMPV_01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/GrapheneCt\/ElevenMPV-A.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

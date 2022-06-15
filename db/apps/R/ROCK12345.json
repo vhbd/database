@@ -1,0 +1,27 @@
+{
+    "title_id": "ROCK12345",
+    "name": "RCVita",
+    "updated_at": "2021-10-19",
+    "authors": [
+        {
+            "name": "Vita Dev2",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/icon0\/RCVita%20Alpha%20%203\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/RCVita%20Alpha%20%203.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Rocket Cars vita is a Rocket League clone for the PS Vita with Arcade and Online modes.",
+    "version": "Alpha 3",
+    "videos": [
+        {
+            "youtube_id": "QbDM2K4JiWU"
+        }
+    ],
+    "license": "Unknown"
+}

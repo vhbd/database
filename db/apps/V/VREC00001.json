@@ -1,0 +1,22 @@
+{
+    "title_id": "VREC00001",
+    "name": "Voice Recorder",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "VitaHEX games",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VREC00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VREC00001.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "Voice Recorder Vita is a simple sound recording app that was missing from the Vita.\nYou can record for up to 30 seconds and your recordings are saved in ux0:\/data\/Recordings\/ in .wav format.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

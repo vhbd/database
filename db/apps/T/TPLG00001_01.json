@@ -1,0 +1,28 @@
+{
+    "title_id": "TPLG00001",
+    "name": "TrackPlug",
+    "updated_at": "2020-09-26",
+    "authors": [
+        {
+            "name": "FMudanyali",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/FMudanyali\/BetterTrackPlug\/master\/app\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/FMudanyali\/bettertrackplug\/uploads\/2c804c27c232915952e551638a0240ab\/BetterTrackPlug.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TPLG00001_01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/FMudanyali\/BetterTrackPlug.git"
+    ],
+    "type": "app",
+    "data": [
+        "https:\/\/gitlab.com\/FMudanyali\/bettertrackplug\/uploads\/4db77d8582996fa92f8c748b2268242b\/BetterTrackPlug.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/BetterTrackPlug.skprx"
+    ],
+    "data_path": "*KERNEL",
+    "license": "Unknown"
+}

@@ -1,0 +1,25 @@
+{
+    "title_id": "BERM00001",
+    "name": "bermuda-vita",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BERM00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/bermuda\/releases\/download\/1.4\/bermuda-vita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BERM00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/bermuda.git"
+    ],
+    "type": "game",
+    "description": "This is a Vita port of the game Bermuda Syndrome, using the reverse engine made by Gregory Montoir. To play, you will need the files from the original game. Further instructions can be found at https:\/\/github.com\/usineur\/bermuda\/releases\/latest",
+    "version": "v.1.4",
+    "license": "Unknown"
+}

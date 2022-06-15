@@ -1,0 +1,25 @@
+{
+    "title_id": "FREEWAY00",
+    "name": "FREEWAY MUTANT",
+    "updated_at": "2020-08-27",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "Butterscotch Shenanigans",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FREEWAY00_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/gm-shb\/raw\/master\/FreewayMutant\/FreeWayMutant.VPK",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FREEWAY00.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

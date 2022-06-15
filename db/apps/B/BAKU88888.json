@@ -1,0 +1,27 @@
+{
+    "title_id": "BAKU88888",
+    "name": "MyBakkuPakku",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "LazyOx199",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BAKU88888_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BAKU88888.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "My Bakku Pakku is a Platform\/Puzzle-action game which has two type of control mechanics.\nOnko is the main character, while his backpack is empty he controls like Super Mario 3D and when its full he rolls like Katamari.",
+    "version": "v.2.5",
+    "videos": [
+        {
+            "youtube_id": "WcDRxCin39Y"
+        }
+    ],
+    "license": "Unknown"
+}

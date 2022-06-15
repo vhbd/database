@@ -1,0 +1,25 @@
+{
+    "title_id": "PEND00000",
+    "name": "AccountSwitcher",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "pendor",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PEND00000_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/elpendor\/accountswitcher\/releases\/download\/v2.4\/AccountSwitcher.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PEND00000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/elpendor\/accountswitcher.git"
+    ],
+    "type": "app",
+    "description": "App to swap PSN accounts on a single SD card. It's pretty useful if you have content from multiple accounts on your card, as you can switch seamlessly between those.",
+    "version": "v.2.4",
+    "license": "Unknown"
+}

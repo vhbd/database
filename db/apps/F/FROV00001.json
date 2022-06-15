@@ -1,0 +1,22 @@
+{
+    "title_id": "FROV00001",
+    "name": "GM:S",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "FrozenNoober",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FROV00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FROV00001.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A sandbox platform game where you create your own levels and then play them made with GameMaker.",
+    "version": "v.0.2",
+    "license": "Unknown"
+}

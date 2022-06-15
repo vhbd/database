@@ -1,0 +1,25 @@
+{
+    "title_id": "ESVPK0009",
+    "name": "EasyVPK",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "Electric1447",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Electric1447\/EasyVPK\/v1.0.0\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Electric1447\/EasyVPK\/releases\/download\/v2.1.0\/easyvpk.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ESVPK0009.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Electric1447\/EasyVPK.git"
+    ],
+    "type": "app",
+    "description": "A lightweighted homebrew downloader that uses VitaDB as source.",
+    "version": "v.2.1.0",
+    "license": "Unknown"
+}

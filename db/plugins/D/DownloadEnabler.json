@@ -1,0 +1,21 @@
+{
+    "plugin_name": "DownloadEnabler",
+    "name": "DownloadEnabler",
+    "updated_at": "2020-06-06",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "TheFloW",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/TheOfficialFloW\/VitaTweaks\/releases\/download\/DownloadEnabler\/download_enabler.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/DownloadEnabler.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/TheOfficialFloW\/VitaTweaks.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

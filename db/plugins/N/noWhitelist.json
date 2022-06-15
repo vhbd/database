@@ -1,0 +1,21 @@
+{
+    "plugin_name": "noWhitelist",
+    "name": "nopsmwhitelist",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/nopsmwhitelist\/downloads\/noPsmWhitelist.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/noWhitelist.skprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/nopsmwhitelist\/downloads\/noPsmWhitelist.skprx"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

@@ -1,0 +1,24 @@
+{
+    "title_id": "RAND00001",
+    "name": "Random Hentai",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "SonicMastr",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SonicMastr\/Random-Hentai\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/RAND00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SonicMastr\/Random-Hentai\/releases\/download\/2.1\/Random_Hentai.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/RAND00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SonicMastr\/Random-Hentai.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

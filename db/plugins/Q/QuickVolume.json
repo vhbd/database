@@ -1,0 +1,21 @@
+{
+    "plugin_name": "QuickVolume",
+    "name": "quick_volume",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "cuevavirus",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/forum.devchroma.nl\/index.php?action=dlattach,topic=66.0,attach=56",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/QuickVolume.suprx"
+    ],
+    "repos": [
+        "https:\/\/git.shotatoshounenwachigau.moe\/vita\/quickvolume"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

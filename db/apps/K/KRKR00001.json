@@ -1,0 +1,23 @@
+{
+    "title_id": "KRKR00001",
+    "name": "Kirikiri for Playstation Vita",
+    "updated_at": "2020-08-17",
+    "authors": [
+        {
+            "name": "uyjulian",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/uyjulian\/krkrv\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/uyjulian\/krkrv\/releases\/download\/v1.0.3\/krkrv-v1.0.3.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/KRKR00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/uyjulian\/krkrv.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

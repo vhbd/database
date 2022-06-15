@@ -1,0 +1,25 @@
+{
+    "title_id": "TEAR00001",
+    "name": "Shiromino",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Tear",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Tearff\/shiromino\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TEAR00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TEAR00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Tearff\/shiromino.git"
+    ],
+    "type": "game",
+    "description": "A diverse and challenging puzzle\/action game with stylistic roots in the arcade.",
+    "version": "pre-v2",
+    "license": "Unknown"
+}

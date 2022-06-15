@@ -1,0 +1,21 @@
+{
+    "title_id": "MLCL00005",
+    "name": "usbmc",
+    "updated_at": "2020-06-22",
+    "authors": [
+        {
+            "name": "yifanlu",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/yifanlu\/usbmc\/releases\/download\/v6\/usbmc_installer.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MLCL00005.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/yifanlu\/usbmc.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

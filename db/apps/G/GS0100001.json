@@ -1,0 +1,25 @@
+{
+    "title_id": "GS0100001",
+    "name": "Moon Whitelister",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "gnmmarechal",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/GS0100001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/gnmmarechal\/moon-whitelister\/releases\/download\/v1.0c\/MoonWhitelisterv1.0c.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/GS0100001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/gnmmarechal\/moon-whitelister.git"
+    ],
+    "type": "app",
+    "description": "Whitelister homebrew for PSTV using v1 patch. Written in Lua, runs on Lua Player Plus R4.",
+    "version": "v.1.0c",
+    "license": "Unknown"
+}

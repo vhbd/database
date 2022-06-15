@@ -1,0 +1,21 @@
+{
+    "title_id": "ROACTDATF",
+    "name": "RoActDat",
+    "updated_at": "2020-06-15",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/roactdat\/downloads\/RoActDat.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ROACTDATF.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/roactdat.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

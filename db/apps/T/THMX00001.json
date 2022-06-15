@@ -1,0 +1,26 @@
+{
+    "title_id": "THMX00001",
+    "name": "Theme Manager Ex",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "kylon",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/kylon\/theme-manager-ex-theme-engine\/raw\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/THMX00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/kylon\/theme-manager-ex-theme-engine\/downloads\/vtheme.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/THMX00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/kylon\/theme-manager-ex-theme-engine"
+    ],
+    "type": "app",
+    "description": "Theme Manager Ex is an advanced theme manger for PS Vita that introduces a new type of custom themes: extended themes.",
+    "version": "v.2.1",
+    "license": "Unknown"
+}

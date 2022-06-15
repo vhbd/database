@@ -1,0 +1,21 @@
+{
+    "plugin_name": "qaSpoof",
+    "name": "Qa Flag Spoof",
+    "updated_at": "2020-06-15",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/qaspoofer\/downloads\/qaSpoof.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/qaSpoof.skprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/qaspoofer.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

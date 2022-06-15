@@ -1,0 +1,27 @@
+{
+    "title_id": "VFRS12346",
+    "name": "VitaFighters",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "AngryDevs",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VFRS12346_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VFRS12346.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A fighting game with block-like graphics made with Unity.",
+    "version": "v.0.94",
+    "videos": [
+        {
+            "youtube_id": "QUrVLQetXQw"
+        }
+    ],
+    "license": "Unknown"
+}

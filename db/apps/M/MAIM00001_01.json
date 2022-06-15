@@ -1,0 +1,23 @@
+{
+    "title_id": "MAIM00001",
+    "name": "MaiDumpTool",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "BeniYukiMai",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MAIM00001_01_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/BeniYukiMai\/MaiDumpTool\/releases\/download\/V233.2zEx\/MaiDumpTool_V233.2zEx.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MAIM00001_01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/BeniYukiMai\/MaiDumpTool.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

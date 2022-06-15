@@ -1,0 +1,23 @@
+{
+    "title_id": "HOLOCENE0",
+    "name": "HOLOCENE",
+    "updated_at": "2020-05-03",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/holocenesync\/raw\/master\/app\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/holocenesync\/downloads\/HOLOCENE.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HOLOCENE0.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/holocenesync.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "MEMCRDSWP",
+    "name": "memcardswap",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "NamelessGhoul0",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SMOKE5\/memcardswap\/master\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MEMCRDSWP_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SMOKE5\/memcardswap\/releases\/download\/v1.2\/memcardswap.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MEMCRDSWP.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SMOKE5\/memcardswap.git"
+    ],
+    "type": "app",
+    "description": "memcardswap just deletes ux0:\/id.dat from the memory stick and replaces it with an empty one. This tricks the PS Vita into believing the memory card is new and therefore does not need to be formatted. Next time the card is inserted in a Vita, id.dat will be re-generated for the current account, without formatting anything.",
+    "version": "v.1.2",
+    "license": "Unknown"
+}

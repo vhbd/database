@@ -1,0 +1,22 @@
+{
+    "title_id": "CSDLICIUS",
+    "name": "Cook Serve Delicious!",
+    "updated_at": "2021-10-10",
+    "authors": [
+        {
+            "name": "TheNewFlisker",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/icon0\/Cook%20Serve%20Delicious\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/CSDLICIUS.VPK"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Cook, Serve, Delicious is a hardcore restaurant sim, one of the few in its genre that gives the players total control over where they want to take their restaurant.\nThe game centers on an old, worn down restaurant in the SherriSoda Tower, which was once the heart of the building but closed down as business (and tenants) dropped to an all time low. But with the local economy rising back up and occupancy reaching its maximum, SherriSoda Tower has decided to bring back the old Cook, Serve, Delicious restaurant, and has given you complete control to bring it back to its old five star status of world class dining.\nInstructions on how to patch and install the game provided in the release page (Github).",
+    "version": "v.1.0.0",
+    "license": "Unknown"
+}

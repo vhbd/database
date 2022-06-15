@@ -1,0 +1,22 @@
+{
+    "title_id": "DOOM12345",
+    "name": "DooM",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "gambikules",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DOOM12345_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DOOM12345.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A first person shooter heavily inspired to DooM intellectual property made with Unity.",
+    "version": "v.1.0.1",
+    "license": "Unknown"
+}

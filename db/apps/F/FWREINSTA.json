@@ -1,0 +1,27 @@
+{
+    "title_id": "FWREINSTA",
+    "name": "Firmware Reinstall",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "CelesteBlue",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/firmware-reinstall\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/firmware-reinstall\/downloads\/FWReinstaller.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FWREINSTA.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/firmware-reinstall.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,29 @@
+{
+    "plugin_name": "repatch",
+    "name": "rePatch-reDux0",
+    "updated_at": "2020-06-03",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "dots-tb",
+            "type": "author"
+        },
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "CelesteBlue",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/dots-tb\/rePatch-reDux0\/releases\/download\/3.0\/repatch.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/repatch.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/dots-tb\/rePatch-reDux0.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

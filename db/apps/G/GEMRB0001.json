@@ -1,0 +1,25 @@
+{
+    "title_id": "GEMRB0001",
+    "name": "GemRB",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "Northfear",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Northfear\/gemrb-vita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Northfear\/gemrb-vita\/releases\/download\/v0.8.8-vita.7\/gemrb.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/GEMRB0001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Northfear\/gemrb-vita.git"
+    ],
+    "type": "game",
+    "description": "GemRB is a portable open-source implementation of Bioware\u2019s 8 Infinity Engine versions allowing to run the Baldur\u2019s Gate, Icewind Dale and Planescape: Torment games, their expansions and mods.",
+    "version": "v.0.8.8-vita.7",
+    "license": "Unknown"
+}

@@ -1,0 +1,22 @@
+{
+    "title_id": "PAUL00004",
+    "name": "Echo Moth",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Paulo",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PAUL00004_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PAUL00004.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Port of Echo Moth for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

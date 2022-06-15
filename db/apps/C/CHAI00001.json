@@ -1,0 +1,26 @@
+{
+    "title_id": "CHAI00001",
+    "name": "chain",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "svennd",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/svennd\/vita-chain\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CHAI00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/svennd\/vita-chain\/releases\/download\/0.2\/chain.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CHAI00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/svennd\/vita-chain.git"
+    ],
+    "type": "game",
+    "description": "A chain reaction game for PSVITA\/PSTV wrote in Lua.",
+    "version": "v.0.2",
+    "license": "Unknown"
+}

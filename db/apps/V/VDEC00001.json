@@ -1,0 +1,25 @@
+{
+    "title_id": "VDEC00001",
+    "name": "French American Games Decrypter",
+    "updated_at": "2020-06-17",
+    "authors": [
+        {
+            "name": "CelesteBlue",
+            "type": "author"
+        },
+        {
+            "name": "dots-tb",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/raw.githubusercontent.com\/CelesteBlue-dev\/PSVita-RE-tools\/master\/FAGDec\/build\/FAGDec.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VDEC00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-RE-tools.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

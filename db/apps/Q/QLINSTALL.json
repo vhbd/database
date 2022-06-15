@@ -1,0 +1,23 @@
+{
+    "title_id": "QLINSTALL",
+    "name": "QuickLaunch Installer",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "1upus",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/1upus\/QuickLaunch_installer_for_PSVita\/master\/qlinstaller\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/1upus\/QuickLaunch_installer_for_PSVita\/releases\/download\/0.51\/QuickLaunch_installer_for_PSVita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/QLINSTALL.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/1upus\/QuickLaunch_installer_for_PSVita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

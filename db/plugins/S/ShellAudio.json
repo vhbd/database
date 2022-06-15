@@ -1,0 +1,21 @@
+{
+    "plugin_name": "ShellAudio",
+    "name": "libShellAudio",
+    "updated_at": "2020-08-27",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "GrapheneCt",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/GrapheneCt\/libShellAudio\/releases\/download\/v1.2\/libShellAudio.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/ShellAudio.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/GrapheneCt\/libShellAudio.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

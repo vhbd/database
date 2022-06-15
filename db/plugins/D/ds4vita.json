@@ -1,0 +1,23 @@
+{
+    "plugin_name": "ds4vita",
+    "name": "ds4vita",
+    "updated_at": "2020-06-03",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "xerpi",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/xerpi\/ds4vita\/releases\/download\/hooks\/ds4vita.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/ds4vita.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/xerpi\/ds4vita.git"
+    ],
+    "description": "Plugin that allows you to play with your PSVITA using a DualShock 4 as controller.",
+    "version": "v.1.2",
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

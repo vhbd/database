@@ -1,0 +1,21 @@
+{
+    "plugin_name": "vmass",
+    "name": "vmass",
+    "updated_at": "2021-04-30",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Princess-of-Sleeping",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Princess-of-Sleeping\/vmass\/releases\/download\/v1.40\/vmass.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/vmass.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Princess-of-Sleeping\/vmass.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

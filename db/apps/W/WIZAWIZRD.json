@@ -1,0 +1,26 @@
+{
+    "title_id": "WIZAWIZRD",
+    "name": "Wizard Wizard",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Crateboy",
+            "type": "author"
+        },
+        {
+            "name": "JeffRuLz345",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/WIZAWIZRD_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/WIZAWIZRD.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Wizard Wizard is an indie platforming game in which you have to save the princess.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "plugin_name": "EmergencyMount",
+    "name": "EmergencyMount",
+    "updated_at": "2020-06-07",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/EmergencyMount\/releases\/download\/1.0\/EmergencyMount.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/EmergencyMount.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/teakhanirons\/EmergencyMount.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

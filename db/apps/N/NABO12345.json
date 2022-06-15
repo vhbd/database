@@ -1,0 +1,22 @@
+{
+    "title_id": "NABO12345",
+    "name": "Naruto Boruto",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "gambikules",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/NABO12345_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NABO12345.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A 3D fighting game made with Unity with Naruto anime series characters.",
+    "version": "v.2",
+    "license": "Unknown"
+}

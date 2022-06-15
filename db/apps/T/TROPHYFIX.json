@@ -1,0 +1,23 @@
+{
+    "title_id": "TROPHYFIX",
+    "name": "Trophies Fixer",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Yoti",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TROPHYFIX.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Yoti\/psv_trophfix\/releases\/download\/v1.1\/trophies_fixer.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TROPHYFIX.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Yoti\/psv_trophfix.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

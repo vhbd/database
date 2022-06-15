@@ -1,0 +1,31 @@
+{
+    "title_id": "ANGU00001",
+    "name": "OpenTTD",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "angguss",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/angguss\/OpenTTD\/master\/media\/openttd.128.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ANGU00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/angguss\/OpenTTD\/releases\/download\/0.3-vita\/openttd.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ANGU00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/angguss\/OpenTTD.git"
+    ],
+    "type": "game",
+    "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe. Please note the game takes ~60 seconds to load.",
+    "version": "v.0.3",
+    "data": [
+        "https:\/\/github.com\/angguss\/OpenTTD\/releases\/download\/0.3-vita\/data.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/3e8db578_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

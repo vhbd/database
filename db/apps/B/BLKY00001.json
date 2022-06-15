@@ -1,0 +1,23 @@
+{
+    "title_id": "BLKY00001",
+    "name": "RocketTanks",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Spartanfox",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BLKY00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/www.dropbox.com\/s\/1pwu1vpwbobkdnx\/RocketTank.vpk?dl=1",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BLKY00001.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A topside view fighter game featuring tanks.",
+    "version": "v.0.4",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "plugin_name": "batteryPercent",
+    "name": "VITABattery",
+    "updated_at": "2020-06-07",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/joel16\/VITABattery\/releases\/download\/1.4\/batteryPercent.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/batteryPercent.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/VITABattery.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

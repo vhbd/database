@@ -1,0 +1,22 @@
+{
+    "title_id": "TPLG00001",
+    "name": "TrackPlug",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TPLG00001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TPLG00001.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/TrackPlug.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

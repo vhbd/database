@@ -1,0 +1,22 @@
+{
+    "title_id": "ARIEL0002",
+    "name": "Game of life",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Ruben_Wolfe",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ARIEL0002_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ARIEL0002.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Conway's Game of Life for PSVITA.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

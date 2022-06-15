@@ -1,0 +1,23 @@
+{
+    "title_id": "MPSVSECR0",
+    "name": "MyPSVITASecret",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MPSVSECR0.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/MyPSVITASecret\/releases\/download\/1.0\/MyPSVITASecret.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MPSVSECR0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/MyPSVITASecret.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

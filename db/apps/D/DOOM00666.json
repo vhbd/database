@@ -1,0 +1,30 @@
+{
+    "title_id": "DOOM00666",
+    "name": "Vita Doom",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "MrNetrix",
+            "type": "author"
+        },
+        {
+            "name": "aagallag",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/aagallag\/Vita_Doom\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DOOM00666_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/aagallag\/Vita_Doom\/releases\/download\/aagallag_v1.1\/Vita_Doom.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DOOM00666.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/aagallag\/Vita_Doom.git"
+    ],
+    "type": "game",
+    "description": "Doom 1\/Doom 2 port for PSVITA based on DoomPSP.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

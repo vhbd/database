@@ -1,0 +1,23 @@
+{
+    "title_id": "WOTY00001",
+    "name": "Wheel of the Year",
+    "updated_at": "2020-07-24",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/KuromeSan\/WheelOfTheYearGM\/master\/vita_assets\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/KuromeSan\/WheelOfTheYearGM\/releases\/download\/v1.1\/WOTY.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/WOTY00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/KuromeSan\/WheelOfTheYearGM.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,20 @@
+{
+    "title_id": "ABCD12345",
+    "name": "The Enchanted Forest",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "RetroGamer74",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ABCD12345_05_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABCD12345_05.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

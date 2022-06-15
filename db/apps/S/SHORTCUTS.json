@@ -1,0 +1,23 @@
+{
+    "title_id": "SHORTCUTS",
+    "name": "ShortCuts Enhancer",
+    "updated_at": "2020-05-27",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ONElua\/Shortcuts-Enhancer\/master\/SHORTCUTS\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ONElua\/Shortcuts-Enhancer\/releases\/download\/2.00\/Shortcuts-Enhancer.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SHORTCUTS.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ONElua\/Shortcuts-Enhancer.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

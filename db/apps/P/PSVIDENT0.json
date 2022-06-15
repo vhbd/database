@@ -1,0 +1,24 @@
+{
+    "title_id": "PSVIDENT0",
+    "name": "PSVident",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Freakler",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PSVIDENT0_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSVIDENT0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Freakler\/vita-PSVident.git"
+    ],
+    "type": "app",
+    "description": "Tool that bring all your Vita\/PSTV info in to one place. App has a very nostalgic design for first PSP users, interface is looking very similar to well known PSPident application for PSP.",
+    "version": "v.0.32",
+    "license": "Unknown"
+}

@@ -1,0 +1,20 @@
+{
+    "title_id": "BITCOIN00",
+    "name": "Bitcoin BY xXx_KevBigBoss98_xXx",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "xXx_KevBigBoss98_xXx",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BITCOIN00.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BITCOIN00.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

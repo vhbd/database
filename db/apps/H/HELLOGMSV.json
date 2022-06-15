@@ -1,0 +1,23 @@
+{
+    "title_id": "HELLOGMSV",
+    "name": "HELLO WORLD",
+    "updated_at": "2020-08-27",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/HELLOGMSV_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/gm-shb\/raw\/master\/HelloWorld\/HELLO%20WORLD.VPK",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HELLOGMSV.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/gm-shb.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

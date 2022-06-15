@@ -1,0 +1,20 @@
+{
+    "title_id": "CBPSDIR00",
+    "name": "CBPS DIRECT STORE",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CBPSDIR00.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CBPSDIR00.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

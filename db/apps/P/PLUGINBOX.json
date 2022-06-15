@@ -1,0 +1,24 @@
+{
+    "title_id": "PLUGINBOX",
+    "name": "Plugin Box",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/DavisDev\/PluginBox\/master\/src\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PLUGINBOX.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/DavisDev\/PluginBox\/releases\/download\/0.20\/PluginBox.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PLUGINBOX.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/DavisDev\/PluginBox.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

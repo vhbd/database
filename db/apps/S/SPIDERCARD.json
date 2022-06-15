@@ -1,0 +1,20 @@
+{
+    "title_id": "SPIDERCAR",
+    "name": "SpiderVita",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "leestorm",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SPIDERCARD.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SPIDERCARD.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

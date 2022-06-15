@@ -1,0 +1,23 @@
+{
+    "title_id": "CRASHDUMP",
+    "name": "Crash Dump Delete",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Princess of Sleeping",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/Princess-of-Sleeping\/Crash-Dump-Delete\/releases\/download\/v1.1\/Crash-Dump-Delete.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CRASHDUMP.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Princess-of-Sleeping\/Crash-Dump-Delete.git"
+    ],
+    "type": "app",
+    "description": "Simple application that deletes all crashdump files generated when an application crashes.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

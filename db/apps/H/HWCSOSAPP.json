@@ -1,0 +1,20 @@
+{
+    "title_id": "HWCSOSAPP",
+    "name": "S.O.S.",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "HWNJ\/ChelseaFantasy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/HWCSOSAPP.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HWCSOSAPP.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

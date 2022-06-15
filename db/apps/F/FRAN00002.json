@@ -1,0 +1,26 @@
+{
+    "title_id": "FRAN00002",
+    "name": "HandyVITA",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "frangarcj",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/frangarcj\/HandyVITA\/master\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FRAN00002_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/frangarcj\/HandyVITA\/releases\/download\/1.4-Henkaku\/HandyVITA.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FRAN00002.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/frangarcj\/HandyVITA.git"
+    ],
+    "type": "emulator",
+    "description": "The first Atari Linx emulator for the PSVita.\nBased on Libretro Handy core.",
+    "version": "v.1.4",
+    "license": "Unknown"
+}

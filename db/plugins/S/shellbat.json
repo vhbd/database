@@ -1,0 +1,21 @@
+{
+    "plugin_name": "shellbat",
+    "name": "vita-shellbat",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "nowrep",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/nowrep\/vita-shellbat\/releases\/download\/r10\/shellbat.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/shellbat.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/nowrep\/vita-shellbat.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

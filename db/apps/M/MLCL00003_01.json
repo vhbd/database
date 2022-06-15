@@ -1,0 +1,24 @@
+{
+    "title_id": "MLCL00003",
+    "name": "ens\u014d",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Team Molecule",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/henkaku\/enso\/master\/installer\/res\/icon.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MLCL00003_01_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/henkaku\/enso\/releases\/download\/v1.1\/enso.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MLCL00003_01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/henkaku\/enso.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,23 @@
+{
+    "title_id": "ADRLANCHR",
+    "name": "Adrenaline Launcher",
+    "updated_at": "2020-10-27",
+    "authors": [
+        {
+            "name": "cy33hc",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/cy33hc\/vita-launcher\/master\/adr_launcher\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/cy33hc\/vita-launcher\/releases\/download\/latest\/AdrenalineLauncher.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ADRLANCHR.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/cy33hc\/vita-launcher.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

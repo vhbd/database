@@ -1,0 +1,23 @@
+{
+    "title_id": "PKGENABLE",
+    "name": "PKG Enabler",
+    "updated_at": "2020-08-27",
+    "authors": [
+        {
+            "name": "Freakler",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freakler\/vita-PKGEnabler\/master\/livearea\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Freakler\/vita-PKGEnabler\/releases\/download\/1.00\/PKGEnabler_v100.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PKGENABLE.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Freakler\/vita-PKGEnabler.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

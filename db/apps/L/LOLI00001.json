@@ -1,0 +1,27 @@
+{
+    "title_id": "LOLI00001",
+    "name": "Lolicopocalypse",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "dots-tb",
+            "type": "author"
+        },
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/teakhanirons\/LolicopocalypseVita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/LolicopocalypseVita\/releases\/download\/1.0\/Lolicopocalypse.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/LOLI00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/dots-tb\/LolicopocalypseVita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

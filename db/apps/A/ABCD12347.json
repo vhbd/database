@@ -1,0 +1,22 @@
+{
+    "title_id": "ABCD12347",
+    "name": "El Pollo 2.0",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Lapy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ABCD12347_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABCD12347.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A clone of Helicopter made with Unity.",
+    "version": "v.2.0",
+    "license": "Unknown"
+}

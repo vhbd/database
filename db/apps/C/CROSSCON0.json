@@ -1,0 +1,20 @@
+{
+    "title_id": "CROSSCON0",
+    "name": "Cross Connection",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CROSSCON0.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CROSSCON0.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

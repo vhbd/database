@@ -1,0 +1,26 @@
+{
+    "title_id": "CRFT00001",
+    "name": "Minicraft",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/MinicraftVita\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CRFT00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=24",
+        "https:\/\/dl.coolatoms.org\/vitadb\/Homebrews\/Minicraft.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CRFT00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/MinicraftVita.git"
+    ],
+    "type": "game",
+    "description": "This is a port of the Ludum Dare #22 entry by Notch called Minicraft.\n\nMinicraft is a 2D top-down sandbox game where your final goal is to \"kill the only other sentient being in the world, making sure you\u00e2\u20ac\u2122ll be alone forever\" as stated personally by Notch when he first released this game.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

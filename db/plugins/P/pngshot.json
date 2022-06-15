@@ -1,0 +1,23 @@
+{
+    "plugin_name": "pngshot",
+    "name": "pngshot",
+    "updated_at": "2020-06-03",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "xyzz",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/xyzz\/pngshot\/releases\/download\/v1.3\/pngshot.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/pngshot.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/xyzz\/pngshot.git"
+    ],
+    "description": "Plugin that replaces standard compressed JPG screenshots with PNG screenshots without watermark.\nIt also enables screenshots taking in every game.",
+    "version": "v.1.3",
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

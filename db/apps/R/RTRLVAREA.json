@@ -1,0 +1,26 @@
+{
+    "title_id": "RTRLVAREA",
+    "name": "RetroLivearea",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/RetroLivearea\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/RTRLVAREA_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=380",
+        "https:\/\/dl.coolatoms.org\/vitadb\/RetroLivearea.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/RTRLVAREA.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/RetroLivearea.git"
+    ],
+    "type": "app",
+    "description": "Little tool that automatically improves PSX\/PSP Livearea bubbles assets and also redirects them to ux0 to make customization a lot easier.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "plugin_name": "TropHax",
+    "name": "TropHAX",
+    "updated_at": "2020-06-06",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaServer",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/trophax\/downloads\/trophax2.0.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/TropHax.suprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/trophax.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

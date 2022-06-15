@@ -1,0 +1,21 @@
+{
+    "plugin_name": "hcstudio",
+    "name": "hcstudio",
+    "updated_at": "2020-11-11",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/hcstudio\/releases\/download\/1.0\/hcstudio.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/hcstudio.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/teakhanirons\/hcstudio.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

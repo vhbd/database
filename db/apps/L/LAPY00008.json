@@ -1,0 +1,22 @@
+{
+    "title_id": "LAPY00008",
+    "name": "Duck Hunt Remake",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Lapy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/LAPY00008_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/LAPY00008.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A clone of Duck Hunt, popular classic NES game, for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

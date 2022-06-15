@@ -1,0 +1,21 @@
+{
+    "plugin_name": "TrophyShotApp",
+    "name": "TrophyShot",
+    "updated_at": "2020-11-29",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "FMudanyali",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/FMudanyali\/TrophyShot\/releases\/download\/1.1.1.1\/TrophyShot.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/TrophyShotApp.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/FMudanyali\/TrophyShot.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

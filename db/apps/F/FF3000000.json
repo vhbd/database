@@ -1,0 +1,24 @@
+{
+    "title_id": "FF3000000",
+    "name": "Final Fantasy III",
+    "updated_at": "2021-09-19",
+    "authors": [
+        {
+            "name": "frangarcj",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/frangarcj\/ff3_vita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/frangarcj\/ff3_vita\/releases\/download\/v1.1\/FF3.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/frangarcj\/ff3_vita"
+    ],
+    "type": "game",
+    "description": "This is a wrapper\/port of Final Fantasy 3 Android for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.\nDonation Link: https:\/\/ko-fi.com\/frangar",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

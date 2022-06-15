@@ -1,0 +1,23 @@
+{
+    "title_id": "TXTE00001",
+    "name": "Simple Text Editor",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "jakibaki",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TXTE00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/www.dropbox.com\/s\/n7d51ww2i2a30hj\/Simple%20Text%20Editor%201.1.1.vpk?dl=1",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TXTE00001.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "Simple text editor wrote in Lua using Lua Player Plus.",
+    "version": "v.1.1.1",
+    "license": "Unknown"
+}

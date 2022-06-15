@@ -1,0 +1,25 @@
+{
+    "title_id": "MAIM00001",
+    "name": "MaiDumpTool",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "LioMajor",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MAIM00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/LioMajor\/MaiDumpToolEN\/releases\/download\/V233.2zEx_eng\/MaiDumpTool_V233.2zEx_eng.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MAIM00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/LioMajor\/MaiDumpToolEN.git"
+    ],
+    "type": "app",
+    "description": "Improved games dumper, alternative to Vitamin.",
+    "version": "v.233.2zEx",
+    "license": "Unknown"
+}

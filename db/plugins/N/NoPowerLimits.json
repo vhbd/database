@@ -1,0 +1,23 @@
+{
+    "plugin_name": "NoPowerLimits",
+    "name": "NoPowerLimitsVita",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Electry",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Electry\/NoPowerLimitsVita\/releases\/download\/v1.1\/NoPowerLimits.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/NoPowerLimits.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Electry\/NoPowerLimitsVita.git"
+    ],
+    "description": "A PSVita kernel plugin that removes some restrictions placed by ScePower:\n- 80% (77%) brightness limit when a game requests power mode C or D (aka. 166+ MHz on the GPU)\n- Disabled WLAN (wireless features) when a game requests power mode B",
+    "version": "v.1.1",
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

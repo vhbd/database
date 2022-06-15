@@ -1,0 +1,27 @@
+{
+    "title_id": "BEBE12908",
+    "name": "MKMayhem",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "FantaHourglass",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BEBE12908_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BEBE12908.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A Goat Simulator clone set in Mario world with Waluigi as playable character.",
+    "version": "v.0.2",
+    "videos": [
+        {
+            "youtube_id": "ELOrJXpln50"
+        }
+    ],
+    "license": "Unknown"
+}

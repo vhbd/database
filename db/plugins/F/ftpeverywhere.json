@@ -1,0 +1,21 @@
+{
+    "plugin_name": "ftpeverywhere",
+    "name": "ftpeverywhere",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/ftpeverywhere\/releases\/download\/1.0\/ftpeverywhere.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/ftpeverywhere.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/teakhanirons\/ftpeverywhere.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

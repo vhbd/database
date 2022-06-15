@@ -1,0 +1,21 @@
+{
+    "title_id": "SHAREDFBT",
+    "name": "SharedFb-sample",
+    "updated_at": "2020-06-17",
+    "authors": [
+        {
+            "name": "GrapheneCt",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/GrapheneCt\/SharedFb-PSV\/releases\/download\/v1.0\/SharedFb-sample.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SHAREDFBT.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/GrapheneCt\/SharedFb-PSV.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

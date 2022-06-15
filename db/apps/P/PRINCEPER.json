@@ -1,0 +1,25 @@
+{
+    "title_id": "PRINCEPER",
+    "name": "Prince Of Persia",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "cpasjuste",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Cpasjuste\/SDLPoP\/master\/psp2\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PRINCEPER_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PRINCEPER.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Cpasjuste\/SDLPoP.git"
+    ],
+    "type": "game",
+    "description": "An open-source port of Prince of Persia for PSVITA\/PSTV.",
+    "version": "v.1.12",
+    "license": "Unknown"
+}

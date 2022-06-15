@@ -1,0 +1,26 @@
+{
+    "title_id": "MSWEEPER1",
+    "name": "MSweep",
+    "updated_at": "2020-11-29",
+    "authors": [
+        {
+            "name": "Creckeryop",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Creckeryop\/MSweep\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MSWEEPER1_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Creckeryop\/MSweep\/releases\/download\/v1.2.1\/MSweep.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MSWEEPER1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Creckeryop\/MSweep.git"
+    ],
+    "type": "game",
+    "description": "Simple Minesweeper game for PSVITA\/PSTV.",
+    "version": "v.1.2.1",
+    "license": "Unknown"
+}

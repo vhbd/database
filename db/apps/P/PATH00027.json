@@ -1,0 +1,26 @@
+{
+    "title_id": "PATH00027",
+    "name": "Bookr MOD Vita",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "pathway27",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/pathway27\/bookr-mod-vita\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PATH00027_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/pathway27\/bookr-mod-vita\/releases\/download\/v0.4.0a\/bookr-mod-vita-v0.4.0a.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PATH00027.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/pathway27\/bookr-mod-vita.git"
+    ],
+    "type": "app",
+    "description": "This is a document reader for the PS VITA based on the original Bookr and bookr-mod for PSP.",
+    "version": "v.0.4.0a",
+    "license": "Unknown"
+}

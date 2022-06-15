@@ -1,0 +1,28 @@
+{
+    "title_id": "DUNE00002",
+    "name": "Dune Legacy",
+    "updated_at": "2021-09-30",
+    "authors": [
+        {
+            "name": "Northfear",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Northfear\/dunelegacy-vita\/master\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Northfear\/dunelegacy-vita\/releases\/download\/0.96.5-alpha2-vita.1\/dunelegacy.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Northfear\/dunelegacy-vita"
+    ],
+    "type": "game",
+    "description": "Dune Legacy is an effort by a handful of developers to revitalize the first-ever real-time strategy game.\nIt tries to be as similar as possible to the original gameplay but to integrate user interface features most modern realtime-strategy games have like selecting multiple units",
+    "version": "v.0.96.5-alpha2-vita.1",
+    "data": [
+        "https:\/\/github.com\/Northfear\/dunelegacy-vita\/releases\/download\/0.96.5-alpha2-vita.1\/dunelegacy_data.zip"
+    ],
+    "data_path": "ux0:data\/dunelegacy",
+    "license": "Unknown"
+}

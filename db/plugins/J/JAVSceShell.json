@@ -1,0 +1,21 @@
+{
+    "plugin_name": "JAVSceShell",
+    "name": "jav",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "cuevavirus",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/forum.devchroma.nl\/index.php?action=dlattach,topic=46.0,attach=54",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/JAVSceShell.suprx"
+    ],
+    "repos": [
+        "https:\/\/git.shotatoshounenwachigau.moe\/vita\/jav"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

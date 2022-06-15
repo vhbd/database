@@ -1,0 +1,23 @@
+{
+    "title_id": "ANDRO0001",
+    "name": "Andromeda Tests",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "DrakonPL",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/DrakonPL\/Andromeda\/master\/Tests\/Tests\/Data\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/DrakonPL\/Andromeda\/releases\/download\/0.1\/Androma_test.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ANDRO0001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/DrakonPL\/Andromeda.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

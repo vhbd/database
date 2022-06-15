@@ -1,0 +1,25 @@
+{
+    "title_id": "SAVEMGR00",
+    "name": "Save Manager",
+    "updated_at": "2020-06-25",
+    "authors": [
+        {
+            "name": "d3m3vilurr",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/d3m3vilurr\/vita-savemgr\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/d3m3vilurr\/vita-savemgr\/releases\/download\/nightly\/savemgr.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SAVEMGR00.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/d3m3vilurr\/vita-savemgr.git"
+    ],
+    "type": "app",
+    "description": "Savegames dumper\/restorer for PSVITA.",
+    "version": "v.2.0.0 beta",
+    "license": "Unknown"
+}

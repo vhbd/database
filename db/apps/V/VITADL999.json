@@ -1,0 +1,26 @@
+{
+    "title_id": "VITADL999",
+    "name": "VitaDL",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Voxel",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Voxel9\/VitaDL\/master\/resource\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITADL999_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Voxel9\/VitaDL\/releases\/download\/v0.1\/VitaDL.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITADL999.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Voxel9\/VitaDL.git"
+    ],
+    "type": "app",
+    "description": "VitaDL is a small program which can download any file from a given HTTP link. Useful for if you're wanting to download something straight to your Vita that you can't normally view or download in the regular Web Browser app. (e.g. a VPK or a ZIP).",
+    "version": "v.0.1",
+    "license": "Unknown"
+}

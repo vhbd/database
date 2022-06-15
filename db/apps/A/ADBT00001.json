@@ -1,0 +1,30 @@
+{
+    "title_id": "ADBT00001",
+    "name": "App DB Tool",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "luck",
+            "type": "author"
+        },
+        {
+            "name": "kylon",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/kylon\/appdbtool\/raw\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ADBT00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/kylon\/appdbtool\/downloads\/appdbtool.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ADBT00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/kylon\/appdbtool"
+    ],
+    "type": "app",
+    "description": "Appdb Tool can trigger a database update or completely reset your database WITHOUT losing your icons\/folders layout!",
+    "version": "v.6.0",
+    "license": "Unknown"
+}

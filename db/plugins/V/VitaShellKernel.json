@@ -1,0 +1,21 @@
+{
+    "plugin_name": "VitaShellKernel",
+    "name": "usbmc",
+    "updated_at": "2020-06-22",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "yifanlu",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/yifanlu\/usbmc\/releases\/download\/v6\/usbmc.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/VitaShellKernel.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/yifanlu\/usbmc.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

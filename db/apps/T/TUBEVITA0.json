@@ -1,0 +1,23 @@
+{
+    "title_id": "TUBEVITA0",
+    "name": "Tubevita",
+    "updated_at": "2020-06-17",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/theheroGAC\/TubeVita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/TubeVita\/releases\/download\/1.07\/Tubevita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TUBEVITA0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/TubeVita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

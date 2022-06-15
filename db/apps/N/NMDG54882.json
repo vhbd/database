@@ -1,0 +1,27 @@
+{
+    "title_id": "NMDG54882",
+    "name": "No More Dungeons!",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "VitaHEX Games",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/NMDG54882_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NMDG54882.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "No More Dungeons! is a fast paced dungeon crawler game with randomly generated dungeons and lots of dangerous monsters.\nThe game features progressive difficulty that changes dynamically every time you move to the next room but keeps a great balance by rewarding the player with powerful power-ups and score boost items.\nHow far can you go? The game keeps track of your hi-score so you can share it later with the world.",
+    "version": "v.1.0",
+    "videos": [
+        {
+            "youtube_id": "Iw2cft1nqBQ"
+        }
+    ],
+    "license": "Unknown"
+}

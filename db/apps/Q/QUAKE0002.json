@@ -1,0 +1,36 @@
+{
+    "title_id": "QUAKE0002",
+    "name": "vitaQuakeII",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/vitaQuakeII\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/QUAKE0002_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=278",
+        "https:\/\/dl.coolatoms.org\/vitadb\/13\/vitaQuakeII.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/QUAKE0002.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/vitaQuakeII.git"
+    ],
+    "type": "game",
+    "description": "Quake II port for PSVITA with network support (both LAN and multiplayer), savestates, soundtrack, sounds and all standard features of Quake II.\nThe port is fully hardware accelerated and supports high res textures pack and official mission packs.",
+    "version": "v.2.4",
+    "videos": [
+        {
+            "youtube_id": "s-9li2hwlBY"
+        }
+    ],
+    "data": [
+        "https:\/\/dl.coolatoms.org\/vitadb\/13\/quake2.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/f3e3104d_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

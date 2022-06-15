@@ -1,0 +1,26 @@
+{
+    "title_id": "ARKSFLASH",
+    "name": "Flash Light",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Arkanite",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/theheroGAC\/flashlight\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ARKSFLASH_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/flashlight\/releases\/download\/v1.0\/flashlight.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ARKSFLASH.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/flashlight.git"
+    ],
+    "type": "app",
+    "description": "A simple HENkaku flashlght app for Playstation Vita.\nThis application displays a white screen at max brightness. Your brightness settings will be saved and re-applied on application closeup.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

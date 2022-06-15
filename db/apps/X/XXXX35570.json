@@ -1,0 +1,22 @@
+{
+    "title_id": "XXXX35570",
+    "name": "Whitelist",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Kankertje",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/XXXX35570_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/XXXX35570.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "v1 whitelister app for Playstation TV.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

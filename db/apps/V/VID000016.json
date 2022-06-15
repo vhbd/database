@@ -1,0 +1,26 @@
+{
+    "title_id": "VID000016",
+    "name": "VITAident",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/joel16\/VITAident\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VID000016_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/joel16\/VITAident\/releases\/download\/0.7.4\/VITAident.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VID000016.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/VITAident.git"
+    ],
+    "type": "app",
+    "description": "VITAident is a tool inspired by PSPident - which was originally developed by Jas0nuk and later updated by Yoti. The tool was used to obtain more information about your PSP's motherboard, firmware etc. Similarly the VITA version - VITAident aims to display more information about your PS VITA. It is currently a work in progress.",
+    "version": "v.0.7.4",
+    "license": "Unknown"
+}

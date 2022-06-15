@@ -1,0 +1,23 @@
+{
+    "title_id": "1MENUVITA",
+    "name": "Onemenu for Psvita",
+    "updated_at": "2020-11-29",
+    "authors": [
+        {
+            "name": "ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ONElua\/ONEMenu-for-PSVita\/master\/ONEMenuVita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ONElua\/ONEMenu-for-PSVita\/releases\/download\/3.17\/ONEMenuVita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/1MENUVITA.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ONElua\/ONEMenu-for-PSVita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

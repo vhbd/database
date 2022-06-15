@@ -1,0 +1,21 @@
+{
+    "title_id": "CBSIC0000",
+    "name": "CustomBootSplash Image Changer",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Princess-of-Sleeping",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/Princess-of-Sleeping\/CustomBootSplash-Image-Changer\/releases\/download\/v1.1\/CustomBootSplash_Image_Changer.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CBSIC0000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Princess-of-Sleeping\/CustomBootSplash-Image-Changer.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

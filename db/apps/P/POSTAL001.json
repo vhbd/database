@@ -1,0 +1,31 @@
+{
+    "title_id": "POSTAL001",
+    "name": "Postal",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/PostalVita\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/POSTAL001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=415",
+        "https:\/\/dl.coolatoms.org\/vitadb\/Postal.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/POSTAL001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/PostalVita.git"
+    ],
+    "type": "game",
+    "description": "Take control of The Postal Dude in his infamous first outing as he battles to survive in a world gone mad! POSTAL is a classic isometric shooter filled to the brim with fast-paced explosive action. Crazed gunmen out for your blood await you around every corner, and your only choice is to get them before they get you. Fight back with a destructive arsenal as make your way through a violence-stricken town.",
+    "version": "v.1.1",
+    "data": [
+        "https:\/\/dl.coolatoms.org\/vitadb\/postal.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/77f8b1f7_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

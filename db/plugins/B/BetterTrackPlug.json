@@ -1,0 +1,21 @@
+{
+    "plugin_name": "BetterTrackPlug",
+    "name": "BetterTrackPlug",
+    "updated_at": "2020-09-26",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "FMudanyali",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/FMudanyali\/bettertrackplug\/uploads\/4db77d8582996fa92f8c748b2268242b\/BetterTrackPlug.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/BetterTrackPlug.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/FMudanyali\/BetterTrackPlug.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

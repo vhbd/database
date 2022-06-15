@@ -1,0 +1,23 @@
+{
+    "title_id": "PKGE00001",
+    "name": "Enable Package Installer",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/package-installer-enabler\/raw\/master\/PKGENABLER\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/package-installer-enabler\/downloads\/PKGENABLERv0.4.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PKGE00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/package-installer-enabler.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,24 @@
+{
+    "title_id": "GAMIDEF00",
+    "name": "Galactic Missile Defense",
+    "updated_at": "2021-10-18",
+    "authors": [
+        {
+            "name": "MDashK",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/icon0\/Galactic%20Missile%20Defense%20Vita\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/MDashK\/Galactic-Missile-Defense-Vita\/releases\/download\/v1.0.0\/GAMIDEF00.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/MDashK\/Galactic-Missile-Defense-Vita"
+    ],
+    "type": "game",
+    "description": "Galactic Missile Defense is a shooter and tower defense game, where you must protect Earth from the invading Martians that declared war on our planet just because a space rover accidentally ruined their picnic! Instructions on how to patch and install the game provided in the Release page.",
+    "version": "v.1.0.0",
+    "license": "Unknown"
+}

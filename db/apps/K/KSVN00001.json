@@ -1,0 +1,22 @@
+{
+    "title_id": "KSVN00001",
+    "name": "Katawa Shoujo Demo",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "sudovim",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/KSVN00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/KSVN00001.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Katawa Shoujo port for PSVITA based on March33 engine.",
+    "version": "v.0.11",
+    "license": "Unknown"
+}

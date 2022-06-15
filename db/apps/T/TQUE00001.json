@@ -1,0 +1,26 @@
+{
+    "title_id": "TQUE00001",
+    "name": "TextQuest",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "joshaxey",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/joshaxey\/textquest\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TQUE00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/lottehime\/textquest\/releases\/download\/1.0\/TextQuest.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TQUE00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joshaxey\/textquest.git"
+    ],
+    "type": "game",
+    "description": "A simple Vita choose your own adventure text game.\nJust a super simple nostalgic text adventure PS Vita homebrew.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

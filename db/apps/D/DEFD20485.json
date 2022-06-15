@@ -1,0 +1,22 @@
+{
+    "title_id": "DEFD20485",
+    "name": "2048",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "FantaHourglass",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DEFD20485_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DEFD20485.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A simple port of 2048 for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

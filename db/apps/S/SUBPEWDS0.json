@@ -1,0 +1,23 @@
+{
+    "title_id": "SUBPEWDS0",
+    "name": "SUBSCRIBE TO PEWDIEPIE",
+    "updated_at": "2020-05-04",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/subscribetopewdiepie\/raw\/master\/src\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/subscribetopewdiepie\/downloads\/SubscribeToPewdiepie.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SUBPEWDS0.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/subscribetopewdiepie.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "plugin_name": "MusicPremium",
+    "name": "music_premium",
+    "updated_at": "2020-06-07",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "cuevavirus",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/forum.devchroma.nl\/index.php?action=dlattach,topic=60.0,attach=58",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/MusicPremium.skprx"
+    ],
+    "repos": [
+        "https:\/\/git.shotatoshounenwachigau.moe\/vita\/musicpremium\/"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

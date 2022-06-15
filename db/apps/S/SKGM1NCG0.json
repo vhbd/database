@@ -1,0 +1,23 @@
+{
+    "title_id": "SKGM1NCG0",
+    "name": "mincg",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "SKGleba",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SKGM1NCG0.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SKGleba\/mincg\/releases\/download\/v1.0\/mincg.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKGM1NCG0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SKGleba\/mincg.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

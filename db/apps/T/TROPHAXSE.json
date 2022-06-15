@@ -1,0 +1,27 @@
+{
+    "title_id": "TROPHAXSE",
+    "name": "TrophaxSE",
+    "updated_at": "2020-05-03",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "AnalogMan",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/trophaxse\/raw\/master\/app\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/trophaxse\/downloads\/TrophaxSEv1.5.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TROPHAXSE.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/trophaxse.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

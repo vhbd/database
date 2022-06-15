@@ -1,0 +1,22 @@
+{
+    "title_id": "VITATESTR",
+    "name": "VitaTester",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "NamelessGhoul0",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITATESTR.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/NamelessGhoul0\/VitaTester.git"
+    ],
+    "type": "app",
+    "description": "A simple homebrew for testing the input data on the PSVita.",
+    "version": "v.1.3",
+    "license": "Unknown"
+}

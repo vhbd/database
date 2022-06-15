@@ -1,0 +1,26 @@
+{
+    "title_id": "HIGURASHI",
+    "name": "Higurashi When They Cry Hou",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "MyLegGuy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/MyLegGuy\/Higurashi-Vita\/master\/VpkContents-Primary\/Vita\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/HIGURASHI_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/MyLegGuy\/Higurashi-Vita\/releases\/download\/v2.9.4.1\/Higurashi-Vita-v2.9.4.1.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HIGURASHI.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/MyLegGuy\/Higurashi-Vita.git"
+    ],
+    "type": "game",
+    "description": "A completely unofficial port of Higurashi for the PS Vita.\nThe engine supports also VNDS games since v.2.5.",
+    "version": "v.3.0.2",
+    "license": "Unknown"
+}

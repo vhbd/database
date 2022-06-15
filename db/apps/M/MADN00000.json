@@ -1,0 +1,26 @@
+{
+    "title_id": "MADN00000",
+    "name": "Mensch \u00e4rgere Dich nicht",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Dane64",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Dane64\/MaDn\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MADN00000.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Dane64\/MaDn\/releases\/download\/1.0\/MaDn.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MADN00000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Dane64\/MaDn.git"
+    ],
+    "type": "game",
+    "description": "Try to get all four pawns as fast as you can in the 'home' position and dont get angry when your pawn is hit just before your victory!",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

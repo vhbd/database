@@ -1,0 +1,25 @@
+{
+    "title_id": "SKGPKG2CH",
+    "name": "\u2605Package Installer Launcher",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "SKGleba",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SKGleba\/PKGinstallerLauncher\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SKGPKG2CH_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKGPKG2CH.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SKGleba\/PKGinstallerLauncher.git"
+    ],
+    "type": "app",
+    "description": "PKGInstaller Launcher is an app wich allow you to choose the partition from where Package Installer will install .pkg files.\nIt supports also DEX pkgs installation by pressing L trigger in main menu.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

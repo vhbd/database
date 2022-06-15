@@ -1,0 +1,35 @@
+{
+    "title_id": "NUMPTY001",
+    "name": "NumptyPhysics",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        },
+        {
+            "name": "meetpatty",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/NumptyPhysics-Vita\/master\/builder\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/NUMPTY001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=243",
+        "https:\/\/dl.coolatoms.org\/vitadb\/NumptyPhysics.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NUMPTY001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/NumptyPhysics-Vita.git"
+    ],
+    "type": "game",
+    "description": "Numpty Physics is a drawing puzzle game in the spirit (and style) of Crayon Physics using the same excellent Box2D engine.",
+    "version": "v.0.5",
+    "data": [
+        "https:\/\/dl.coolatoms.org\/vitadb\/NumptyPhysics.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/4ade44f3_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

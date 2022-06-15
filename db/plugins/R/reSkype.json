@@ -1,0 +1,21 @@
+{
+    "plugin_name": "reSkype",
+    "name": "ReSkype",
+    "updated_at": "2020-06-15",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/reskype\/downloads\/reSkype.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/reSkype.suprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/reskype.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

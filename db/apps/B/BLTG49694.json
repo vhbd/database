@@ -1,0 +1,27 @@
+{
+    "title_id": "BLTG49694",
+    "name": "Vita Timer",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Anchitpatra",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BLTG49694_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BLTG49694.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "A stopwatch utility made with Unity for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "videos": [
+        {
+            "youtube_id": "rhC5yB4pK64"
+        }
+    ],
+    "license": "Unknown"
+}

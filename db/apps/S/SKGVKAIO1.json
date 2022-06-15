@@ -1,0 +1,22 @@
+{
+    "title_id": "SKGVKAIO1",
+    "name": "VKAIO",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "SKGleba",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SKGVKAIO1.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKGVKAIO1.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SKGleba\/v-kaio.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

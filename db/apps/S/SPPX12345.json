@@ -1,0 +1,25 @@
+{
+    "title_id": "SPPX12345",
+    "name": "SuperPixelRun",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "RetroGamer74",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SPPX12345_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/RetroGamer74\/SuperPixelRun\/releases\/download\/1.0\/buildspr.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SPPX12345.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/RetroGamer74\/SuperPixelRun.git"
+    ],
+    "type": "game",
+    "description": "A platformer game similar to The Impossible Game for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

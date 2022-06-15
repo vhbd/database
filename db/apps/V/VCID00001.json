@@ -1,0 +1,23 @@
+{
+    "title_id": "VCID00001",
+    "name": "VitaCID",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "tomtomdu80",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/MajorTomSec\/VitaCID\/releases\/download\/1.0\/VitaCID.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VCID00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/MajorTomSec\/VitaCID.git"
+    ],
+    "type": "app",
+    "description": "Little application that gives you your PSVITA\/PSTV console ID.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

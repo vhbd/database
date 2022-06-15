@@ -1,0 +1,25 @@
+{
+    "title_id": "SKOG10001",
+    "name": "CATSFC-libretro-vita",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "skogaby",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SKOG10001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/skogaby\/CATSFC-libretro\/releases\/download\/1.3.0\/CATSFC-libretro-vita-1.3.0.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKOG10001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/skogaby\/CATSFC-libretro.git"
+    ],
+    "type": "emulator",
+    "description": "CATSFC-libretro-vita is a SNES emulator for the PSVita and PSTV. It is based on CATSFC-libretro, which is based on Snes9x 1.43.",
+    "version": "MOD v.1",
+    "license": "Unknown"
+}

@@ -1,0 +1,20 @@
+{
+    "title_id": "DOWNLOAD0",
+    "name": "File Downloader",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Xa_904",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DOWNLOAD0.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DOWNLOAD0.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

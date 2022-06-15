@@ -1,0 +1,23 @@
+{
+    "title_id": "PSTO00001",
+    "name": "PlayStation\u00aeStore",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/enablepsstore\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/enablepsstore\/downloads\/PStore.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSTO00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/enablepsstore.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

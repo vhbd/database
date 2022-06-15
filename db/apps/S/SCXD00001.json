@@ -1,0 +1,24 @@
+{
+    "title_id": "SCXD00001",
+    "name": "Henkaku Haven High School Rumble",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "dots_tb",
+            "type": "author"
+        },
+        {
+            "name": "coderx3",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SCXD00001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SCXD00001.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

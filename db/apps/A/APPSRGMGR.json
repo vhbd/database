@@ -1,0 +1,25 @@
+{
+    "title_id": "APPSRGMGR",
+    "name": "Application Storage Manager",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Lupo511",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/Lupo511\/appstoragemanager\/raw\/master\/VitaAppStorageManager\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/APPSRGMGR_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/APPSRGMGR.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/Lupo511\/appstoragemanager.git"
+    ],
+    "type": "app",
+    "description": "A little app that allows you to move applications from your memory card (ux0:app\/) to your internal sorage (ur0:app\/) (and vice-versa).",
+    "version": "v.0.02",
+    "license": "Unknown"
+}

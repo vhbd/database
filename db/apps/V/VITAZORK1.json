@@ -1,0 +1,23 @@
+{
+    "title_id": "VITAZORK1",
+    "name": "Zork I: The Great Underground Empire",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "robDevs",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/robDevs\/zork\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/robDevs\/zork\/releases\/download\/psv1.0.2\/zork.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITAZORK1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/robDevs\/zork.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

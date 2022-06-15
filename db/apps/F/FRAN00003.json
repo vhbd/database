@@ -1,0 +1,25 @@
+{
+    "title_id": "FRAN00003",
+    "name": "GenesisPlusGXVITA",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "frangarcj",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FRAN00003_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/frangarcj\/Genesis-Plus-GX\/releases\/download\/1.7.5-RC-Henkaku\/GenesisPlusGXVITA.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FRAN00003.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/frangarcj\/Genesis-Plus-GX.git"
+    ],
+    "type": "emulator",
+    "description": "Genesis Plus GX is an open-source Sega 8\/16 bit emulator focused on accuracy and portability.",
+    "version": "v.1.7.5-RC",
+    "license": "Unknown"
+}

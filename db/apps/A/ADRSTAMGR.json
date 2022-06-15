@@ -1,0 +1,24 @@
+{
+    "title_id": "ADRSTAMGR",
+    "name": "Adrenaline States Manager",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/DavisDev\/AdrenalineStates\/master\/src\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ADRSTAMGR.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/DavisDev\/AdrenalineStates\/releases\/download\/1.20\/AdrenalineStates.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ADRSTAMGR.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/DavisDev\/AdrenalineStates.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

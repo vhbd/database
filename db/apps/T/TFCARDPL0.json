@@ -1,0 +1,26 @@
+{
+    "title_id": "TFCARDPL0",
+    "name": "TF Card Plugin Tool",
+    "updated_at": "2020-09-07",
+    "authors": [
+        {
+            "name": "Yizhi gai",
+            "type": "author"
+        },
+        {
+            "name": "TheheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TFCARDPL0.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TFCARDPL0.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/TF-Card-Plugin-Tool.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

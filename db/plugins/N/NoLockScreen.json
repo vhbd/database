@@ -1,0 +1,21 @@
+{
+    "plugin_name": "NoLockScreen",
+    "name": "NoLockScreen",
+    "updated_at": "2020-06-06",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "TheFloW",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/TheOfficialFloW\/VitaTweaks\/releases\/download\/NoLockScreen\/nolockscreen.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/NoLockScreen.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/TheOfficialFloW\/VitaTweaks.git"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

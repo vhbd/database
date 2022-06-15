@@ -1,0 +1,30 @@
+{
+    "title_id": "SDLPAL001",
+    "name": "sdlpal",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/usineur\/sdlpal\/ports\/psp2\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SDLPAL001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/sdlpal\/releases\/download\/1.3\/sdlpal.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SDLPAL001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/sdlpal.git"
+    ],
+    "type": "game",
+    "description": "XianJian QiXia Zhuan (also known as The Legend of Sword and Fairy and \"PAL\") is an action RPG created by Taiwan's Softstar Entertainment Inc. The game is considered by many as simply one of the best Chinese RPG ever created. Since its first release in 1995 (DOS Version), many new versions and sequels (including a prequel) were created. However, none could replace the breath-taking and tragic tale it was born from. Here, we meet our protagonist Li Xiaoyao; an aspiring martial artist and the lovely Zhao Ling'er, a charismatic Nuwa descendant.?",
+    "version": "v.1.3",
+    "data": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/595c20fd_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

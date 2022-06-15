@@ -1,0 +1,20 @@
+{
+    "title_id": "CDRR00000",
+    "name": "Chip and Dale: Remastered",
+    "updated_at": "2021-01-03",
+    "authors": [
+        {
+            "name": "tijesef",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CDRR00000.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CDRR00000.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

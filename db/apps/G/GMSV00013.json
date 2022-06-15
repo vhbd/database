@@ -1,0 +1,25 @@
+{
+    "title_id": "GMSV00013",
+    "name": "Classic Car Crossing",
+    "updated_at": "2020-06-07",
+    "authors": [
+        {
+            "name": "Team789er",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Team789er\/Car-Crossing-PSVita\/raw\/master\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Team789er\/Car-Crossing-PSVita\/releases\/download\/1.0.0\/Classic.Car.Crossing.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/GMSV00013.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Team789er\/Car-Crossing-PSVita.git"
+    ],
+    "type": "game",
+    "description": "A Frogger clone where you control a car made with GameMaker for PSVITA\/PSTV.",
+    "version": "v.1.0.0",
+    "license": "Unknown"
+}

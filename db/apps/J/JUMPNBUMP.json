@@ -1,0 +1,26 @@
+{
+    "title_id": "JUMPNBUMP",
+    "name": "jumpnbump",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "rsn8887",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/rsn8887\/jumpnbump\/master\/psp2data\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/JUMPNBUMP_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/rsn8887\/jumpnbump\/releases\/download\/1.02\/jumpnbump_1.00.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/JUMPNBUMP.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/rsn8887\/jumpnbump.git"
+    ],
+    "type": "game",
+    "description": "Jump'n'Bump is a simple but addictive multiplayer game. The goal is to stomp as many other rabbits as possible to win the game.",
+    "version": "v.1.00",
+    "license": "Unknown"
+}

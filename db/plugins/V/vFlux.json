@@ -1,0 +1,23 @@
+{
+    "plugin_name": "vFlux",
+    "name": "vFlux",
+    "updated_at": "2020-06-03",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Applelo",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Applelo\/vFlux\/releases\/download\/0.5\/vFlux.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/vFlux.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Applelo\/vFlux.git"
+    ],
+    "description": "Screen flasher plugin for PSVITA\/PSTV.",
+    "version": "v.0.5",
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

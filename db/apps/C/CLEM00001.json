@@ -1,0 +1,25 @@
+{
+    "title_id": "CLEM00001",
+    "name": "luaVitaSeccy",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Clem",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/eleriaqueen\/luaVitaSeccy\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CLEM00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CLEM00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/eleriaqueen\/luaVitaSeccy.git"
+    ],
+    "type": "app",
+    "description": "luaVitaSeccy is a \u201cSection ID\u201d calculator for \u201clegacy\u201d Phantasy Star Online games, namely PSO games that came out before \u201cBlue Burst\u201d. Section ID\u2019s change what drop table enemies have and other minor aspect of those games.",
+    "version": "v.0.3",
+    "license": "Unknown"
+}

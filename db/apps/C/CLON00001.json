@@ -1,0 +1,22 @@
+{
+    "title_id": "CLON00001",
+    "name": "Clonage Bulle ePSP",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Markus95",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CLON00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CLON00001.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "A little homebrew for multiple ePSP bubble (x5)\nYou must install the first ePSP Bubble with ePSP Bubble Installer, after use Clonage Bulle ePSP for multiple your ePSP Bubble.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

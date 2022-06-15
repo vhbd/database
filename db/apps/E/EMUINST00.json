@@ -1,0 +1,23 @@
+{
+    "title_id": "EMUINST00",
+    "name": "PSP.Emulators.Installer",
+    "updated_at": "2020-08-27",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/theheroGAC\/PSP-EMULATORS-INSTALLER\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/PSP-EMULATORS-INSTALLER\/releases\/download\/1.12\/PSP.Emulators.Installer.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/EMUINST00.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/PSP-EMULATORS-INSTALLER.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

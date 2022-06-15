@@ -1,0 +1,23 @@
+{
+    "title_id": "APWRFRESH",
+    "name": "Easy Power Refresh",
+    "updated_at": "2020-06-03",
+    "authors": [
+        {
+            "name": "Team ONElua",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ONElua\/Easy-Power-Refresh\/master\/EasyPowerRefresh\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ONElua\/Easy-Power-Refresh\/releases\/download\/2.01\/Easy-Power-Refresh.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/APWRFRESH.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ONElua\/Easy-Power-Refresh.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

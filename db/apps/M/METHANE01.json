@@ -1,0 +1,30 @@
+{
+    "title_id": "METHANE01",
+    "name": "Methane",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/usineur\/methane\/vita\/source\/vita\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/METHANE01_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/methane\/releases\/download\/1.1\/Methane.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/METHANE01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/methane.git"
+    ],
+    "type": "game",
+    "description": "Trap baddies in a gas cloud. Use your gas gun to throw it against a wall to destroy them.",
+    "version": "v.1.1",
+    "data": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/23d4e6b0_data.zip"
+    ],
+    "data_path": "uz0:\/data",
+    "license": "Unknown"
+}

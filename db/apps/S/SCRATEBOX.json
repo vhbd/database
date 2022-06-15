@@ -1,0 +1,24 @@
+{
+    "title_id": "SCRATEBOX",
+    "name": "Super Crate Box",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "JeffRulz345",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SCRATEBOX_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SCRATEBOX.vpk"
+    ],
+    "repos": [
+        "https:\/\/drive.google.com\/open?id=1u67SpFEYYLzzzw0QVuY_VVsNFS4dgbrP"
+    ],
+    "type": "game",
+    "description": "A port of Super Crate Box with some enhanced feature.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "ABBAYEDMO",
+    "name": "Abbaye Des Morts",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/AbbayeDesMorts-Vita\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ABBAYEDMO_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=359",
+        "https:\/\/dl.coolatoms.org\/vitadb\/AbbayeDesMorts.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABBAYEDMO.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/AbbayeDesMorts-Vita.git"
+    ],
+    "type": "game",
+    "description": "Faith will be your only weapon in this platformer styled like a ZX Spectrum game. Black backgrounds, 1 color sprites and 1 bit sounds are a proper fit for a raw story. The lack of details turn on the player's imagination, creating a unique experience for each player.\nL'Abbaye des Morts has been inspired by the tragic history of the Cathars and platform games for ZX Spectrum computers like Manic Miner, Jet Set Willy or Dynamite Dan.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

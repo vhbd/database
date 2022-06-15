@@ -1,0 +1,26 @@
+{
+    "title_id": "PICKRV016",
+    "name": "Pickr VITA",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/joel16\/PickrVITA\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PICKRV016_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/joel16\/PickrVITA\/releases\/download\/1.1\/PickrVITA.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PICKRV016.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/PickrVITA.git"
+    ],
+    "type": "game",
+    "description": "PickrVITA is a port of the game Pickr3DS by BernardoGiordano. The original idea was founded by Sean M. Tracey. The objective of the game is to tap the odd colour found on the screen until you run out of lives. Unlike Sean M. Tracey's game, PickrVITA can only be played in timer mode.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

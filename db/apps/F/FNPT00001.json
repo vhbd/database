@@ -1,0 +1,25 @@
+{
+    "title_id": "FNPT00001",
+    "name": "Fingerprint",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Freakler",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FNPT00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Freakler\/vita-Fingerprint\/releases\/download\/0.02\/fingerprint_v002.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FNPT00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Freakler\/vita-Fingerprint.git"
+    ],
+    "type": "app",
+    "description": "An application that displays various Information of your console.",
+    "version": "v.0.02",
+    "license": "Unknown"
+}

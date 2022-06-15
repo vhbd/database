@@ -1,0 +1,20 @@
+{
+    "title_id": "GAMESD001",
+    "name": "TF\u5361\u63d2\u4ef6\u5de5\u5177",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Yizhi gai",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/GAMESD001.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/GAMESD001.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

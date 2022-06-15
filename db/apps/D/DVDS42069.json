@@ -1,0 +1,26 @@
+{
+    "title_id": "DVDS42069",
+    "name": "DVD Screensaver",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Electric",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Electric1447\/Vita-DVD-Screensaver\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/DVDS42069_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Electric1447\/Vita-DVD-Screensaver\/releases\/download\/v1.0\/dvd_screensaver.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DVDS42069.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Electric1447\/Vita-DVD-Screensaver.git"
+    ],
+    "type": "app",
+    "description": "An app that shows the bouncing DVD logo like in old DVD players.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "ACTM00003",
+    "name": "Vita Account Manager",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "windsurfer1122",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/windsurfer1122\/Vita-Account-Manager\/master\/sce_sys\/icon0_128x128_8bit.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ACTM00003_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/windsurfer1122\/Vita-Account-Manager\/releases\/download\/vita-account-manager-0.91\/vita-account-manager-0.91.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ACTM00003.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/windsurfer1122\/Vita-Account-Manager.git"
+    ],
+    "type": "app",
+    "description": "Switch between multiple PSN\/SEN accounts on a PS Vita or PSTV., handle execution history, dump console IDs, save and restore WLAN settings.",
+    "version": "v.0.91",
+    "license": "Unknown"
+}

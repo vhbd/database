@@ -1,0 +1,21 @@
+{
+    "plugin_name": "0syscall6",
+    "name": "0syscall6",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SKGleba",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SKGleba\/0syscall6\/releases\/download\/v1.3\/0syscall6.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/0syscall6.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SKGleba\/0syscall6.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

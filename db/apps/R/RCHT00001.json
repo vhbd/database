@@ -1,0 +1,25 @@
+{
+    "title_id": "RCHT00001",
+    "name": "rinCheat SE",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/RCHT00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=46",
+        "https:\/\/dl.coolatoms.org\/vitadb\/rinCheatSE.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/RCHT00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/rinCheat.git"
+    ],
+    "type": "app",
+    "description": "rinCheat SE allows you to apply several cheats to your savedata with few passages.\nYou can select your savedata slot and your preferred cheats from the official database that will be automatically updated at homebrew start.\nrinCheat SE also works as a database updater for rinCheat since when it will download database updates, it will update both rinCheat and rinCheat SE updates.\nIt supports both rinCheat and vita-savemgr.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

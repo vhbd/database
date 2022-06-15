@@ -1,0 +1,24 @@
+{
+    "title_id": "BREW00001",
+    "name": "ReversMe",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "TheFloW",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BREW00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BREW00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/drive.google.com\/file\/d\/0B8d0Wy4mDFrGM0k0YW9Xd01qS2M\/view"
+    ],
+    "type": "game",
+    "description": "If you haven't played Reversi\/Othello before, you have definitely missed something in your childhood.\nBut it's never too late, launch this homebrew immediately!\nYou will quickly understand the game, and soon you will develop your own tactics to defeat the AI or your friend.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

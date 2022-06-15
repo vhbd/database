@@ -1,0 +1,25 @@
+{
+    "title_id": "A3A400001",
+    "name": "Cookie Clicker",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Creckeryop",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/A3A400001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Creckeryop\/CookieClicker-Vita\/releases\/download\/0.2\/Cookie.Clicker.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/A3A400001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Creckeryop\/CookieClicker-Vita.git"
+    ],
+    "type": "game",
+    "description": "Cookie Clicker game for PSVITA made in Lua.",
+    "version": "v.0.2",
+    "license": "Unknown"
+}

@@ -1,0 +1,20 @@
+{
+    "title_id": "FDCE22385",
+    "name": "Super Mario Vita",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "FantaHourglass",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FDCE22385.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FDCE22385.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

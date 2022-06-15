@@ -1,0 +1,23 @@
+{
+    "title_id": "ROWS00001",
+    "name": "4Rows",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ROWS00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=65",
+        "https:\/\/dl.coolatoms.org\/vitadb\/4Rows.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ROWS00001.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "4Rows is the port of the \"Four in a row\"\/\"Connect4\" sample homebrew provided with the very first PSP Lua Interpreter.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

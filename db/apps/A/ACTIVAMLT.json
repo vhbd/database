@@ -1,0 +1,26 @@
+{
+    "title_id": "ACTIVAMLT",
+    "name": "MLTactivator",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "MiraLaTijera",
+            "type": "author"
+        },
+        {
+            "name": "Draqen",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ACTIVAMLT_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ACTIVAMLT.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "Utility that activates your system offline using files from another account and device. Do not use the system online or you'll get a ban.",
+    "version": "FIX2",
+    "license": "Unknown"
+}

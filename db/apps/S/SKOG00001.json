@@ -1,0 +1,27 @@
+{
+    "title_id": "SKOG00001",
+    "name": "Snes9xVITA",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "skogaby",
+            "type": "author"
+        },
+        {
+            "name": "frangarcj",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/frangarcj\/Snes9xVITA\/releases\/download\/1.1-Henkaku\/Snes9xVITA.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKOG00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/frangarcj\/Snes9xVITA.git"
+    ],
+    "type": "emulator",
+    "description": "Native SNES emulator for the PlayStation VITA.\nCurrently features Snes9x 1.52 core based on Snes9xNext.",
+    "version": "v.1.1-HENkaku",
+    "license": "Unknown"
+}

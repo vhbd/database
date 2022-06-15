@@ -1,0 +1,26 @@
+{
+    "title_id": "ADRINSTAL",
+    "name": "Adrenaline EasyInstaller",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Freakler",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freakler\/vita-AdrenalineEasyInstaller\/master\/livearea\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ADRINSTAL_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Freakler\/vita-AdrenalineEasyInstaller\/releases\/download\/v1.15\/AdrenalineEasyInstaller_v115.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ADRINSTAL.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Freakler\/vita-AdrenalineEasyInstaller.git"
+    ],
+    "type": "app",
+    "description": "An easy to use installer for the 6.61 Adrenaline eCFW by TheFloW.\nSupports Adrenaline from v.1.0 to v.5.1.",
+    "version": "v.1.15",
+    "license": "Unknown"
+}

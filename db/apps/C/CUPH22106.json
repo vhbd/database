@@ -1,0 +1,20 @@
+{
+    "title_id": "CUPH22106",
+    "name": "Cuphead",
+    "updated_at": "2021-10-19",
+    "authors": [
+        {
+            "name": "Vita Dev2",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/icon0\/cuphead\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/Cuphead%201.1.0.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

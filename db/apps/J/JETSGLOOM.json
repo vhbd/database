@@ -1,0 +1,24 @@
+{
+    "title_id": "JETSGLOOM",
+    "name": "ZGloomVita",
+    "updated_at": "2021-09-22",
+    "authors": [
+        {
+            "name": "JetStreamSham",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/JetStreamSham\/ZGloom-vita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/JetStreamSham\/ZGloom-vita\/releases\/download\/v2.1.1\/ZGloomVita.2.1.1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/JetStreamSham\/ZGloom-vita"
+    ],
+    "type": "game",
+    "description": "ZGloom is a re-implementation of Amiga FPS Gloom, including support for Zombie Massacre.\nGloom was a 1995 Doom-clone from Black Magic Software for Commodore Amiga. It had very messy and meaty graphics and needed a very powerful Amiga computer back then. It had several official successors like Gloom Deluxe\/Ultimate Gloom (a graphical enhanced Gloom), Gloom 3 and Zombie Massacre. \nGloom was made freely available by its developers. Also other games with the engine like Gloom 3 or Zombie Massacre can be downloaded for free on Aminet. Otherwise you can take the original game files from your game installation.",
+    "version": "v.2.1.1",
+    "license": "Unknown"
+}

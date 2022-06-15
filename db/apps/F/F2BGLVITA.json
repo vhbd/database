@@ -1,0 +1,30 @@
+{
+    "title_id": "F2BGLVITA",
+    "name": "FadeToBlack",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/F2BGLVITA_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/f2bgl\/releases\/download\/vita-1.0\/FadeToBlack.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/F2BGLVITA.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/f2bgl.git"
+    ],
+    "type": "game",
+    "description": "Fade to Black is an action-adventure game developed by Delphine Software International and published by Electronic Arts Studios. It is the sequel to the 1992 video game Flashback.",
+    "version": "v.1.0",
+    "videos": [
+        {
+            "youtube_id": "BLGX2gQkimE"
+        }
+    ],
+    "license": "Unknown"
+}

@@ -1,0 +1,24 @@
+{
+    "title_id": "OHCL00001",
+    "name": "Open Hydra Castle Labyrinth",
+    "updated_at": "2021-11-18",
+    "authors": [
+        {
+            "name": "JeffRuLz",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/JeffRuLz\/OpenHCL\/master\/platform\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/JeffRuLz\/OpenHCL\/releases\/download\/v2021.11.08\/OpenHCL_Vita.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/JeffRuLz\/OpenHCL"
+    ],
+    "type": "game",
+    "description": "A multiplatform port of Hydra Castle Labyrinth through SDL.",
+    "version": "v2021.11.08",
+    "license": "Unknown"
+}

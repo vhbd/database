@@ -1,0 +1,27 @@
+{
+    "title_id": "ABYD12945",
+    "name": "Rubik's Cube Solver",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Anchitpatra",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ABYD12945_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABYD12945.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "An app that automatically solves any Rubik's cube scheme thanks to Friedrich method.",
+    "version": "v.1.0",
+    "videos": [
+        {
+            "youtube_id": "vq5Ttks2k74"
+        }
+    ],
+    "license": "Unknown"
+}

@@ -1,0 +1,20 @@
+{
+    "title_id": "AIOHBU365",
+    "name": "Easy Downgrader\/Updater for PS Vita",
+    "updated_at": "2021-01-14",
+    "authors": [
+        {
+            "name": "BaltazaR4",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/AIOHBU365.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/AIOHBU365.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

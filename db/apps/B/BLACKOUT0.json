@@ -1,0 +1,24 @@
+{
+    "title_id": "BLACKOUT0",
+    "name": "Blackout",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "dragaron",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/dragaron\/Blackout\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BLACKOUT0.PNG"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/dragaron\/Blackout\/releases\/download\/v1.01\/Blackout.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BLACKOUT0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/dragaron\/Blackout.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

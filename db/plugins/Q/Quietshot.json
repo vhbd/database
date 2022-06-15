@@ -1,0 +1,21 @@
+{
+    "plugin_name": "Quietshot",
+    "name": "quietshot",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "cuevavirus",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/forum.devchroma.nl\/index.php?action=dlattach,topic=101.0,attach=57",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/Quietshot.suprx"
+    ],
+    "repos": [
+        "https:\/\/git.shotatoshounenwachigau.moe\/vita\/quietshot"
+    ],
+    "plugin_section": "*main|*NPXS10095",
+    "license": "Unknown"
+}

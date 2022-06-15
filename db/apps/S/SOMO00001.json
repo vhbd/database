@@ -1,0 +1,26 @@
+{
+    "title_id": "SOMO00001",
+    "name": "REminiscence",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Enrique Somolinos Perez",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/enriquesomolinos\/REminiscence-Vita\/master\/pkg\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SOMO00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/enriquesomolinos\/REminiscence-Vita\/releases\/download\/v0.4.2\/REminiscence-0.4.2.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SOMO00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/enriquesomolinos\/REminiscence-Vita.git"
+    ],
+    "type": "game",
+    "description": "Classic game reimplementation of Flashback for PSVITA.",
+    "version": "v.0.4.2",
+    "license": "Unknown"
+}

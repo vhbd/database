@@ -1,0 +1,26 @@
+{
+    "title_id": "MODORU000",
+    "name": "modoru \u623b\u308b",
+    "updated_at": "2020-11-29",
+    "authors": [
+        {
+            "name": "TheFloW",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/TheOfficialFloW\/modoru\/master\/pkg\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MODORU000_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/TheOfficialFloW\/modoru\/releases\/download\/v2.3\/modoru.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MODORU000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/TheOfficialFloW\/modoru.git"
+    ],
+    "type": "app",
+    "description": "modoru means \"to go back\" in Japanese and is a downgrader for the PS Vita,",
+    "version": "v.2.1",
+    "license": "Unknown"
+}

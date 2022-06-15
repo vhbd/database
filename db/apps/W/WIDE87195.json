@@ -1,0 +1,22 @@
+{
+    "title_id": "WIDE87195",
+    "name": "BrickRace",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "WIDECGC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/WIDE87195_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/WIDE87195.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A clone of BRICK RACE, a minimalistic racing game with Tetris-like graphics, for PSVITA.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "HANG00001",
+    "name": "VitaHangman",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Jackiepooh",
+            "type": "author"
+        },
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/HANG00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HANG00001.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Hangman game where you have to guess a word to win. Supports addition of extra words to the database.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

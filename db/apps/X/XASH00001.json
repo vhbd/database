@@ -1,0 +1,35 @@
+{
+    "title_id": "XASH00001",
+    "name": "vitaXash3D",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "fgsfds",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/fgsfdsfgs\/vitaXash3D\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/XASH00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/fgsfdsfgs\/vitaXash3D\/releases\/download\/v4\/vitaXash3D.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/XASH00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/fgsfdsfgs\/vitaXash3D.git"
+    ],
+    "type": "game",
+    "description": "Xash3D is an open source re-creation of the GoldSrc engine, a modified Quake Engine running Half-Life, Counter Strike and Team Fortress.\nAt the moment vitaXash3D is capable of running Half Life, Counter Strike and their mods.",
+    "version": "v.4 fix",
+    "videos": [
+        {
+            "youtube_id": "QffGY3TIY7k"
+        }
+    ],
+    "data": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/925a0e06_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

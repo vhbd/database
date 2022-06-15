@@ -1,0 +1,26 @@
+{
+    "title_id": "FTP200001",
+    "name": "FTPlaystation",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Red7s",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ItsDeidara\/FTPlaystation\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/FTP200001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ItsDeidara\/FTPlaystation\/releases\/download\/0.1\/FTPlaystation.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FTP200001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ItsDeidara\/FTPlaystation.git"
+    ],
+    "type": "app",
+    "description": "Standalone FTP server utility for PSVITA\/PSTV.",
+    "version": "v.0.1",
+    "license": "Unknown"
+}

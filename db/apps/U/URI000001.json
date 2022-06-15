@@ -1,0 +1,26 @@
+{
+    "title_id": "URI000001",
+    "name": "uriCaller",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Freakler",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Freakler\/vita-uriCaller\/master\/resource\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/URI000001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Freakler\/vita-uriCaller\/releases\/download\/0.1\/uriCaller.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/URI000001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Freakler\/vita-uriCaller.git"
+    ],
+    "type": "app",
+    "description": "Fast and easy solution to call URIs on an HENkaku enabled PSVITA\/PSTV.",
+    "version": "v.0.1",
+    "license": "Unknown"
+}

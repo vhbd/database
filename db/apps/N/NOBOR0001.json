@@ -1,0 +1,26 @@
+{
+    "title_id": "NOBOR0001",
+    "name": "Noboru",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "Creckeryop",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Creckeryop\/NOBORU\/master\/source\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/NOBOR0001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Creckeryop\/NOBORU\/releases\/download\/0.91\/Noboru.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NOBOR0001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Creckeryop\/NOBORU.git"
+    ],
+    "type": "app",
+    "description": "A Manga\/Comic reader app for PSVITA with both online and offline modes support.",
+    "version": "v.0.9",
+    "license": "Unknown"
+}

@@ -1,0 +1,23 @@
+{
+    "title_id": "AUTOPLUG0",
+    "name": "Autoplugin",
+    "updated_at": "2020-05-03",
+    "authors": [
+        {
+            "name": "theheroGAC",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/theheroGAC\/Autoplugin\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/theheroGAC\/Autoplugin\/releases\/download\/4.21\/Autoplugin.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/AUTOPLUG0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/theheroGAC\/Autoplugin.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

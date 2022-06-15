@@ -1,0 +1,30 @@
+{
+    "title_id": "SPOP00001",
+    "name": "SDLPoP-Vita",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SPOP00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/SDLPoP\/releases\/download\/vita-1.7\/SDLPoP-Vita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SPOP00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/SDLPoP.git"
+    ],
+    "type": "game",
+    "description": "SDLPoP is an open-source project that aims to allow people to play the original Prince of Persia DOS games on modern systems without the use of tools like DosBox. It was originally created by disassembling the code of the original game to get the source.",
+    "version": "v.1.7",
+    "data": [
+        "https:\/\/github.com\/usineur\/SDLPoP\/releases\/download\/vita-1.7\/prince.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/f784515d_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

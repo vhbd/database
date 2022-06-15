@@ -1,0 +1,20 @@
+{
+    "title_id": "ONELUAWLM",
+    "name": "Wifi Level Meter",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "moody.b",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ONELUAWLM.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ONELUAWLM.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

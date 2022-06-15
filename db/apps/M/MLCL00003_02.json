@@ -1,0 +1,27 @@
+{
+    "title_id": "MLCL00003",
+    "name": "enso 3.65",
+    "updated_at": "2020-06-17",
+    "authors": [
+        {
+            "name": "Team Molecule",
+            "type": "author"
+        },
+        {
+            "name": "TheFloW",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/TheOfficialFloW\/enso\/master\/installer\/res\/icon.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/TheOfficialFloW\/enso\/releases\/download\/v1.1\/enso.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MLCL00003_02.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/TheOfficialFloW\/enso.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

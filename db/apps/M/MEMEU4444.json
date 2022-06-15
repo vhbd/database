@@ -1,0 +1,23 @@
+{
+    "title_id": "MEMEU4444",
+    "name": "MEMEU",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "Deppressiety",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/itz-depression\/MEMEU-vita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/itz-depression\/MEMEU-vita\/releases\/download\/MEMEU-vita\/MEMEU.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MEMEU4444.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/itz-depression\/MEMEU-vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

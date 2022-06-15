@@ -1,0 +1,26 @@
+{
+    "title_id": "ZELDANSQ1",
+    "name": "ZeldaNSQ",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "usineur",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/usineur\/ZeldaNSQ\/vita\/res\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ZELDANSQ1_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/usineur\/ZeldaNSQ\/releases\/download\/1.1.1\/ZeldaNSQ.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ZELDANSQ1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/usineur\/ZeldaNSQ.git"
+    ],
+    "type": "game",
+    "description": "Zelda: Navi's Quest is a sequel game that follows the Vincent Jouillat's Zelda fanmade trilogy.",
+    "version": "v.1.1.1",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "MYLEGNOOB",
+    "name": "HappyLand",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "MyLegGuy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/goodgamesipromise\/HappyLand\/master\/Vpkcontents\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MYLEGNOOB_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/MyLegGuy\/HappyLand\/releases\/download\/v1.1\/HappyLand-1.1.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MYLEGNOOB.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/MyLegGuy\/HappyLand.git"
+    ],
+    "type": "game",
+    "description": "Happy Land is a game where you go on a big quest to retrieve the potatoes that Big Foot stole from you.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

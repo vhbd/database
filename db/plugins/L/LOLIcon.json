@@ -1,0 +1,21 @@
+{
+    "plugin_name": "LOLIcon",
+    "name": "lolita444",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "teakhanirons",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/teakhanirons\/lolita500\/releases\/download\/0.5\/lolita444.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/LOLIcon.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/teakhanirons\/lolita500.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

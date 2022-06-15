@@ -1,0 +1,21 @@
+{
+    "plugin_name": "PSOneScrotKernel",
+    "name": "PSOneScrot",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "cuevavirus",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/forum.devchroma.nl\/index.php?action=dlattach,topic=106.0,attach=21",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/PSOneScrotKernel.skprx"
+    ],
+    "repos": [
+        "https:\/\/git.shotatoshounenwachigau.moe\/vita\/psonescrot"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

@@ -1,0 +1,20 @@
+{
+    "title_id": "ABCD12345",
+    "name": "Henrystickmin PS Vita Port",
+    "updated_at": "2021-10-05",
+    "authors": [
+        {
+            "name": "Foxzx and innersloth",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/icon0\/stickman\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/files.cbps.xyz\/archive\/vpk\/The%20Henry%20Stickmin%20Collection%200.0.9.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

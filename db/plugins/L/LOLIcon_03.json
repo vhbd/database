@@ -1,0 +1,21 @@
+{
+    "plugin_name": "LOLIcon_03",
+    "name": "LOLIcon",
+    "updated_at": "2020-06-03",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "dots-tb",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/dots-tb\/LOLIcon\/releases\/download\/1.0.1.1\/LOLIcon.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/LOLIcon_03.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/dots-tb\/LOLIcon.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

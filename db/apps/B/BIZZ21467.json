@@ -1,0 +1,22 @@
+{
+    "title_id": "BIZZ21467",
+    "name": "ChinaIsSmall",
+    "updated_at": "2021-10-26",
+    "authors": [
+        {
+            "name": "devingDev",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/devingDev\/ChinaIsSmall\/main\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/devingDev\/ChinaIsSmall\/releases\/download\/release\/cispsv.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/devingDev\/ChinaIsSmall\/"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

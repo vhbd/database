@@ -1,0 +1,21 @@
+{
+    "title_id": "FASTRESET",
+    "name": "FastReset",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/fastreset\/downloads\/fastreset-2.0.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FASTRESET.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/fastreset.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

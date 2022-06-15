@@ -1,0 +1,23 @@
+{
+    "title_id": "ACTI00000",
+    "name": "Vita Activator",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "ZombieWizzard",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/yhtez\/vita-activator\/releases\/download\/v1.1\/vita-activator.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ACTI00000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/zth0\/vita-activator.git"
+    ],
+    "type": "app",
+    "description": "Use this homebrew to get activation data on an HENkaku enabled PlayStation Vita.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

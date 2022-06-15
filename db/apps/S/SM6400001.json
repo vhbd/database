@@ -1,0 +1,26 @@
+{
+    "title_id": "SM6400001",
+    "name": "Super Mario 64 PC",
+    "updated_at": "2020-09-01",
+    "authors": [
+        {
+            "name": "bythos14",
+            "type": "author"
+        },
+        {
+            "name": "Nintendo",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SM6400001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SM6400001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/bythos14\/sm64-vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

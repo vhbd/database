@@ -1,0 +1,22 @@
+{
+    "title_id": "ABCD13370",
+    "name": "DarkWlak",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Paulo",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ABCD13370_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABCD13370.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Port of ERRE for PSVITA\/PSTV.\nRun, It's for your own good.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

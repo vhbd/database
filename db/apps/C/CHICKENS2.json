@@ -1,0 +1,22 @@
+{
+    "title_id": "CHICKENS2",
+    "name": "Chicken Launcher",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "crait",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CHICKENS2_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CHICKENS2.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Chicken Launcher is an addictive little game based off of Kitten Cannon where you shoot a chicken as far as you can. Try to hit springboards and TNT to give you a big boost, but watch out for spikes! Your high score is recorded and saved.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

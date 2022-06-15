@@ -1,0 +1,26 @@
+{
+    "title_id": "MEIR00002",
+    "name": "VICEVita",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "ammeir",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/ammeir\/vicevita\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MEIR00002_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ammeir\/vicevita\/releases\/download\/v1.2\/vicevita.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MEIR00002.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ammeir\/vicevita.git"
+    ],
+    "type": "emulator",
+    "description": "VICEVita is a port of the Versatile Commodore Emulator (VICE) for the PlayStation Vita.\nIt features a completely new UI with touch keyboard, savestates and control mappings.",
+    "version": "v.1.2",
+    "license": "Unknown"
+}

@@ -1,0 +1,35 @@
+{
+    "title_id": "ERPG00001",
+    "name": "EasyRPG Player",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "EasyRPG Team",
+            "type": "author"
+        },
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/EasyRPG\/Player\/master\/builds\/psvita\/vpk_builder\/assets\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ERPG00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/ci.easyrpg.org\/job\/player-vita\/lastSuccessfulBuild\/artifact\/builds\/psvita\/EasyRPG.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ERPG00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/EasyRPG\/Player.git"
+    ],
+    "type": "emulator",
+    "description": "EasyRPG Player is a program that allows to play games created with RPG Maker 2000 and 2003.\n\nIt aims to be a free (as in freedom) cross-platform RPG Maker 2000\/2003 interpreter. The main goal is to play all games created with them as the original game interpreter (RPG_RT) does.",
+    "version": "v.0.6.2.3",
+    "videos": [
+        {
+            "youtube_id": "GBAaV7z1XaA"
+        }
+    ],
+    "license": "Unknown"
+}

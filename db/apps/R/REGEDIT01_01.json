@@ -1,0 +1,21 @@
+{
+    "title_id": "REGEDIT01",
+    "name": "RegistryEditor",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "some1",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/github.com\/some1psv\/RegistryEditor\/releases\/download\/v1.0\/RegistryEditor.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/REGEDIT01_01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/some1psv\/RegistryEditor.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

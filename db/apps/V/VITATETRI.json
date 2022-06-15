@@ -1,0 +1,22 @@
+{
+    "title_id": "VITATETRI",
+    "name": "TetrisAttack",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Flappy Jesus",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITATETRI_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITATETRI.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "TetrisAttack\/Pokemon Puzzle League like game with fully working AI.",
+    "version": "v.0.01",
+    "license": "Unknown"
+}

@@ -1,0 +1,22 @@
+{
+    "title_id": "BBRM12345",
+    "name": "BitBot Runners",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "LuckTheGamers",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BBRM12345_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BBRM12345.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Port of BitBot Runners, an indie running game in which your goal is to get points by passing levels and with that being able to buy new characters.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

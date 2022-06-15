@@ -1,0 +1,26 @@
+{
+    "title_id": "SYOBONCAT",
+    "name": "OpenSyobon",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/OpenSyobon-Vita\/master\/builder\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SYOBONCAT_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=201",
+        "https:\/\/dl.coolatoms.org\/vitadb\/Homebrews\/OpenSyobon.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SYOBONCAT.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/OpenSyobon-Vita.git"
+    ],
+    "type": "game",
+    "description": "OpenSyobon Vita is a port of Syobon Action (aka NekoMario \/ CatMario), a frustrating platform game inspired to Super Mario Bros, for PSVITA based on the 3DS port of OpenSyobon by nop90.\nOpenSyobon Vita has a completely reworked audio engine which uses ogg tracks instead of raw ones. This allowed to use better versions of BGM files (for example the Cheetahmen theme is the full one and not just a 15 secs ripped part).",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,24 @@
+{
+    "title_id": "FF4000000",
+    "name": "Final Fantasy IV",
+    "updated_at": "2021-09-19",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/ff4_vita\/ff4\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Rinnegatamante\/ff4_vita\/releases\/download\/v.1.2\/FF4.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/ff4_vita"
+    ],
+    "type": "game",
+    "description": "This is a wrapper\/port of Final Fantasy IV (3D Remake) Android for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.",
+    "version": "v.1.2",
+    "license": "Unknown"
+}

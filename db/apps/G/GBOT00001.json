@@ -1,0 +1,26 @@
+{
+    "title_id": "GBOT00001",
+    "name": "milieTetris",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "GUIDOBOT",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/GUIDOBOT\/milieTetris\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/GBOT00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/raw.githubusercontent.com\/GUIDOBOT\/milieTetris\/master\/release\/milieTetris1.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/GBOT00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/GUIDOBOT\/milieTetris.git"
+    ],
+    "type": "game",
+    "description": "Classic Tetris clone for PSVITA\/PSTV.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

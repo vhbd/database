@@ -1,0 +1,26 @@
+{
+    "title_id": "VITABROT1",
+    "name": "Mandelbrot Explorer",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "Imroy",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Imroy\/VitaBrot\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITABROT1_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Imroy\/VitaBrot\/releases\/download\/v0.1.2\/VitaBrot.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITABROT1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Imroy\/VitaBrot.git"
+    ],
+    "type": "app",
+    "description": "This is a Mandelbrot and Julia set explorer for the Playstation Vita.",
+    "version": "v.0.1.2",
+    "license": "Unknown"
+}

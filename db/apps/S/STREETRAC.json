@@ -1,0 +1,39 @@
+{
+    "title_id": "STREETRAC",
+    "name": "Street Racing",
+    "updated_at": "2020-08-27",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "Mark Overmars",
+            "type": "author"
+        },
+        {
+            "name": "Martin B\u00e9rub\u00e9",
+            "type": "author"
+        },
+        {
+            "name": "Sander Steenhuis",
+            "type": "author"
+        },
+        {
+            "name": "Jacob Habgood",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/STREETRAC_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/gm-shb\/raw\/master\/StreetRacingGMS\/Street%20Racing.VPK",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/STREETRAC.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/gm-shb.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

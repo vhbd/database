@@ -1,0 +1,23 @@
+{
+    "plugin_name": "VGi",
+    "name": "VGi",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Electry",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Electry\/VGi\/releases\/download\/v0.7\/VGi.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/VGi.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Electry\/VGi.git"
+    ],
+    "description": "A simple taiHen plugin that prints useful information about PSVita games.",
+    "version": "v.0.7",
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

@@ -1,0 +1,31 @@
+{
+    "title_id": "CHOC66666",
+    "name": "Chocolate Doom",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "fgsfds",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/fgsfdsfgs\/chocolate-doom\/master\/vita\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CHOC66666_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/fgsfdsfgs\/chocolate-doom\/releases\/download\/chocolate-doom-3.0.0-vita-3.1\/ChocolateDoom_r3_1.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CHOC66666.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/fgsfdsfgs\/chocolate-doom.git"
+    ],
+    "type": "game",
+    "description": "Chocolate Doom is a sourceport of Doom allowing you to play Doom, Doom 2, Final Doom, Heretic, Sigil, Hexen and Strife.",
+    "version": "v.3.1",
+    "data": [
+        "https:\/\/github.com\/fgsfdsfgs\/chocolate-doom\/releases\/download\/chocolate-doom-3.0.0-vita-3.1\/data.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/69ec5ff_data.zip"
+    ],
+    "data_path": "ux0:",
+    "license": "Unknown"
+}

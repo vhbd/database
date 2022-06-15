@@ -1,0 +1,24 @@
+{
+    "title_id": "SQUIDGAME",
+    "name": "Squid Game",
+    "updated_at": "2021-11-18",
+    "authors": [
+        {
+            "name": "AntHJ",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/AntHJ\/Squid-Game\/main\/Game1.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/AntHJ\/Squid-Game\/releases\/download\/v1.0\/Squid.Game.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/AntHJ\/Squid-Game"
+    ],
+    "type": "game",
+    "description": "A challenge based game inspired by the hit Netflix show. Created in Lua using Lua Player Plus.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,23 @@
+{
+    "title_id": "NNHR00001",
+    "name": "xsystem35",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "nunuhara",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/nunuhara\/xsystem35-vita\/vita\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/nunuhara\/xsystem35-vita\/releases\/download\/v00.02\/xsystem35.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/NNHR00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/nunuhara\/xsystem35-vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

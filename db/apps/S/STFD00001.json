@@ -1,0 +1,26 @@
+{
+    "title_id": "STFD00001",
+    "name": "Starfield Vita",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "gnmmarechal",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/gnmmarechal\/starfield-vita\/master\/lpp-builder\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/STFD00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/gnmmarechal\/starfield-vita\/releases\/download\/v0.2\/Starfield-Vita-v0.2.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/STFD00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/gnmmarechal\/starfield-vita.git"
+    ],
+    "type": "game",
+    "description": "A small endless game where you must dodge the stars.\n\nThis is a port (or rather, a rewrite, written at the same time the PC version was being written) of a small game made for Programming classes at my university. I've decided to rewrite it in Lua. It's rather incomplete because the original game isn't finished either, and I'll add most features from the PC version once that one is finished.",
+    "version": "v.0.2",
+    "license": "Unknown"
+}

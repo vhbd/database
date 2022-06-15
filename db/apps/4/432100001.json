@@ -1,0 +1,25 @@
+{
+    "title_id": "432100001",
+    "name": "lua-gameoflife",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "domis4",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/domis4\/lua-gameoflife\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/432100001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/432100001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/domis4\/lua-gameoflife.git"
+    ],
+    "type": "game",
+    "description": "Game of Life is a simple implementation of Conway\u00e2\u20ac\u2122s Game of Life for the PS Vita written in Lua using Lua Player Plus.",
+    "version": "v.0.2",
+    "license": "Unknown"
+}

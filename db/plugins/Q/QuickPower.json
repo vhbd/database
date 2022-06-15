@@ -1,0 +1,21 @@
+{
+    "plugin_name": "QuickPower",
+    "name": "quick_power",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "cuevavirus",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/forum.devchroma.nl\/index.php?action=dlattach,topic=78.0,attach=55",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/QuickPower.suprx"
+    ],
+    "repos": [
+        "https:\/\/git.shotatoshounenwachigau.moe\/vita\/quickpower"
+    ],
+    "plugin_section": "*main",
+    "license": "Unknown"
+}

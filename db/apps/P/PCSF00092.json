@@ -1,0 +1,24 @@
+{
+    "title_id": "PCSF00092",
+    "name": "History Deleter",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "KanadeEngel",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/KanadeEngel\/PS-Vita\/master\/history_deleter\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PCSF00092_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/raw.githubusercontent.com\/KanadeEngel\/PS-Vita\/master\/history_deleter\/History_Deleter_reboot_v2.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PCSF00092.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/KanadeEngel\/PS-Vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

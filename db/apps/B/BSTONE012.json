@@ -1,0 +1,31 @@
+{
+    "title_id": "BSTONE012",
+    "name": "bstone",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "01y",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/01y\/bstone-vita\/develop\/src\/vita\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/BSTONE012_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/01y\/bstone-vita\/releases\/download\/0.3-vita\/bstone-0.3.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/BSTONE012.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/01y\/bstone-vita.git"
+    ],
+    "type": "game",
+    "description": "Port of Blake Stone: Aliens of Gold and Blake Stone: Planet Strike for PSVITA\/PSTV.",
+    "version": "v.0.3",
+    "data": [
+        "https:\/\/github.com\/01y\/bstone-vita\/releases\/download\/0.3-vita\/data-sw.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/d36180de_data.zip"
+    ],
+    "data_path": "ux0:",
+    "license": "Unknown"
+}

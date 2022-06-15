@@ -1,0 +1,31 @@
+{
+    "title_id": "GRZB00002",
+    "name": "vitaSnake",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Grzybojad",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Grzybojad\/vitaSnake\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/GRZB00002_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Grzybojad\/vitaSnake\/releases\/download\/v1.5\/vitaSnake.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/GRZB00002.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Grzybojad\/vitaSnake.git"
+    ],
+    "type": "game",
+    "description": "A snake game with smooth rotation made for the PS Vita.\nWith 5 game modes, each with 2 difficulty modes, there are 10 unique ways to play! Customise your experience further with custom themes available in the options menu.",
+    "version": "v.1.5",
+    "videos": [
+        {
+            "youtube_id": "nMOkPak8w-4"
+        }
+    ],
+    "license": "Unknown"
+}

@@ -1,0 +1,22 @@
+{
+    "title_id": "TOSF87312",
+    "name": "SunflowerChair",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Modello",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/TOSF87312_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TOSF87312.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "A game where you have to avoid to be hit by dropping sunflower seeds.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

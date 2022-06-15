@@ -1,0 +1,21 @@
+{
+    "plugin_name": "NoASLR",
+    "name": "noASLR",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Princess of Sleeping",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-RE-tools\/raw\/master\/noASLR\/release\/noaslr.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/NoASLR.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-RE-tools.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

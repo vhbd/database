@@ -1,0 +1,28 @@
+{
+    "title_id": "SKOG10043",
+    "name": "CATSFC-libretro-vita",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Malachi",
+            "type": "author"
+        },
+        {
+            "name": "skogaby",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/skogaby\/CATSFC-libretro\/master\/vpk\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SKOG10043_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/skogaby\/CATSFC-libretro\/releases\/download\/1.3.0\/CATSFC-libretro-vita-1.3.0.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKOG10043.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/skogaby\/CATSFC-libretro.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,26 @@
+{
+    "title_id": "MIRROR000",
+    "name": "mirrormagic",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "rsn8887",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/rsn8887\/rocksndiamonds\/master\/psp2data\/mirrormagic\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/MIRROR000_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/rsn8887\/rocksndiamonds\/releases\/download\/1.15\/mirrormagic_vita_1.12.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MIRROR000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/rsn8887\/rocksndiamonds.git"
+    ],
+    "type": "game",
+    "description": "Mirrormagic is a game in the tradition of Deflektor and Mindbender written by Holger Schemel. You guide a laser beam by adjusting mirrors before the time limit runs out.",
+    "version": "v1.12",
+    "license": "Unknown"
+}

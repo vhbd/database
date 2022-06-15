@@ -1,0 +1,26 @@
+{
+    "title_id": "CXZV00001",
+    "name": "Vita Font Installer",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "cxziaho",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/cxziaho\/fontInstaller\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/CXZV00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/cxziaho\/fontInstaller\/releases\/download\/1.0\/fontInstaller.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/CXZV00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/cxziaho\/fontInstaller.git"
+    ],
+    "type": "app",
+    "description": "An app for installing the fontRedirect plugin, and selecting fonts using a GUI.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

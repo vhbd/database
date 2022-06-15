@@ -1,0 +1,22 @@
+{
+    "title_id": "RNPYDEMON",
+    "name": "Contract Demon ",
+    "updated_at": "2021-09-17",
+    "authors": [
+        {
+            "name": "SonicMastr",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SonicMastr\/Contract-Demon-Vita\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SonicMastr\/Contract-Demon-Vita\/releases\/download\/v1.0\/Contract.Demon-01.00.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SonicMastr\/Contract-Demon-Vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "plugin_name": "MakePsmGreatAgain",
+    "name": "MakePsmGreatAgain",
+    "updated_at": "2020-06-15",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/makepsmgreatagain\/downloads\/MakePsmGreatAgain-v1.5.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/MakePsmGreatAgain.suprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/makepsmgreatagain.git"
+    ],
+    "plugin_section": "*PCSI00007|*PCSI00009",
+    "license": "Unknown"
+}

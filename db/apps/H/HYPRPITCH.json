@@ -1,0 +1,24 @@
+{
+    "title_id": "HYPRPITCH",
+    "name": "Hyper Princess Pitch",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "JeffRulz345",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/HYPRPITCH_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HYPRPITCH.vpk"
+    ],
+    "repos": [
+        "https:\/\/drive.google.com\/open?id=1gvEHq100kXuMjFLvhMC5MylRO7wiRY6S"
+    ],
+    "type": "game",
+    "description": "Port of Daniel Remar's Hyper Princess Pitch. It's a Christmas themed top-down shooter. While the game is short, it has great replay value with multiple level paths and a wide range of difficulty settings.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

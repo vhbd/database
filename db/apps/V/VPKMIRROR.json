@@ -1,0 +1,29 @@
+{
+    "title_id": "VPKMIRROR",
+    "name": "VPK Mirror",
+    "updated_at": "2020-06-17",
+    "authors": [
+        {
+            "name": "SMOKE",
+            "type": "author"
+        },
+        {
+            "name": "NamelessGhoul0",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SMOKE5\/VPKMirror\/master\/res\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SMOKE5\/VPKMirror\/releases\/download\/v1.1\/VPKMirror.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VPKMIRROR.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SMOKE5\/VPKMirror.git"
+    ],
+    "type": "app",
+    "description": "Downloads and installs homebrews from VPKMirror directly on your PSVita.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

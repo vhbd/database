@@ -1,0 +1,23 @@
+{
+    "title_id": "RINNSIM44",
+    "name": "RinnSim",
+    "updated_at": "2020-05-03",
+    "authors": [
+        {
+            "name": "itz-depression",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/itz-depression\/RinnSimm\/1.0\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/itz-depression\/RinnSimm\/releases\/download\/1.0\/RinnSim.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/RINNSIM44.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/itz-depression\/RinnSimm.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

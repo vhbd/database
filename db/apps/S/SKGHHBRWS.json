@@ -1,0 +1,22 @@
+{
+    "title_id": "SKGHHBRWS",
+    "name": "HentaiHaven",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "SKGleba",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SKGHHBRWS.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKGHHBRWS.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SKGleba\/HH-Vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

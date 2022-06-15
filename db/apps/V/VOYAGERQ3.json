@@ -1,0 +1,31 @@
+{
+    "title_id": "VOYAGERQ3",
+    "name": "vitaVoyager",
+    "updated_at": "2020-05-13",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Rinnegatamante\/vitaVoyager\/master\/build\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VOYAGERQ3_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=491",
+        "https:\/\/dl.coolatoms.org\/vitadb\/13\/vitaVoyager.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VOYAGERQ3.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/vitaVoyager.git"
+    ],
+    "type": "game",
+    "description": "vitaVoyager is a port of lilium-voyager, an ioquake3 fork made to be compatible with multiplayer mode of Star Trek Voyager: Elite Force.",
+    "version": "v.0.8",
+    "data": [
+        "https:\/\/dl.coolatoms.org\/vitavoyager_data.zip",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/689a2463_data.zip"
+    ],
+    "data_path": "ux0:\/data",
+    "license": "Unknown"
+}

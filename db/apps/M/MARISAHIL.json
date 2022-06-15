@@ -1,0 +1,23 @@
+{
+    "title_id": "MARISAHIL",
+    "name": "MARISA HighLow",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "GrapheneCt",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/GrapheneCt\/MARISA-HighLow-PSV\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/GrapheneCt\/MARISA-HighLow-PSV\/releases\/download\/v2.2\/MARISA-HighLow-PSV.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MARISAHIL.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/GrapheneCt\/MARISA-HighLow-PSV.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

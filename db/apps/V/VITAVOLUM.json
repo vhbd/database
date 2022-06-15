@@ -1,0 +1,24 @@
+{
+    "title_id": "VITAVOLUM",
+    "name": "VitaVolume",
+    "updated_at": "2021-04-30",
+    "authors": [
+        {
+            "name": "inthecatsdreams",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/inthecatsdreams\/vita-volume\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITAVOLUM_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/inthecatsdreams\/vita-volume\/releases\/download\/1.4.0\/VitaVolume.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITAVOLUM.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Yowai-dev\/vita-volume.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

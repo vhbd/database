@@ -1,0 +1,23 @@
+{
+    "title_id": "LIRC00001",
+    "name": "luaIrc",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/LIRC00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=51",
+        "https:\/\/dl.coolatoms.org\/vitadb\/Homebrews\/luaIrc.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/LIRC00001.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "luaIrc is an IRC client for PS Vita wrote with Lua Player Plus Vita, allowing you to chat with your friends whenever you want.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

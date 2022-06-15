@@ -1,0 +1,18 @@
+{
+    "title_id": "XERP00002",
+    "name": "FTPVita",
+    "updated_at": "2020-07-07",
+    "authors": [
+        {
+            "name": "xerpi",
+            "type": "author"
+        }
+    ],
+    "icons": [],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/XERP00002.VPK"
+    ],
+    "repos": [],
+    "type": "app",
+    "license": "Unknown"
+}

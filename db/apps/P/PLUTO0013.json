@@ -1,0 +1,22 @@
+{
+    "title_id": "PLUTO0013",
+    "name": "Plutoboy",
+    "updated_at": "2020-08-07",
+    "authors": [
+        {
+            "name": "RossMeikleham",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PLUTO0013.PNG"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PLUTO0013.VPK"
+    ],
+    "repos": [
+        "https:\/\/github.com\/RossMeikleham\/PlutoBoy.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

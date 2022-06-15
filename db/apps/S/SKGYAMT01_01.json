@@ -1,0 +1,23 @@
+{
+    "title_id": "SKGYAMT01",
+    "name": "YAMT installer",
+    "updated_at": "2020-08-30",
+    "authors": [
+        {
+            "name": "SKGleba",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/SKGleba\/yamt-vita\/master\/res\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/SKGleba\/yamt-vita\/releases\/download\/v4.0\/yamt.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SKGYAMT01_01.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/SKGleba\/yamt-vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

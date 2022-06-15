@@ -1,0 +1,22 @@
+{
+    "title_id": "GISH00001",
+    "name": "Gish",
+    "updated_at": "2021-09-17",
+    "authors": [
+        {
+            "name": "isage",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/isage\/Gish-vita\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/isage\/Gish-vita\/releases\/download\/vita-1.1\/Gish.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/isage\/Gish-vita.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

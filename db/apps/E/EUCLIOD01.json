@@ -1,0 +1,27 @@
+{
+    "title_id": "EUCLIOD01",
+    "name": "EUCLIOD",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "HexZyle",
+            "type": "author"
+        },
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/EUCLIOD01_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=263",
+        "https:\/\/dl.coolatoms.org\/vitadb\/Homebrews\/EUCLIOD.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/EUCLIOD01.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "EUCLIOD is a stylistic bullet hell game with several levels (with support for custom levels too), different kind of enemies and bosses and different playable ships. It also has a difficulty bar so unexperienced player with bullet hell games can start practicing.",
+    "version": "r8",
+    "license": "Unknown"
+}

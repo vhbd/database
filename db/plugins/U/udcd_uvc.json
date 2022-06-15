@@ -1,0 +1,21 @@
+{
+    "plugin_name": "udcd_uvc",
+    "name": "vita-udcd-uvc",
+    "updated_at": "2020-05-28",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "xerpi",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/xerpi\/vita-udcd-uvc\/releases\/download\/1.7\/udcd_uvc.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/udcd_uvc.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/xerpi\/vita-udcd-uvc.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

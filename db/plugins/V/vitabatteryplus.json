@@ -1,0 +1,21 @@
+{
+    "plugin_name": "vitabatteryplus",
+    "name": "VITABatteryPlus",
+    "updated_at": "2020-08-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Electric1447",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Electric1447\/VITABatteryPlus\/releases\/download\/1.8\/vitabatteryplus.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/vitabatteryplus.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Electric1447\/VITABatteryPlus.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

@@ -1,0 +1,23 @@
+{
+    "plugin_name": "ds4touch",
+    "name": "ds4Touch",
+    "updated_at": "2020-11-29",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "MERLev",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/MERLev\/ds4Touch\/releases\/download\/1.1.3\/ds4touch.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/ds4touch.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/MERLev\/ds4Touch.git"
+    ],
+    "description": "A plugin that adds ds4 touchpad support to PSTV\/PSVita.",
+    "version": "v.1.0",
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

@@ -1,0 +1,21 @@
+{
+    "plugin_name": "cidSpoof",
+    "name": "cidSpoofer",
+    "updated_at": "2020-06-08",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/cidspoofer\/downloads\/cidSpoof.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/cidSpoof.skprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/cidspoofer.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

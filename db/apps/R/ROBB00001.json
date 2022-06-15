@@ -1,0 +1,26 @@
+{
+    "title_id": "ROBB00001",
+    "name": "gnurobbo",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "bomblik",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/bomblik\/GNU_Robbo_PSVITA_PSP\/master\/psvita\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ROBB00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/bomblik\/GNU_Robbo_PSVITA_PSP\/releases\/download\/GNU_Robbo_0.68_PSVITA\/gnurobbo_0.68.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ROBB00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/bomblik\/GNU_Robbo_PSVITA_PSP.git"
+    ],
+    "type": "game",
+    "description": "GNU Robbo is a free open source reimplementation of game designed by Janusz Pelc and published by LK Avalon in 1989 for the Atari XL\/XE computers. A success on the Polish domestic market, it was later ported to other computer platforms and also released in the United States as The Adventures of Robbo.",
+    "version": "v.0.68",
+    "license": "Unknown"
+}

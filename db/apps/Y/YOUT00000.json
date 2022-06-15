@@ -1,0 +1,23 @@
+{
+    "title_id": "YOUT00000",
+    "name": "YouTube",
+    "updated_at": "2021-03-12",
+    "authors": [
+        {
+            "name": "KuromeSan",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/KuromeSan\/YoutubeApp\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/KuromeSan\/YoutubeApp\/releases\/download\/v0.1\/YOUT00000.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/YOUT00000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/KuromeSan\/YoutubeApp.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

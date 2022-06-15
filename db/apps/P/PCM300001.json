@@ -1,0 +1,22 @@
+{
+    "title_id": "PCM300001",
+    "name": "Pro Camera Vita",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "VitaHEX games",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PCM300001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PCM300001.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "Pro Camera Vita is a powerful camera app that unlocks all the hidden features from the default camera app plus it gives you lots of new options. With Pro Camera Vita you can manually adjust the brightness, the contrast, white balance, you can also add image effects and photo frames to your photos all in real time with smooth framerate.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

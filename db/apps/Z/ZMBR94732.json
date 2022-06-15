@@ -1,0 +1,22 @@
+{
+    "title_id": "ZMBR94732",
+    "name": "Zombiebound Reloaded",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "VitaHEX games",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ZMBR94732_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ZMBR94732.vpk"
+    ],
+    "repos": [],
+    "type": "game",
+    "description": "Zombiebound is an original homebrew zombie-shooting game for the PSVita\/PSTV. The game is a 3D first-person zombie shooter that recalls Nazi Zombies game mode from Call of Duty franchise.",
+    "version": "v.0.21",
+    "license": "Unknown"
+}

@@ -1,0 +1,25 @@
+{
+    "plugin_name": "videoDebug",
+    "name": "VideoDebug",
+    "updated_at": "2020-06-15",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "AltCtrlGraphene",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/videodebug\/downloads\/videoDebug.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/videoDebug.skprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/videodebug.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

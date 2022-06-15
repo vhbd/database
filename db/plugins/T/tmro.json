@@ -1,0 +1,21 @@
+{
+    "plugin_name": "tmro",
+    "name": "RoActDat",
+    "updated_at": "2020-06-15",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/roactdat\/downloads\/RoActDat.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/tmro.skprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/roactdat.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

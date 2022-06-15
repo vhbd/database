@@ -1,0 +1,24 @@
+{
+    "title_id": "UNTITLEDS",
+    "name": "An Untitled Story",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "JeffRulz345",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/UNTITLEDS_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/UNTITLEDS.vpk"
+    ],
+    "repos": [
+        "https:\/\/drive.google.com\/open?id=1WnmCXBQxEASaanJ0jX8fJoeK6NWbxTV7"
+    ],
+    "type": "game",
+    "description": "Classic freeware game filled with secrets and platforming challenges, and has an endearing art style and music.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

@@ -1,0 +1,25 @@
+{
+    "title_id": "LCDSAT000",
+    "name": "LCD Color Saturation",
+    "updated_at": "2020-09-15",
+    "authors": [
+        {
+            "name": "Electric1447",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/Electric1447\/lcd-color-saturation\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Electric1447\/lcd-color-saturation\/releases\/download\/v1.2.0\/lcdsat.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/LCDSAT000.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Electric1447\/lcd-color-saturation.git"
+    ],
+    "type": "app",
+    "description": "A little utility that improves color saturation ons PSVITA Slim models.",
+    "version": "v.1.1.0",
+    "license": "Unknown"
+}

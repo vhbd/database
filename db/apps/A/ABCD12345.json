@@ -1,0 +1,22 @@
+{
+    "title_id": "ABCD12345",
+    "name": "V-cube",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Anchitpatra",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ABCD12345_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABCD12345.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "3D Fractal Renderer based on a PC one for PSVITA.\nIt runs at a consistent 20fps, and with overclocking 30fps.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}

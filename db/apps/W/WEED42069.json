@@ -1,0 +1,23 @@
+{
+    "title_id": "WEED42069",
+    "name": "Super Stoner 420",
+    "updated_at": "2020-06-07",
+    "authors": [
+        {
+            "name": "Rufis_",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Rufis01\/Super.Stoner.420\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Rufis01\/Super.Stoner.420\/releases\/download\/1.1\/superstoner.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/WEED42069.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rufis01\/Super.Stoner.420.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

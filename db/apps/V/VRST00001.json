@@ -1,0 +1,26 @@
+{
+    "title_id": "VRST00001",
+    "name": "Restart",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "devnoname120",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/devnoname120\/vita-restart\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VRST00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/devnoname120\/vita-restart\/releases\/download\/0.10\/vita-restart.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VRST00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/devnoname120\/vita-restart.git"
+    ],
+    "type": "app",
+    "description": "A quick way to reboot your system when Henkaku is running.",
+    "version": "v.0.10",
+    "license": "Unknown"
+}

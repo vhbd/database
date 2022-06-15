@@ -1,0 +1,26 @@
+{
+    "title_id": "ESPL00009",
+    "name": "EasyPlugin",
+    "updated_at": "2020-06-13",
+    "authors": [
+        {
+            "name": "THEN00P",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/THEN00P\/EasyPlugin\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/ESPL00009_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/THEN00P\/EasyPlugin\/releases\/download\/1.1.1\/easyplugin.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ESPL00009.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/THEN00P\/EasyPlugin.git"
+    ],
+    "type": "app",
+    "description": "Easy Plugin is a plugin installer that downloads and installs plugins from VitaDB.\nIt installs most plugins without problems and has support for plugins with data folders or config files.\nIt also has an easy to use menu to choose what app to install the plugin for.",
+    "version": "v.1.1.1",
+    "license": "Unknown"
+}

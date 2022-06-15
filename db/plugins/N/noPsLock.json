@@ -1,0 +1,20 @@
+{
+    "plugin_name": "noPsLock",
+    "name": "NoPSLock",
+    "updated_at": "2020-06-15",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/nopslock\/downloads\/noPsLock.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/noPsLock.suprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/nopslock.git"
+    ],
+    "license": "Unknown"
+}

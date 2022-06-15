@@ -1,0 +1,24 @@
+{
+    "title_id": "STEM00001",
+    "name": "StemLoader",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "Voxel",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/STEM00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/STEM00001.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Voxel9\/Stem-Loader.git"
+    ],
+    "type": "app",
+    "description": "Similar to b0xLoader for the PS3, it can be used for easily launching and testing\/playing SELF (Vita executable) files, that either you or others have created, within a single app.",
+    "version": "v.0.2",
+    "license": "Unknown"
+}

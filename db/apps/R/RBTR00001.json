@@ -1,0 +1,22 @@
+{
+    "title_id": "RBTR00001",
+    "name": "Reboot",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "luck",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/RBTR00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/RBTR00001.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "A quick way to reboot your system when Henkaku is running.",
+    "version": "v.1.1",
+    "license": "Unknown"
+}

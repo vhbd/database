@@ -1,0 +1,20 @@
+{
+    "plugin_name": "unity_debug",
+    "name": "Unity Debug",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "dots-tb",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-RE-tools\/raw\/master\/unity_debug\/release\/unity_debug.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/unity_debug.suprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-RE-tools.git"
+    ],
+    "license": "Unknown"
+}

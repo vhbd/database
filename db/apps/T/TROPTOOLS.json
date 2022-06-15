@@ -1,0 +1,27 @@
+{
+    "title_id": "TROPTOOLS",
+    "name": "\uf8afTrophyDumper",
+    "updated_at": "2020-05-09",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "Princess Of Sleeping",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/trophydumper\/raw\/master\/app\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/trophydumper\/downloads\/TrophyDumper-1.1.vpk",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/TROPTOOLS.vpk"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/trophydumper.git"
+    ],
+    "type": "app",
+    "license": "Unknown"
+}

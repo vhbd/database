@@ -1,0 +1,25 @@
+{
+    "plugin_name": "FuckPSSE",
+    "name": "FuckPSSE",
+    "updated_at": "2020-06-17",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "SilicaAndPina",
+            "type": "author"
+        },
+        {
+            "name": "dots-tb",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/fuckpsse\/downloads\/FuckPSSEv1.1.suprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/FuckPSSE.suprx"
+    ],
+    "repos": [
+        "https:\/\/bitbucket.org\/SilicaAndPina\/fuckpsse.git"
+    ],
+    "plugin_section": "*ALL",
+    "license": "Unknown"
+}

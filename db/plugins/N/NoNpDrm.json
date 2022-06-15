@@ -1,0 +1,23 @@
+{
+    "plugin_name": "NoNpDrm",
+    "name": "NoNpDrm",
+    "updated_at": "2020-05-27",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "TheOfficialFloW",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/TheOfficialFloW\/NoNpDrm\/releases\/download\/v1.2\/nonpdrm.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/NoNpDrm.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/TheOfficialFloW\/NoNpDrm.git"
+    ],
+    "description": "This plugin allows you to bypass DRM protection on any PS Vita content.",
+    "version": "v.1.2",
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

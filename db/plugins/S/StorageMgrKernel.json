@@ -1,0 +1,21 @@
+{
+    "plugin_name": "StorageMgrKernel",
+    "name": "PSVita-StorageMgr",
+    "updated_at": "2020-06-02",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "CelesteBlue-dev",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-StorageMgr\/releases\/download\/v3.2\/storagemgr.skprx",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/plugin\/StorageMgrKernel.skprx"
+    ],
+    "repos": [
+        "https:\/\/github.com\/CelesteBlue-dev\/PSVita-StorageMgr.git"
+    ],
+    "plugin_section": "*KERNEL",
+    "license": "Unknown"
+}

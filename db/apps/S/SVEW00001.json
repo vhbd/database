@@ -1,0 +1,22 @@
+{
+    "title_id": "SVEW00001",
+    "name": "SwitchView",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "VitaHEX games",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SVEW00001_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SVEW00001.vpk"
+    ],
+    "repos": [],
+    "type": "app",
+    "description": "An alternative application launcher with an UI similar to the Nintendo Switch one.",
+    "version": "v.0.1.2",
+    "license": "Unknown"
+}

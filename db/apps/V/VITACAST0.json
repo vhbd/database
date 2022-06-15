@@ -1,0 +1,25 @@
+{
+    "title_id": "VITACAST0",
+    "name": "VITA Forecast",
+    "updated_at": "2020-05-01",
+    "authors": [
+        {
+            "name": "joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/raw.githubusercontent.com\/joel16\/VITAforecast\/master\/sce_sys\/icon0.png",
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/VITACAST0_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITACAST0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/VITAforecast.git"
+    ],
+    "type": "app",
+    "description": "VITAforecast is a weather application that determines the current weather in your area (provided a zip code and country code).\nThis application makes use of a free weather service API offered from openweathermap.org, and parses the data to extract relevant details.",
+    "version": "v.1.0",
+    "license": "Unknown"
+}
