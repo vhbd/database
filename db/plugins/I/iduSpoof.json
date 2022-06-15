@@ -20,5 +20,6 @@
     "repos": [
         "https:\/\/bitbucket.org\/SilicaAndPina\/iduspoof.git"
     ],
+    "plugin_section": "*ALL|*SYSTEM_APP_ID",
     "license": "Unknown"
 }

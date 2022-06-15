@@ -16,5 +16,6 @@
     "repos": [
         "https:\/\/github.com\/yifanlu\/netcheck_bypass.git"
     ],
+    "plugin_section": "*APP_ID",
     "license": "Unknown"
 }
