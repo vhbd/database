@@ -16,5 +16,6 @@
     "repos": [
         "https:\/\/bitbucket.org\/SilicaAndPina\/nopslock.git"
     ],
+    "plugin_section": "*ALL",
     "license": "Unknown"
 }
