@@ -74,7 +74,7 @@
                 "Shooter",
                 "Shmup",
                 "Simulation",
-                "Strategy",
+                "Strategy"
             ]
           }
         },
@@ -130,6 +130,14 @@
             "type": "string"
           }
         },
+        "data_path": {
+          "type": "string",
+          "title": "Data installation path (if any)"
+        },
+        "plugin_section": {
+          "type": "string",
+          "title": "Plugin config section"
+        },
         "updated_at" : {
           "title" : "Updated at date (Y-m-d)",
           "type" : "string"
@@ -168,7 +176,7 @@
                 }
               },
               "required": [
-              "youtube_id"
+                "youtube_id"
               ]
             },
             {
@@ -179,7 +187,7 @@
                 }
               },
               "required": [
-              "vimeo_id"
+                "vimeo_id"
               ]
             }
             ]
@@ -190,6 +198,7 @@
           "items": {
             "type": "string",
             "enum": [
+            "Unknown",
             "Custom",
             "Multiple",
             "PD",
@@ -242,10 +251,10 @@
         "plugin_name",
         "name",
         "type",
-        "icon",
-        "download",
+        "downloads",
         "license",
-        "updated_at"
+        "updated_at",
+        "plugin_section"
         ]
       },
       "else": {
@@ -253,8 +262,8 @@
         "title_id",
         "name",
         "type",
-        "icon",
-        "download",
+        "icons",
+        "downloads",
         "license",
         "updated_at"
         ]
