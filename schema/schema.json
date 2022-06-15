@@ -1,0 +1,264 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$ref": "#/definitions/homebrew",
+  "definitions": {
+    "homebrew": {
+      "title": "Homebrew",
+      "description": "PSVita homebrew",
+      "type": "object",
+      "properties": {
+        "title_id": {
+          "title": "Homebrew title id",
+          "type": "string",
+          "minLength": 9,
+          "maxLength": 9
+        },
+        "plugin_name": {
+          "title": "Plugin filename",
+          "type": "string"
+        },
+        "name": {
+          "title": "Homebrew name",
+          "type": "string"
+        },
+        "type": {
+          "enum": [
+          "app",
+          "game",
+          "emulator",
+          "plugin"
+          ],
+          "description": "Homebrew type",
+          "type": "string"
+        },
+        "dependencies": {
+          "type": "array",
+          "title": "Homebrew dependencies (if any)",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "genres": {
+          "type": "array",
+          "title": "Homebrew genres (if any)",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "enum": [
+                "Action",
+                "Adventure",
+                "Arcade",
+                "Artillery",
+                "Card Game",
+                "Compilation",
+                "Educational",
+                "Fighting",
+                "Flight",
+                "FPS",
+                "MMORPG",
+                "MOBA",
+                "Party",
+                "Platform",
+                "Puzzle",
+                "Racing",
+                "RPG",
+                "Real-Time Strategy",
+                "Real-Time Tactics",
+                "Sports",
+                "Turn-Based Strategy",
+                "Turn-Based Tactics",
+                "TPS",
+                "Rhythm",
+                "Roguelike",
+                "Shooter",
+                "Shmup",
+                "Simulation",
+                "Strategy",
+            ]
+          }
+        },
+        "authors": {
+          "type": "array",
+          "title": "Homebrew authors (if any)",
+          "uniqueItems": true,
+          "items": {
+            "type": "object",
+            "properties" : {
+              "name" : {
+                "type" : "string"
+              },
+              "type" : {
+                "type" : "string",
+                "enum" : [
+                  "author",
+                  "porter"
+                ]
+              }
+            }
+          }
+        },
+        "url": {
+          "title": "Homebrew homepage (if any)",
+          "type": "string"
+        },
+        "version": {
+          "title": "Homebrew version (if any)",
+          "type": "string"
+        },
+        "repos": {
+          "type": "array",
+          "title": "Homebrew source repositories (if any)",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "download": {
+          "type": "array",
+          "title": "Homebrew direct-download URLs (if any)",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "data": {
+          "type": "array",
+          "title": "Homebrew data direct-download URLs (if any)",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "updated_at" : {
+          "title" : "Updated at date (Y-m-d)",
+          "type" : "string"
+        },
+        "description": {
+          "type": "string",
+          "title": "Homebrew description"
+        },
+        "images": {
+          "type": "array",
+          "title": "Homebrew direct-download image URLs (if any)",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "icon": {
+          "type": "array",
+          "title": "Homebrew direct-download icon URLs",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "videos": {
+          "type": "array",
+          "title": "Homebrew videos (if any)",
+          "uniqueItems": true,
+          "items": {
+            "oneOf": [
+            {
+              "type": "object",
+              "properties": {
+                "youtube_id": {
+                  "type": "string"
+                }
+              },
+              "required": [
+              "youtube_id"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "vimeo_id": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+              "vimeo_id"
+              ]
+            }
+            ]
+          }
+        },
+        "licenses": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+            "Custom",
+            "Multiple",
+            "PD",
+            "As-is",
+            "AFL3",
+            "AGPL3",
+            "Apache",
+            "Artistic",
+            "BSD",
+            "BSD2",
+            "BSD4",
+            "bzip2",
+            "CC0",
+            "CC-BY",
+            "CC-BY-NC",
+            "CC-BY-NC-ND",
+            "CC-BY-NC-SA",
+            "CC-BY-SA",
+            "GPL1",
+            "GPL2",
+            "GPL3",
+            "IJG",
+            "ISC",
+            "JRL",
+            "LGPL2",
+            "LGPL3",
+            "Libpng",
+            "MAME",
+            "MIT",
+            "MPL",
+            "MS-PL",
+            "NGPL",
+            "OFL",
+            "Unlicense",
+            "WTFPL",
+            "Zlib"
+            ]
+          }
+        }
+      },
+      "if": {
+        "properties": {
+          "type": {
+            "const": "plugin"
+          }
+        }
+      },
+      "then": {
+        "required": [
+        "plugin_name",
+        "name",
+        "type",
+        "icon",
+        "download",
+        "license",
+        "updated_at"
+        ]
+      },
+      "else": {
+        "required": [
+        "title_id",
+        "name",
+        "type",
+        "icon",
+        "download",
+        "license",
+        "updated_at"
+        ]
+      }
+    }
+  }
+}
