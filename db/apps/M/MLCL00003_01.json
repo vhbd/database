@@ -20,5 +20,5 @@
         "https:\/\/github.com\/henkaku\/enso.git"
     ],
     "type": "app",
-    "license": "Unknown"
+    "license": "MIT"
 }

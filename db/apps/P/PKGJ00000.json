@@ -25,5 +25,5 @@
     "type": "app",
     "description": "This homebrew allows to download and unpack pkg file directly on Vita together with your NoNpDrm fake license.",
     "version": "v.0.55",
-    "license": "Unknown"
+    "license": "BSD2"
 }

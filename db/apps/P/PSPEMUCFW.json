@@ -22,5 +22,5 @@
     "type": "app",
     "description": "Adrenaline is a native eCFW for the PSPEMU allows you to play PSP\/PSX games with custom patches (like GPU shaders for a smoother video quality) directly from your PSVITA\/PSTV.",
     "version": "v.7",
-    "license": "Unknown"
+    "license": "GPL3"
 }

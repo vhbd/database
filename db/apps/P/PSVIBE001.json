@@ -22,5 +22,5 @@
     "type": "app",
     "description": "PSVibe is a simple controller vibrator, inspired by an old PS3 homebrew that can be used to test your controllers.",
     "version": "v.2-final",
-    "license": "Unknown"
+    "license": "GPL3"
 }

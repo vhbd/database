@@ -22,5 +22,5 @@
     "type": "app",
     "description": "The Better Browser Downloader is a modified VPK Mirror direct installer that allows you to download pretty much any file you want from any website.",
     "version": "v.0.95",
-    "license": "Unknown"
+    "license": "GPL3"
 }

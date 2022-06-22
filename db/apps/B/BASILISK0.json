@@ -31,5 +31,5 @@
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/c7b7e3ec_data.zip"
     ],
     "data_path": "ux0:\/data",
-    "license": "Unknown"
+    "license": "GPL2"
 }

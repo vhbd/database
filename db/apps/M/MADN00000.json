@@ -22,5 +22,5 @@
     "type": "game",
     "description": "Try to get all four pawns as fast as you can in the 'home' position and dont get angry when your pawn is hit just before your victory!",
     "version": "v.1.0",
-    "license": "Unknown"
+    "license": "GPL3"
 }

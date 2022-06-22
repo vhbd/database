@@ -20,5 +20,5 @@
     "type": "game",
     "description": "Port of Space Cadet, popular pinball game bundled with Windows XP.",
     "version": "v.1.1.1-VB2",
-    "license": "Unknown"
+    "license": "MIT"
 }

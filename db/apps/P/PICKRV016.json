@@ -22,5 +22,5 @@
     "type": "game",
     "description": "PickrVITA is a port of the game Pickr3DS by BernardoGiordano. The original idea was founded by Sean M. Tracey. The objective of the game is to tap the odd colour found on the screen until you run out of lives. Unlike Sean M. Tracey's game, PickrVITA can only be played in timer mode.",
     "version": "v.1.1",
-    "license": "Unknown"
+    "license": "MIT"
 }

@@ -22,5 +22,5 @@
     "type": "app",
     "description": "An app for installing the fontRedirect plugin, and selecting fonts using a GUI.",
     "version": "v.1.0",
-    "license": "Unknown"
+    "license": "MIT"
 }

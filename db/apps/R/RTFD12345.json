@@ -20,5 +20,5 @@
     "type": "game",
     "description": "Red Runner is an open source endless game similar to Super Meat Boy in its mechanics.",
     "version": "v.1.0",
-    "license": "Unknown"
+    "license": "MIT"
 }

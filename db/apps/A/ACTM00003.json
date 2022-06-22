@@ -22,5 +22,5 @@
     "type": "app",
     "description": "Switch between multiple PSN\/SEN accounts on a PS Vita or PSTV., handle execution history, dump console IDs, save and restore WLAN settings.",
     "version": "v.0.91",
-    "license": "Unknown"
+    "license": "GPL3"
 }

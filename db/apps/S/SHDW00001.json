@@ -18,5 +18,5 @@
     "type": "app",
     "description": "PSVita homebrew for remapping controls\/assigning macros.",
     "version": "Alpha 1",
-    "license": "Unknown"
+    "license": "GPL3"
 }

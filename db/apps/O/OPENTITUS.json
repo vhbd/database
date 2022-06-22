@@ -22,5 +22,5 @@
     "type": "game",
     "description": "A port of the game engine behind the DOS versions of Titus the Fox.",
     "version": "v.1.0",
-    "license": "Unknown"
+    "license": "GPL3"
 }

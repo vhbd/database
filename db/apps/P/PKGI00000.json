@@ -22,5 +22,5 @@
     "type": "app",
     "description": "PKGi allows to install original pkg files on your Vita.\nThis homebrew allows to download & unpack pkg file directly on Vita together with your NoNpDrm fake license.",
     "version": "v.0.05",
-    "license": "Unknown"
+    "license": "Unlicense"
 }

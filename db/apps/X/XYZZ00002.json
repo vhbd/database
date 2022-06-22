@@ -30,5 +30,5 @@
     "type": "app",
     "description": "Vita Moonlight allows you to stream your full collection of Steam games from your powerful Windows desktop to your PSVITA.",
     "version": "v.0.9.1",
-    "license": "Unknown"
+    "license": "GPL3"
 }

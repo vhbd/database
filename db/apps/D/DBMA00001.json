@@ -22,5 +22,5 @@
     "type": "app",
     "description": "A management tool for the VITA icon-layout and app database.",
     "version": "v.1.10",
-    "license": "Unknown"
+    "license": "GPL3"
 }

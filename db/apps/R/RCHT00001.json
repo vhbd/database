@@ -20,5 +20,5 @@
     "type": "app",
     "description": "rinCheat SE allows you to apply several cheats to your savedata with few passages.\nYou can select your savedata slot and your preferred cheats from the official database that will be automatically updated at homebrew start.\nrinCheat SE also works as a database updater for rinCheat since when it will download database updates, it will update both rinCheat and rinCheat SE updates.\nIt supports both rinCheat and vita-savemgr.",
     "version": "v.1.1",
-    "license": "Unknown"
+    "license": "GPL3"
 }

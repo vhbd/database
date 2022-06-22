@@ -22,5 +22,5 @@
     "type": "game",
     "description": "Pingo is a puzzle game in which your goal is to paint the whole level in as little steps as possible. Try to earn 3 stars in 60 hand crafted levels!",
     "version": "v.2.1",
-    "license": "Unknown"
+    "license": "GPL3"
 }

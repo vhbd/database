@@ -22,5 +22,5 @@
     "type": "app",
     "description": "A little app that allows you to properly edit settings of VitaGrafix plugin with an easy to use GUI.",
     "version": "v.3.0",
-    "license": "Unknown"
+    "license": "GPL3"
 }

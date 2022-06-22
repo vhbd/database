@@ -21,5 +21,5 @@
     "type": "game",
     "description": "This is a wrapper\/port of Bully: Anniversary Edition for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.",
     "version": "v.1.0",
-    "license": "Unknown"
+    "license": "MIT"
 }

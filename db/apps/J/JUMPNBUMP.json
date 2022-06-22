@@ -22,5 +22,5 @@
     "type": "game",
     "description": "Jump'n'Bump is a simple but addictive multiplayer game. The goal is to stomp as many other rabbits as possible to win the game.",
     "version": "v.1.00",
-    "license": "Unknown"
+    "license": "GPL2"
 }

@@ -22,5 +22,5 @@
     "type": "app",
     "description": "This utility aims to backup and restore VITA specific files (hardware ids, activation data, databases etc) on the go.",
     "version": "v.2.00",
-    "license": "Unknown"
+    "license": "GPL3"
 }

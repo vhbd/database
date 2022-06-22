@@ -27,5 +27,5 @@
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/bd3d35e_data.zip"
     ],
     "data_path": "ux0:\/data",
-    "license": "Unknown"
+    "license": "GPL2"
 }

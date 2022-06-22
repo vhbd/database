@@ -22,5 +22,5 @@
     "type": "app",
     "description": "Application that allows you to dump and run your physical gamecards.",
     "version": "v.2.0",
-    "license": "Unknown"
+    "license": "MIT"
 }

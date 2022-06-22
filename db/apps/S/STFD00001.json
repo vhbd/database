@@ -22,5 +22,5 @@
     "type": "game",
     "description": "A small endless game where you must dodge the stars.\n\nThis is a port (or rather, a rewrite, written at the same time the PC version was being written) of a small game made for Programming classes at my university. I've decided to rewrite it in Lua. It's rather incomplete because the original game isn't finished either, and I'll add most features from the PC version once that one is finished.",
     "version": "v.0.2",
-    "license": "Unknown"
+    "license": "GPL3"
 }

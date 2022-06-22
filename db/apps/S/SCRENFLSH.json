@@ -17,5 +17,5 @@
     "type": "app",
     "description": "Application that just flashes the PSVITA's screen. Useful if you want to fix dead pixels on your screen.",
     "version": "v.1.1",
-    "license": "Unknown"
+    "license": "MIT"
 }

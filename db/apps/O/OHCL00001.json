@@ -20,5 +20,5 @@
     "type": "game",
     "description": "A multiplatform port of Hydra Castle Labyrinth through SDL.",
     "version": "v2021.11.08",
-    "license": "Unknown"
+    "license": "GPL3"
 }
