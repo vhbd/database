@@ -19,5 +19,5 @@
     "description": "Plugin that replaces standard compressed JPG screenshots with PNG screenshots without watermark.\nIt also enables screenshots taking in every game.",
     "version": "v.1.3",
     "plugin_section": "*main",
-    "license": "Unknown"
+    "license": "MIT"
 }

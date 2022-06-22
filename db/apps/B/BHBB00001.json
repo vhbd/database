@@ -20,5 +20,5 @@
     "type": "app",
     "description": "Homebrew Browser and Downloader for PSVITA with background downloads support.",
     "version": "v.0.61B",
-    "license": "Unknown"
+    "license": "GPL3"
 }

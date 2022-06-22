@@ -21,5 +21,5 @@
     "type": "app",
     "description": "A little utility that allows to dump your console IDPS-",
     "version": "v.0.8",
-    "license": "Unknown"
+    "license": "GPL3"
 }

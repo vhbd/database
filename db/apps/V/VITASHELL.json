@@ -22,5 +22,5 @@
     "type": "app",
     "description": "VitaShell is an alternative replacement of the PS Vita's LiveArea. It offers you a file manager, package installer, built-in FTP and much more.\nIt also have advanced features like USB hard-drive mounting for PSTV users and standard USB protocool implementation for file transfering with a PC.",
     "version": "v.2.02",
-    "license": "Unknown"
+    "license": "GPL3"
 }

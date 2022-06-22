@@ -22,5 +22,5 @@
     "type": "app",
     "description": "This is an app that reboots or powers off your PSVita depending on what trigger you hold. It allows to update or restore icons database too.",
     "version": "v.1.08",
-    "license": "Unknown"
+    "license": "MIT"
 }

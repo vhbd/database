@@ -22,5 +22,5 @@
     "type": "game",
     "description": "Classic game reimplementation of Flashback for PSVITA.",
     "version": "v.0.4.2",
-    "license": "Unknown"
+    "license": "GPL3"
 }

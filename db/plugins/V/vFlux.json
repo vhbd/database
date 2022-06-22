@@ -19,5 +19,5 @@
     "description": "Screen flasher plugin for PSVITA\/PSTV.",
     "version": "v.0.5",
     "plugin_section": "*ALL",
-    "license": "Unknown"
+    "license": "GPL3"
 }

@@ -22,5 +22,5 @@
     "type": "app",
     "description": "A homebrew music player for Playstation VITA that aims to support many different audio formats compared to the offical PS VITA music application.",
     "version": "v.2.10",
-    "license": "Unknown"
+    "license": "Apache"
 }

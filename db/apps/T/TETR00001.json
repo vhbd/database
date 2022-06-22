@@ -22,5 +22,5 @@
     "type": "game",
     "description": "Tetris like game for PSVITA\/PSTV written in Lua.",
     "version": "v.0.8",
-    "license": "Unknown"
+    "license": "GPL3"
 }

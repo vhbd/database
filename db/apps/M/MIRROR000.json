@@ -22,5 +22,5 @@
     "type": "game",
     "description": "Mirrormagic is a game in the tradition of Deflektor and Mindbender written by Holger Schemel. You guide a laser beam by adjusting mirrors before the time limit runs out.",
     "version": "v1.12",
-    "license": "Unknown"
+    "license": "GPL2"
 }

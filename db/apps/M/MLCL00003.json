@@ -26,5 +26,5 @@
     "type": "app",
     "description": "This is a mod of enso CFW by Team Molecule adding several features to it.\nThe following features\/functions were added:\n- Compatibility with both fw3.60 and fw3.65.\n- Ability to keep the original Playstation Boot Logo or use a custom Boot Logo\/Animation.\n- SafeBoot system with auto-config-rebuild feature.\n- sd2vita driver (optional).\n- Update blocker (optional).\n- Installer - ability to skip checks (force flash).",
     "version": "v.4.5.1",
-    "license": "Unknown"
+    "license": "MIT"
 }

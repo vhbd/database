@@ -26,5 +26,5 @@
     "type": "app",
     "description": "Bad Apple recreated with monoRLE graphical engine.\nBad Apple is a Japanese dance pop song originally featured in one of the arcade games from the Touhou series.",
     "version": "v.1.0",
-    "license": "Unknown"
+    "license": "MIT"
 }

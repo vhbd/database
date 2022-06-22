@@ -17,5 +17,5 @@
         "https:\/\/github.com\/GrapheneCt\/HonRipper.git"
     ],
     "plugin_section": "*PCSC80012",
-    "license": "Unknown"
+    "license": "MIT"
 }

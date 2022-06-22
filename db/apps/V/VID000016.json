@@ -22,5 +22,5 @@
     "type": "app",
     "description": "VITAident is a tool inspired by PSPident - which was originally developed by Jas0nuk and later updated by Yoti. The tool was used to obtain more information about your PSP's motherboard, firmware etc. Similarly the VITA version - VITAident aims to display more information about your PS VITA. It is currently a work in progress.",
     "version": "v.0.7.4",
-    "license": "Unknown"
+    "license": "GPL3"
 }

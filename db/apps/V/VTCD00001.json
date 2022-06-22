@@ -22,5 +22,5 @@
     "type": "app",
     "description": "A Discord client for PSVITA\/PSTV.",
     "version": "v.1.5fix1",
-    "license": "Unknown"
+    "license": "GPL3"
 }

@@ -17,5 +17,5 @@
     "type": "app",
     "description": "A simple homebrew for testing the input data on the PSVita.",
     "version": "v.1.3",
-    "license": "Unknown"
+    "license": "MIT"
 }

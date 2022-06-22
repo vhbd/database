@@ -22,5 +22,5 @@
     "description": "This little kernel plugin allows users to improve their experience with PSVITA analogs by allowing to set a specific deadzone value between 0 and 128 for each analog,enable software rescaling of analogs output for better precision and force PSVITA system to use ANALOG_WIDE mode even when ANALOG mode is used causing a better precision in general.\r\n",
     "version": "v.1.1",
     "plugin_section": "*KERNEL",
-    "license": "Unknown"
+    "license": "GPL3"
 }

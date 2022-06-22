@@ -17,5 +17,5 @@
         "https:\/\/github.com\/nowrep\/vita-shellbat.git"
     ],
     "plugin_section": "*main",
-    "license": "Unknown"
+    "license": "MIT"
 }

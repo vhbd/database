@@ -22,5 +22,5 @@
     "type": "game",
     "description": "A chain reaction game for PSVITA\/PSTV wrote in Lua.",
     "version": "v.0.2",
-    "license": "Unknown"
+    "license": "GPL3"
 }

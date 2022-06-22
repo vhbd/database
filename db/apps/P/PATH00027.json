@@ -22,5 +22,5 @@
     "type": "app",
     "description": "This is a document reader for the PS VITA based on the original Bookr and bookr-mod for PSP.",
     "version": "v.0.4.0a",
-    "license": "Unknown"
+    "license": "GPL3"
 }
