@@ -16,10 +16,8 @@
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/THTR00001_icon0.png"
     ],
     "downloads": [
-        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=376",
-        "https:\/\/dl.coolatoms.org\/vitadb\/Tetromino - Touhou Edition.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/THTR00001.vpk"
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/THTR00001.vpk"
     ],
-    "repos": [],
     "type": "game",
     "description": "A Tetris clone based on vita-tetromino with added features and based on Touhou for the theme.",
     "version": "v.0.7A-TH1",

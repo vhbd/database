@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/DEFD20485.vpk"
     ],
-    "repos": [],
     "type": "game",
     "description": "A simple port of 2048 for PSVITA\/PSTV.",
     "version": "v.1.0",

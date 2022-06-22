@@ -18,7 +18,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ACTIVAMLT.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "Utility that activates your system offline using files from another account and device. Do not use the system online or you'll get a ban.",
     "version": "FIX2",

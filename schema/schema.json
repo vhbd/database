@@ -35,6 +35,7 @@
           "type": "array",
           "title": "Homebrew dependencies (if any)",
           "uniqueItems": true,
+          "minItems": 1,
           "items": {
             "type": "string"
           }
@@ -43,6 +44,7 @@
           "type": "array",
           "title": "Homebrew genres (if any)",
           "uniqueItems": true,
+          "minItems": 1,
           "items": {
             "type": "string",
             "enum": [
@@ -111,6 +113,7 @@
           "type": "array",
           "title": "Homebrew source repositories (if any)",
           "uniqueItems": true,
+          "minItems": 1,
           "items": {
             "type": "string"
           }
@@ -128,6 +131,7 @@
           "type": "array",
           "title": "Homebrew data direct-download URLs (if any)",
           "uniqueItems": true,
+          "minItems": 1,
           "items": {
             "type": "string"
           }
@@ -152,6 +156,7 @@
           "type": "array",
           "title": "Homebrew direct-download image URLs (if any)",
           "uniqueItems": true,
+          "minItems": 1,
           "items": {
             "type": "string"
           }
@@ -168,6 +173,7 @@
         "videos": {
           "type": "array",
           "title": "Homebrew videos (if any)",
+          "minItems": 1,
           "uniqueItems": true,
           "items": {
             "oneOf": [

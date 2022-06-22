@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABYD12945.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "An app that automatically solves any Rubik's cube scheme thanks to Friedrich method.",
     "version": "v.1.0",

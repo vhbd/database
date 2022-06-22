@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VREC00001.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "Voice Recorder Vita is a simple sound recording app that was missing from the Vita.\nYou can record for up to 30 seconds and your recordings are saved in ux0:\/data\/Recordings\/ in .wav format.",
     "version": "v.1.0",

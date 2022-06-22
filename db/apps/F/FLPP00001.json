@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/FLPP00001.vpk"
     ],
-    "repos": [],
     "type": "game",
     "description": "Flappy Bird clone for the PS Vita wrote in Lua using Lua Player Plus.",
     "version": "v.1.3",

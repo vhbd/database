@@ -12,10 +12,8 @@
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/OBJL00001_icon0.png"
     ],
     "downloads": [
-        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=223",
-        "https:\/\/dl.coolatoms.org\/vitadb\/Vita Object Loader.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/OBJL00001.vpk"
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/OBJL00001.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "Vita Object Loader is a 3D model viewer wrote with lpp-vita fully opensource.\nIt can be used for benchmark purposes (take in mind models are soft rendered!) or just for fun.\nIt supports Wavefront (.obj) models but with some restrictions: only triangles primitives, materials are not supported.",
     "version": "v.1.1",

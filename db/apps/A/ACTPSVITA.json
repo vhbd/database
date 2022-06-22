@@ -15,7 +15,6 @@
         "http:\/\/aldezo.bplaced.net\/SystemCheckEnabled.vpk",
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ACTPSVITA.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "Simple homebrew that checks if your system is enabled.",
     "version": "v.1.0",
