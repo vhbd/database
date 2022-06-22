@@ -1,0 +1,24 @@
+{
+    "title_id": "SDLSAND01",
+    "name": "SDL2Sand",
+    "updated_at": "2022-01-20",
+    "authors": [
+        {
+            "name": "gl33ntwine",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https://github.com/v-atamanenko/sdl2sand/raw/master/sce_sys/icon0.png"
+    ],
+    "downloads": [
+        "https://github.com/v-atamanenko/sdl2sand/releases/download/1.0/sdlsand.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/v-atamanenko\/sdl2sand"
+    ],
+    "type": "game",
+    "description": "SDL2Sand is another implementation of the now-classic Falling Sand Game, old-school and minimalistic. The game simulates different particles (such as sand, water, oil or fire) interacting with each other. Freedom is given to the player to experiment with different materials in a sandbox environment.",
+    "version": "v1.0",
+    "license": "GPL2"
+}

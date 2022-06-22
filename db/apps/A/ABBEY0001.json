@@ -1,0 +1,24 @@
+{
+    "title_id": "ABBEY0001",
+    "name": "Abbey of Crime",
+    "updated_at": "2021-03-07",
+    "authors": [
+        {
+            "name": "Samuel85",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Samuel85\/Abbey\/raw\/main\/build_vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Samuel85\/Abbey\/releases\/download\/Vita_v1.0\/abbey_v1.0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Samuel85\/Abbey"
+    ],
+    "type": "game",
+    "description": "A free game inspired by Umberto Eco's novel and Jean-Jaques Annaud's film \"The Name of the Rose\", and based on the game \"La abad\u00eda del crimen\" by Paco Men\u00e9ndez and Juan Delc\u00e1n.",
+    "version": "v1.0",
+    "license": "Unknown"
+}

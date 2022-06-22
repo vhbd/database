@@ -5,7 +5,7 @@
     "authors": [
         {
             "name": "isage",
-            "type": "author"
+            "type": "porter"
         }
     ],
     "icons": [
@@ -17,6 +17,8 @@
     "repos": [
         "https:\/\/github.com\/isage\/Gish-vita.git"
     ],
-    "type": "app",
-    "license": "Unknown"
+    "type": "game",
+    "version": "vita-1.1",
+    "description": "PSVita port of Gish, 2004 platform game developed and published by Chronic Logic.",
+    "license": "GPL2"
 }

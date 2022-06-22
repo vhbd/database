@@ -1,0 +1,28 @@
+{
+    "title_id": "ROTT00001",
+    "name": "rottexpr-vita",
+    "updated_at": "2022-04-02",
+    "authors": [
+        {
+            "name": "Northfear",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Northfear\/rottexpr-vita\/raw\/master\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Northfear\/rottexpr-vita\/releases\/download\/v1.0-vita.1\/rottexpr.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Northfear\/rottexpr-vita"
+    ],
+    "data": [
+        "https:\/\/www.libsdl.org\/projects\/SDL_mixer\/timidity\/timidity.tar.gz"
+    ],
+    "data_path": "ux0:\/data\/",
+    "type": "game",
+    "description": "Port of rottexpr, a source port of Rise of the Triad with improvements and new features based off of the icculus Rise of the Triad source port release.",
+    "version": "v1.0-vita.1",
+    "license": "GPL2"
+}

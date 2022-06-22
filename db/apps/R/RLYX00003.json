@@ -1,0 +1,24 @@
+{
+    "title_id": "RLYX00003",
+    "name": "Vita Kohana",
+    "updated_at": "2022-03-20",
+    "authors": [
+        {
+            "name": "rlyx",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/rlyx\/vita-kohana\/-\/raw\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/cdn.discordapp.com\/attachments\/943565235309117521\/954832214800105482\/Vita_Kohana_1.02.vpk"
+    ],
+    "repos": [
+        "https:\/\/gitlab.com\/rlyx\/vita-kohana"
+    ],
+    "type": "game",
+    "description": "Kohana is a short visual novel made in one month by Mushroomallow Studio for Spooktober VN Jam 2021 event. There are 2 different endings that you can find in this visual novel.",
+    "version": "v1.02",
+    "license": "Unknown"
+}

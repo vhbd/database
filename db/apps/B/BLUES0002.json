@@ -1,0 +1,24 @@
+{
+    "title_id": "BLUES0002",
+    "name": "The Blues Brothers: Jukebox Adventure",
+    "updated_at": "2022-01-17",
+    "authors": [
+        {
+            "name": "gl33ntwine",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/v-atamanenko\/blues-vita\/raw\/master\/sce_sys\/ja_icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/v-atamanenko\/blues-vita\/releases\/download\/1.0\/bb-jukebox.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/v-atamanenko\/blues-vita"
+    ],
+    "type": "game",
+    "description": "Jukebox Adventure is the sequel to The Blues Brothers. Once again, the player has to choose a favourite Blues Brother and take him through different side-scrolling platform levels. He needs to collect records and use them as defence by throwing them towards enemies. There are also power-ups that can be gathered until the jukebox to progress to the next level is found.",
+    "version": "v1.0",
+    "license": "Unknown"
+}

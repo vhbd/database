@@ -1,0 +1,24 @@
+{
+    "title_id": "MKRANDOM0",
+    "name": "Mkrandom",
+    "updated_at": "2021-03-27",
+    "authors": [
+        {
+            "name": "Tau5",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Tau5\/mkrandom\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Tau5\/mkrandom\/releases\/download\/1.00\/mkrandom.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Tau5\/mkrandom"
+    ],
+    "type": "app",
+    "description": "A PSVita app that generates configurations for Mario Kart races randomly.",
+    "version": "v1.00",
+    "license": "MIT"
+}

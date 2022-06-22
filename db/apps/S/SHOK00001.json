@@ -1,0 +1,24 @@
+{
+    "title_id": "SHOK00001",
+    "name": "Shockolate",
+    "updated_at": "2022-02-21",
+    "authors": [
+        {
+            "name": "Northfear",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https://github.com/Northfear/systemshock-vita/raw/master/vita/sce_sys/icon0.png"
+    ],
+    "downloads": [
+        "https://github.com/Northfear/systemshock-vita/releases/download/v0.8.2-vita.1/systemshock.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Northfear\/systemshock-vita"
+    ],
+    "type": "game",
+    "description": "System Shock is a 1994 first-person action-adventure video game developed by LookingGlass Technologies and published by Origin Systems. It was directed by Doug Church with Warren Spector serving as producer. The game is set aboard a space station in a cyberpunk vision of the year 2072. Assuming the role of a nameless security hacker, the player attempts to hinder the plans of a malevolent artificial intelligence called SHODAN.",
+    "version": "v0.8.2-vita.1",
+    "license": "GPL3"
+}

@@ -1,0 +1,28 @@
+{
+    "title_id": "WDEV75837",
+    "name": "uMario",
+    "updated_at": "2021-11-23",
+    "authors": [
+        {
+            "name": "jakowskidev",
+            "type": "author"
+        },
+        {
+            "name": "WeegeeDEVELOPER",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/WeegeeDEVELOPER\/uMario-PSVita-Port\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/WeegeeDEVELOPER\/uMario-PSVita-Port\/releases\/download\/1.2.7\/uMario.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/WeegeeDEVELOPER\/uMario-PSVita-Port"
+    ],
+    "type": "game",
+    "description": "Port of uMario for PSVITA. uMario is a recreation of Super Mario Bros with widescreen patch and some added options.",
+    "version": "v1.2.7",
+    "license": "GPL2"
+}

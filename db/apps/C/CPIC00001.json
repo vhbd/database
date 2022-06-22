@@ -1,0 +1,24 @@
+{
+    "title_id": "CPIC00001",
+    "name": "CopyIcons",
+    "updated_at": "2020-09-30",
+    "authors": [
+        {
+            "name": "cy33hc",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/cy33hc\/copyicons\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/cy33hc\/copyicons\/releases\/download\/1.01\/CopyIcons.vpk"
+    ],
+    "repos": [
+        "https:\\/\\/github.com\\/cy33hc\\/copyicons"
+    ],
+    "type": "app",
+    "description": "This application is used for bulk copying icon0.png\/pic0.png from the ux0:app\/GAME_ID\/sce_sys to the ur0:appmeta\/GAME_ID folder. To be used in conjuction with Vita Launcher.",
+    "version": "1.01",
+    "license": "GPL3"
+}

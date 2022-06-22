@@ -1,0 +1,24 @@
+{
+    "title_id": "VCRA00001",
+    "name": "VanillaRA",
+    "updated_at": "2022-01-13",
+    "authors": [
+        {
+            "name": "Northfear",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Northfear\/Vanilla-Conquer-vita\/raw\/vanilla\/vita\/sce_sys\/icon_ra.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Northfear\/Vanilla-Conquer-vita\/releases\/download\/v0-vita.5\/vanillara.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Northfear\/Vanilla-Conquer-vita"
+    ],
+    "type": "game",
+    "description": "Vanilla Conquer is a fully portable version of the first-generation C&C engine and can run both Tiberian Dawn and Red Alert on multiple platforms.\nThis is the Red Alert executable (formerly VanillaRA).\nThe focus of Vanilla Conquer is to keep the default out-of-box experience faithful to what the games were back when they were released and work as a drop-in replacement for the original executables while also providing bug fixes, compatibility and quality of life improvements.",
+    "version": "v0-vita.5",
+    "license": "GPL3"
+}

@@ -1,0 +1,22 @@
+{
+    "plugin_name": "alienhook",
+    "name": "alienhook",
+    "updated_at": "2022-06-22",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "isage",
+            "type": "author"
+        }
+    ],
+    "downloads": [
+        "https://github.com/isage/alienhook/releases/download/2.0/alienhook.suprx"
+    ],
+    "repos": [
+        "https://github.com/isage/alienhook/"
+    ],
+    "description": "Unlocks Alien Shooter DLC campains",
+    "version": "2.0",
+    "plugin_section": "*PCSB00561|*PCSE00445",
+    "license": "MIT"
+}

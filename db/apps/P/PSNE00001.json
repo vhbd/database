@@ -13,18 +13,13 @@
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/PSNE00001_icon0.png"
     ],
     "downloads": [
-        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/PSNE00001.vpk"
+        "https:\/\/github.com\/Cpasjuste\/pemu\/releases\/download\/v6.5\/psnes.vpk"
     ],
     "repos": [
         "https:\/\/github.com\/Cpasjuste\/pemu.git"
     ],
     "type": "emulator",
     "description": "SNES emulator, multiplatform port of snes9x emulator.",
-    "version": "v.6.5",
-    "data": [
-        "https:\/\/github.com\/Cpasjuste\/pemu\/releases\/download\/v4.4\/pfba-4.4_vita.zip",
-        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/7ac650de_data.zip"
-    ],
-    "data_path": "ux0:\/data",
-    "license": "Unknown"
+    "version": "v6.5",
+    "license": "GPL3"
 }

@@ -1,0 +1,28 @@
+{
+    "title_id": "VVVVVVITA",
+    "name": "VVVVVV",
+    "updated_at": "2022-06-23",
+    "authors": [
+        {
+            "name": "TerryCavanagh",
+            "type": "author"
+        },
+        {
+            "name": "isage",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https://github.com/isage/VVVVVV/raw/vita/desktop_version/platform/vita/sce_sys/icon0.png"
+    ],
+    "downloads": [
+        "https://github.com/isage/VVVVVV/releases/download/2.3.4-vita/VVVVVV.vpk"
+    ],
+    "repos": [
+        "https://github.com/isage/VVVVVV/tree/vita"
+    ],
+    "type": "game",
+    "description": "VVVVVV is a platform game all about exploring one simple mechanical idea - what if you reversed gravity instead of jumping?",
+    "version": "2.3.4-vita",
+    "license": "Custom"
+}

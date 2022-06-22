@@ -1,0 +1,24 @@
+{
+    "title_id": "CGEN00001",
+    "name": "Commander Genius",
+    "updated_at": "2021-12-17",
+    "authors": [
+        {
+            "name": "Northfear",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Northfear\/Commander-Genius\/raw\/master\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Northfear\/Commander-Genius\/releases\/download\/v3.0.9-vita.2\/CommanderGenius.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Northfear\/Commander-Genius"
+    ],
+    "type": "game",
+    "description": "Port of Commander Genius for PSVITA\/PSTV. Commander Genius is an open-source clone of Commander Keen (1-6, Dreams) which allows you to play these episodes and some of the mods made for them.",
+    "version": "v3.0.9-vita.2",
+    "license": "GPL2"
+}

@@ -1,0 +1,24 @@
+{
+    "title_id": "WLOGICWC1",
+    "name": "Water Closet",
+    "updated_at": "2022-01-09",
+    "authors": [
+        {
+            "name": "withLogic",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/withLogic\/waterCloset\/raw\/master\/data\/psp2\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/withLogic\/waterCloset\/releases\/download\/v1.0\/watercloset.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/withLogic\/waterCloset"
+    ],
+    "type": "game",
+    "description": "Water Closet (AKA WC) is a (somewhat ridiculous) 2D platform puzzle game. Guide Walter Chambers through a series of stages as he attempts to return home from a bizarre world that he has become trapped in.",
+    "version": "v1.0",
+    "license": "GPL3"
+}
