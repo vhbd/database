@@ -1,0 +1,24 @@
+{
+    "title_id": "SCLC00001",
+    "name": "Septerra Core: Legacy of the Creator",
+    "updated_at": "2022-06-23",
+    "authors": [
+        {
+            "name": "isage",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https://github.com/isage/septerra-core-vita/raw/master/sce_sys/icon0.png"
+    ],
+    "downloads": [
+        "https://github.com/isage/septerra-core-vita/releases/download/v1.0/sc.vpk"
+    ],
+    "repos": [
+        "https://github.com/isage/septerra-core-vita/"
+    ],
+    "type": "app",
+    "description": "Septerra Core: Legacy of the Creator - PSVita port",
+    "version": "1.0",
+    "license": "MIT"
+}

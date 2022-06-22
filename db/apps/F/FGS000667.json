@@ -1,0 +1,28 @@
+{
+    "title_id": "FGS000667",
+    "name": "PrBoom Plus",
+    "updated_at": "2020-11-06",
+    "authors": [
+        {
+            "name": "fgsfds",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/fgsfdsfgs\/prboom-plus\/raw\/vita\/prboom2\/data\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/fgsfdsfgs\/prboom-plus\/releases\/download\/v2.5.1.7um-vita-r1.2\/prboom-plus-r1.2.vpk"
+    ],
+    "data": [
+        "https:\/\/github.com\/fgsfdsfgs\/prboom-plus\/releases\/download\/v2.5.1.7um-vita-r1.2\/data.zip"
+    ],
+    "data_path": "ux0:\/",
+    "repos": [
+        "https:\/\/github.com\/fgsfdsfgs\/prboom-plus"
+    ],
+    "type": "game",
+    "description": "PrBoom Plus is a Doom source port developed from the original PrBoom project.\nIt has completely hardware accelerated renderer and supports several advanced features.",
+    "version": "v1.2",
+    "license": "GPL2"
+}

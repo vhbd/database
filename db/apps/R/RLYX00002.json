@@ -1,0 +1,24 @@
+{
+    "title_id": "RLYX00002",
+    "name": "Vita Milk",
+    "updated_at": "2022-03-04",
+    "authors": [
+        {
+            "name": "rlyx",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/gitlab.com\/rlyx\/vita-milk\/-\/raw\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/cdn.discordapp.com\/attachments\/943565235309117521\/949165659407925328\/Vita_Milk_1.03.vpk"
+    ],
+    "repos": [
+        "https:\/\/gitlab.com\/rlyx\/vita-milk"
+    ],
+    "type": "game",
+    "description": "A short story about what sort of challenges everyday little things can be. Help the girl buy milk, be the first not to disappoint her.\nThe game is a small visual novel, showing either funny abstraction and wordplay or painful psychological episodes. The claim that history is based on real events will be too specific, so it is easier to pretend that it is just a set of abstractions and wordplay.",
+    "version": "v1.03",
+    "license": "Unknown"
+}

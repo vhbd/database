@@ -1,0 +1,24 @@
+{
+    "title_id": "COVID19AP",
+    "name": "Covid 19 Apocalypse",
+    "updated_at": "2021-10-29",
+    "authors": [
+        {
+            "name": "Gremlin Software",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/softwaregremlin\/Covid-19-Apocalypse\/raw\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/softwaregremlin\/Covid-19-Apocalypse\/releases\/download\/v1%2C0\/covid19Apocalypse.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/softwaregremlin\/Covid-19-Apocalypse"
+    ],
+    "type": "game",
+    "description": "The year is 2521, Covid 19 has evolved into a demonic form sort of like the pink ogre creature from Doom but not as good. You are the last hope for mankind.\nThis game is \"in the style of\" the Commodore 64, with similar sounds, colour palette and resolution.\nIt's a 8 bit style point-and-shoot game based on a Covid-19 Apocalypse Theme.",
+    "version": "v1.0",
+    "license": "Unknown"
+}

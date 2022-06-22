@@ -1,0 +1,24 @@
+{
+    "title_id": "FLWT02021",
+    "name": "Flowit",
+    "updated_at": "2022-01-01",
+    "authors": [
+        {
+            "name": "ywnico",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/ywnico\/flowit-vita\/raw\/main\/flowit-vita\/app_skeleton\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/ywnico\/flowit-vita\/releases\/download\/v1.1.0\/Flowit_v1.1.0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/ywnico\/flowit-vita"
+    ],
+    "type": "game",
+    "description": "Easy to learn, hard to master. Play the addicting puzzle game Flowit now and to think outside the box. There are already 75 levels available and even more to come. The game features a clean and elegant design - you will be amazed by the simplicity and complexity at the same time. Fill all boxes with the color of their border by using the special boxes. Those, for example, fill surrounding boxes in only one direction with their color. Discover various types of special boxes in the provided level packs.",
+    "version": "v1.0.0",
+    "license": "GPL3"
+}

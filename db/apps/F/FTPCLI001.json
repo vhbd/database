@@ -1,0 +1,24 @@
+{
+    "title_id": "FTPCLI001",
+    "name": "vita-ftp-client",
+    "updated_at": "2022-05-05",
+    "authors": [
+        {
+            "name": "cy33hc",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/cy33hc\/vita-ftp-client\/raw\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/cy33hc\/vita-ftp-client\/releases\/download\/latest\/ftpclient.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/cy33hc\/vita-ftp-client"
+    ],
+    "type": "app",
+    "description": "A simple FTP client for PSVITA.",
+    "version": "v1.40",
+    "license": "GPL3"
+}

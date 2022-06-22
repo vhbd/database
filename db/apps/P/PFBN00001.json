@@ -1,0 +1,24 @@
+{
+    "title_id": "PFBN00001",
+    "name": "pFBN",
+    "updated_at": "2022-05-20",
+    "authors": [
+        {
+            "name": "cpasjuste",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Cpasjuste\/pemu\/raw\/master\/pfbneo\/data\/vita\/romfs\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Cpasjuste\/pemu\/releases\/download\/v6.5\/pfbneo.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Cpasjuste\/pemu\/tree\/master\/pfbneo"
+    ],
+    "type": "emulator",
+    "description": "Several Arcades emulator, multiplatform port of FinalBurn Neo emulator.",
+    "version": "v6.5",
+    "license": "GPL3"
+}

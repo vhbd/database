@@ -1,0 +1,24 @@
+{
+    "title_id": "PPPP00817",
+    "name": "PHP8 Player++",
+    "updated_at": "2022-06-22",
+    "authors": [
+        {
+            "name": "isage",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https://github.com/isage/pppp-vita/raw/master/sce_sys/icon0.png"
+    ],
+    "downloads": [
+        "https://github.com/isage/pppp-vita/releases/download/1.0/pppp.vpk"
+    ],
+    "repos": [
+        "https://github.com/isage/pppp-vita/"
+    ],
+    "type": "app",
+    "version": "1.0",
+    "description": "Embedded php8 port with SDL2 support to allow writing cita apps/games in php.",
+    "license": "Custom"
+}

@@ -1,0 +1,29 @@
+{
+    "title_id": "VGLJETMAN",
+    "name": "JetMan-3D",
+    "updated_at": "2021-08-13",
+    "authors": [
+        {
+            "name": "Gremlin Software",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https://github.com/softwaregremlin/Jetman3D/raw/main/sce_sys/icon0.png"
+    ],
+    "downloads": [
+        "https://github.com/softwaregremlin/Jetman3D/releases/download/Main/JetMan-3D.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/softwaregremlin\/Jetman3D\/"
+    ],
+    "type": "game",
+    "description": "This game is a fan-made tribute to an early 80's classic with a similar title, originally released on the ZX Spectrum and Vic 20. If the game had been re-made in the early days of 3D, perhaps for the Playstation 1 - it may have looked something like this.",
+    "version": "v.1.0",
+    "videos": [
+        {
+            "youtube_id": "6jAZwwYhiCA"
+        }
+    ],
+    "license": "Unknown"
+}

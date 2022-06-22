@@ -1,0 +1,33 @@
+{
+    "title_id": "WARG00001",
+    "name": "Wargus",
+    "updated_at": "2021-08-07",
+    "authors": [
+        {
+            "name": "Northfear",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Northfear\/stratagus-vita\/raw\/master\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Northfear\/stratagus-vita\/releases\/download\/v3.1.3-vita.2\/stratagus.vpk"
+    ],
+    "data": [
+        "https:\/\/github.com\/Northfear\/stratagus-vita\/releases\/download\/v3.1.3-vita.2\/stratagus_data.zip"
+    ],
+    "data_path": "ux0:data\/",
+    "repos": [
+        "https:\/\/github.com\/Northfear\/stratagus-vita"
+    ],
+    "type": "game",
+    "description": "Wargus is a Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine. The game looks and sounds almost exactly like Warcraft 2. The gameplay is very close to Warcraft 2\u2019s gameplay, with slight enhancements towards Starcraft and other more modern RTS games.",
+    "version": "v3.1.3-vita.2",
+    "videos": [
+        {
+            "youtube_id": "HC1fR0nEecA"
+        }
+    ],
+    "license": "GPL2"
+}

@@ -1,0 +1,28 @@
+{
+    "title_id": "FDDR00001",
+    "name": "OpenFodder",
+    "updated_at": "2022-06-23",
+    "authors": [
+        {
+            "name": "isage",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/isage\/openfodder\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/isage\/openfodder\/releases\/download\/1.6.1\/openfodder-1.6.1.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/isage\/openfodder\/"
+    ],
+    "data": [
+        "https:\/\/github.com\/OpenFodder\/data\/releases\/download\/1.6.0\/Data.pack.1.6.0.zip"
+    ],
+    "data_path": "ux0:\/data\/OpenFodder\/",
+    "type": "game",
+    "description": "Cannon Fodder is an action-strategy shoot 'em up game developed by Sensible Software and published by Virgin Interactive.",
+    "version": "1.6.1",
+    "license": "GPL3"
+}

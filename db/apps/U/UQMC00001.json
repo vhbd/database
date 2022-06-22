@@ -1,0 +1,33 @@
+{
+    "title_id": "UQMC00001",
+    "name": "uqm-vita",
+    "updated_at": "2022-03-04",
+    "authors": [
+        {
+            "name": "argarak",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/argarak\/uqm-vita\/raw\/vita\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/argarak\/uqm-vita\/releases\/download\/rev1\/uqm.vpk"
+    ],
+    "data": [
+        "https:\/\/github.com\/argarak\/uqm-vita\/releases\/download\/rev1\/uqm-data-full.zip"
+    ],
+    "data_path": "ux0:\/data\/",
+    "repos": [
+        "https:\/\/github.com\/argarak\/uqm-vita"
+    ],
+    "type": "game",
+    "description": "uqm-vita is a port of the Ur-Quan Masters project to the PS Vita system.\nThe Ur-Quan Masters is a volunteer project that brings the classic game \u2018Star Control II\u2019 to modern systems. The code from the Ur-Quan Masters project is derived from code written by Toys for Bob, Inc. for the 3DO version of \u2018Star Control II\u2019.",
+    "version": "v.0.8.0.rev1",
+    "videos": [
+        {
+            "youtube_id": "9YE5_cMjox8"
+        }
+    ],
+    "license": "GPL2"
+}

@@ -1,0 +1,24 @@
+{
+    "title_id": "REMGR0001",
+    "name": "rePatch Manager",
+    "updated_at": "2022-05-14",
+    "authors": [
+        {
+            "name": "Eyeman",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Eyeman420\/rePatch-Manager\/raw\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Eyeman420\/rePatch-Manager\/releases\/download\/v1.10\/rePatch.Manager.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Eyeman420\/rePatch-Manager"
+    ],
+    "type": "app",
+    "description": "Tool to enable and disable specific rePatch game. Useful to enable and disable mods that using rePatch.\nTested with FW 3.60 and 3.65.",
+    "version": "v1.10",
+    "license": "GPL3"
+}

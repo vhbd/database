@@ -1,0 +1,24 @@
+{
+    "title_id": "PNES00001",
+    "name": "pNES",
+    "updated_at": "2022-05-20",
+    "authors": [
+        {
+            "name": "cpasjuste",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Cpasjuste\/pemu\/raw\/master\/pnes\/data\/vita\/romfs\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Cpasjuste\/pemu\/releases\/download\/v6.5\/pnes.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Cpasjuste\/pemu\/tree\/master\/pnes"
+    ],
+    "type": "emulator",
+    "description": "NES emulator, multiplatform port of Nestopia emulator.",
+    "version": "v6.5",
+    "license": "GPL3"
+}

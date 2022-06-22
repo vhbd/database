@@ -1,0 +1,24 @@
+{
+    "title_id": "BABAISYOU",
+    "name": "Baba Is You Vita",
+    "updated_at": "2022-06-12",
+    "authors": [
+        {
+            "name": "gl33ntwine",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/v-atamanenko\/baba-is-you-vita\/raw\/master\/livearea\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/v-atamanenko\/baba-is-you-vita\/releases\/download\/v1.1\/BABAISYOU.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/v-atamanenko\/baba-is-you-vita\/"
+    ],
+    "type": "game",
+    "description": "Baba Is You is an award-winning puzzle game where you can change the rules by which you play. In every level, the rules themselves are present as blocks you can interact with; by manipulating them, you can change how the level works and cause surprising, unexpected interactions!",
+    "version": "v1.1",
+    "license": "MIT"
+}

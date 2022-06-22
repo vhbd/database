@@ -1,0 +1,31 @@
+{
+    "title_id": "OSU000001",
+    "name": "osu!octave",
+    "updated_at": "2022-04-29",
+    "authors": [
+        {
+            "name": "gl33ntwine",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/v-atamanenko\/osu-octave\/raw\/master\/livearea\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/v-atamanenko\/osu-octave\/releases\/download\/1.20\/osu-octave.vpk"
+    ],
+    "data": [
+        "https:\/\/github.com\/v-atamanenko\/osu-octave\/releases\/download\/1.20\/data-maps.zip"
+    ],
+    "data_path": "ux0:\/data\/",
+    "repos": [
+        "https:\/\/github.com\/v-atamanenko\/osu-octave"
+    ],
+    "type": "game",
+    "genres": [
+        "Rhythm"
+    ],
+    "description": "osu!octave is a free and open source rhythm game designed to play osu!standard beatmaps, optimized for best performance and playability on PlayStation Vita.",
+    "version": "v1.20",
+    "license": "BSD2"
+}

@@ -1,0 +1,24 @@
+{
+    "title_id": "YYOLOADER",
+    "name": "YoYo Loader Vita",
+    "updated_at": "2022-04-10",
+    "authors": [
+        {
+            "name": "Rinnegatamante",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Rinnegatamante\/yoyoloader_vita\/raw\/main\/livearea\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Rinnegatamante\/yoyoloader_vita\/releases\/download\/Nightly\/YoYoLoader.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Rinnegatamante\/yoyoloader_vita"
+    ],
+    "type": "emulator",
+    "description": "YoYo Loader is a loader for libyoyo.so, the official GameMaker Studio Runner application for Android, for the PS Vita.\nYoYo Loader works by loading such ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run.\nThis enables to run potentially any game made with GameMaker Studio.",
+    "version": "Nightly",
+    "license": "MIT"
+}

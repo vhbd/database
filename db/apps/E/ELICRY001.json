@@ -20,5 +20,5 @@
     "type": "app",
     "description": "CrystalPSM installer is a one click installer that downloads and installs PSM runtime for the PS Vita.\nIt aims to be legal, fast, and sports a modern sleek UI.",
     "version": "v.1",
-    "license": "Unknown"
+    "license": "GPL3"
 }

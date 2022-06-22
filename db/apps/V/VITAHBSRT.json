@@ -1,0 +1,24 @@
+{
+    "title_id": "VITAHBSRT",
+    "name": "Vita Homebrew Sorter",
+    "updated_at": "2022-06-12",
+    "authors": [
+        {
+            "name": "Joel16",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/joel16\/VITA-Homebrew-Sorter\/raw\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/joel16\/VITA-Homebrew-Sorter\/releases\/download\/v1.25\/VITA-Homebrew-Sorter.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/joel16\/VITA-Homebrew-Sorter"
+    ],
+    "type": "app",
+    "description": "A basic PS VITA homebrew application that sorts the application database in your LiveArea. The application sorts apps and games that are inside folders as well. This applications also allows you to backup your current \"loadout\" that you can switch into as you wish.\nA backup will be made before any changes are applied to the application database. This backup is overwritten each time you use the sort option. You can find the backup in ux0:\/data\/VITAHomebrewSorter\/backups\/app.db.\n- Sort app list alphabetically (ascending)\n- Sort app list alphabetically (descending)\n- Display app list after sorting is applied using ImGui's tables API.\n- Backup application database before sorting is applied.\n- Custom loadouts to backup\/restore. (Do note: If you install a new application after you've already backed up your loadout and then attempt to restore this loadout, the new application will not appear on LiveArea and a warning message will be displayed. You can work around this by overwriting your load out backups each time an app is installed or simple re-install the VPK. Although the new application's icon will not appear on LiveArea, its data should not be lost.)",
+    "version": "v1.25",
+    "license": "GPL3"
+}

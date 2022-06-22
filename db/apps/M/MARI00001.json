@@ -1,0 +1,28 @@
+{
+    "title_id": "MARI00001",
+    "name": "Mari0",
+    "updated_at": "2022-06-23",
+    "authors": [
+        {
+            "name": "isage",
+            "type": "porter"
+        },
+        {
+            "name": "stabyourself",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/isage\/Mari0-vita\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/isage\/Mari0-vita\/releases\/download\/v0.1\/Mari0.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/isage\/Mari0-vita"
+    ],
+    "type": "game",
+    "description": "Port of Mari0, a M.Bros/Portal mash-up to PSVita.",
+    "version": "0.1",
+    "license": "MIT"
+}

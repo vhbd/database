@@ -1,0 +1,28 @@
+{
+    "title_id": "QLINSTLPP",
+    "name": "QuickLaunch Installer",
+    "updated_at": "2021-10-11",
+    "authors": [
+        {
+            "name": "DRok17",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/DRok17\/QuickLaunch-Installer\/raw\/DRok17\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/DRok17\/QuickLaunch-Installer\/releases\/download\/v1.4\/QLINSTLPP.vpk"
+    ],
+    "data": [
+        "https:\/\/github.com\/DRok17\/QuickLaunch-Installer\/releases\/download\/v1.4\/data.zip"
+    ],
+    "data_path": "ux0:\/data\/",
+    "repos": [
+        "https:\/\/github.com\/DRok17\/QuickLaunch-Installer"
+    ],
+    "type": "app",
+    "description": "QuickLaunch Installer allows you to customize the quick menu shortcuts of your Livearea.",
+    "version": "v1.4",
+    "license": "GPL3"
+}

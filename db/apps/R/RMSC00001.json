@@ -1,0 +1,24 @@
+{
+    "title_id": "RMSC00001",
+    "name": "REminiscence",
+    "updated_at": "2022-06-23",
+    "authors": [
+        {
+            "name": "isage",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https://github.com/isage/REminiscence-vita/raw/master/pkg/sce_sys/icon0.png"
+    ],
+    "downloads": [
+        "https://github.com/isage/REminiscence-vita/releases/download/v0.4.6/REminiscence-0.4.6.vpk"
+    ],
+    "repos": [
+        "https://github.com/isage/REminiscence-vita/"
+    ],
+    "type": "game",
+    "version": "v0.4.6",
+    "description": "REminiscence is a re-implementation of the engine used in the game Flashback made by Delphine Software and released in 1992",
+    "license": "Custom"
+}

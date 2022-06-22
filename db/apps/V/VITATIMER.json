@@ -1,0 +1,24 @@
+{
+    "title_id": "VITATIMER",
+    "name": "vita-timer",
+    "updated_at": "2020-02-11",
+    "authors": [
+        {
+            "name": "sinusinu",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/sinusinu\/vita-timer\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/sinusinu\/vita-timer\/releases\/download\/1.03\/vita-timer.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/sinusinu\/vita-timer"
+    ],
+    "type": "app",
+    "description": "vita-timer is a stopwatch\/timer homebrew app for PS Vita.",
+    "version": "1.03",
+    "license": "WTFPL"
+}

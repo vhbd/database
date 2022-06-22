@@ -1,0 +1,24 @@
+{
+    "title_id": "PSREGPROF",
+    "name": "Registry Profiler",
+    "updated_at": "2022-01-09",
+    "authors": [
+        {
+            "name": "Codiak101",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Codiak101\/RegistryProfiler\/raw\/main\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Codiak101\/RegistryProfiler\/releases\/download\/v1.0\/RegistryProfiler.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Codiak101\/RegistryProfiler"
+    ],
+    "type": "app",
+    "description": "This app allows certain registry values like the ones for brightness & volume to change and saved into profiles. The first menu gives the options to manage the profiles stored in a created file. When the app is first launched it saves a default profile of the device's current values along with any others later created. The horizontal menu gives the registry categories each containing the settings, some are checkboxes and others are number entries.",
+    "version": "v1.0",
+    "license": "Unknown"
+}

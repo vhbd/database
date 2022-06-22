@@ -1,0 +1,28 @@
+{
+    "title_id": "HMRL00002",
+    "name": "uMario Vita",
+    "updated_at": "2022-06-21",
+    "authors": [
+        {
+            "name": "jakowskidev",
+            "type": "author"
+        },
+        {
+            "name": "Hammerill",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/Hammerill\/uMario_Vita\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/Hammerill\/uMario_Vita\/releases\/download\/1.00\/uMario.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/Hammerill\/uMario_Vita"
+    ],
+    "type": "game",
+    "description": "Port of uMario for PSVITA. uMario is a recreation of Super Mario Bros with widescreen patch and some added options.",
+    "version": "v.1.00",
+    "license": "GPL2"
+}

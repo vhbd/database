@@ -1,0 +1,24 @@
+{
+    "title_id": "HBRS00000",
+    "name": "Heboris-Vita",
+    "updated_at": "2022-01-20",
+    "authors": [
+        {
+            "name": "L0Wigh",
+            "type": "porter"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/l0wigh\/Heboris-Vita\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/l0wigh\/Heboris-Vita\/releases\/download\/v1.0.0-Vita\/Heboris-Vita.vpk"
+    ],
+    "repos": [
+        "https:\/\/github.com\/l0wigh\/Heboris-Vita"
+    ],
+    "type": "game",
+    "description": "Vita port of Heboris, a Tetris clone.\nThis port is based on the Heboris SDL2 source code.",
+    "version": "v1.0.0-Vita",
+    "license": "Unknown"
+}

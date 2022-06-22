@@ -1,0 +1,32 @@
+{
+    "title_id": "MAXP00000",
+    "name": "Max Payne",
+    "updated_at": "2021-02-17",
+    "authors": [
+        {
+            "name": "fgsfds",
+            "type": "author"
+        },
+        {
+            "name": "TheFloW",
+            "type": "author"
+        }
+    ],
+    "icons": [
+        "https:\/\/github.com\/fgsfdsfgs\/max_vita\/raw\/master\/sce_sys\/icon0.png"
+    ],
+    "downloads": [
+        "https:\/\/github.com\/fgsfdsfgs\/max_vita\/releases\/download\/r4\/MaxPayne_r4.vpk"
+    ],
+    "data": [
+        "https:\/\/github.com\/fgsfdsfgs\/max_vita\/releases\/download\/r4\/data.zip"
+    ],
+    "data_path": "ux0:\/data\/",
+    "repos": [
+        "https:\/\/github.com\/fgsfdsfgs\/max_vita"
+    ],
+    "type": "game",
+    "description": "Port of Max Payne for PSVITA\/PSTV based on the Android mobile version.",
+    "version": "r4",
+    "license": "MIT"
+}
