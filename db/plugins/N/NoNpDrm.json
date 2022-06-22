@@ -19,5 +19,5 @@
     "description": "This plugin allows you to bypass DRM protection on any PS Vita content.",
     "version": "v.1.2",
     "plugin_section": "*KERNEL",
-    "license": "Unknown"
+    "license": "GPL3"
 }

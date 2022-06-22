@@ -17,5 +17,5 @@
         "https:\/\/github.com\/GrapheneCt\/libShellAudio.git"
     ],
     "plugin_section": "*ALL",
-    "license": "Unknown"
+    "license": "MIT"
 }

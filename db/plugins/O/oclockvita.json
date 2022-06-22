@@ -19,5 +19,5 @@
     "description": "taiHEN plugin for overclocking your PSVita\/PSTV.",
     "version": "v.1.2.1",
     "plugin_section": "*ALL",
-    "license": "Unknown"
+    "license": "MIT"
 }
