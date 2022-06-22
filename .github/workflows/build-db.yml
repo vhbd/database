@@ -1,0 +1,49 @@
+name: Build DB
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  Generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Validate
+        run: |
+          cd scripts
+          python3 validate.py  
+      - name: Amalgamate
+        run: |
+          cd scripts
+          python3 amalgamate.py
+      - name: Upload db Artifact
+        uses: actions/upload-artifact@v3.1.0
+        with:
+          name: db
+          path: |
+            out/db.json
+            out/db_minify.json
+  Release:
+    needs: [Generate]
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+    steps:     
+      - uses: actions/download-artifact@v3
+        with:
+          name: db       
+      - name: Remove Old
+        uses: dev-drprasad/delete-older-releases@v0.2.0
+        with:
+          keep_latest: 0
+          delete_tags: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest 
+          body: ${{ github.event.head_commit.message }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          files: |
+            db.json
+            db_minify.json
