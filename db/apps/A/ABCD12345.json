@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ABCD12345.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "3D Fractal Renderer based on a PC one for PSVITA.\nIt runs at a consistent 20fps, and with overclocking 30fps.",
     "version": "v.1.0",

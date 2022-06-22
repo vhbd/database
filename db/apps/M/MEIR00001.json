@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/MEIR00001.vpk"
     ],
-    "repos": [],
     "type": "emulator",
     "description": "ZXVita is a Sinclair ZX Spectrum 48k emulator for the PSVita.\nIt features accurate z80 instruction handling, cycle-accurate screen rendering, contended memory\/IO emulation, floating bus emulation, tape player UI with instant\/real-time tape loading, touch keyboard, savestates and key mappings.",
     "version": "v.1.2.0",

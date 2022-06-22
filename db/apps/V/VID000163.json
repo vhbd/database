@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VID000163.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "A PS VITA application that allows you to check for your net profiles (that you have already been connected to) and display their passwords. The app uses the same GUI as VITAident's GUI version, and also includes the same icon0, and startup assets. You can basically think of this as a VITAident subordinate since technically it is displaying information stored on your device.",
     "version": "v.0.1",

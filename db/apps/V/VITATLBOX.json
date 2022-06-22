@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/VITATLBOX.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "VitaToolbox is like a Swiss army knife for your PS Vita, which combines the functionality of several other applications that have been released for the PS Vita lately. Among other things, VitaToolbox lets you update registry settings (e.g. to swap the O\/X buttons), delete your PS Vita\u00e2\u20ac\u2122s history (to avoid sending unwanted logs to Sony\u00e2\u20ac\u2122s servers), swap your memory stick to another account, dump your IDPS, or switch to IDU mode.",
     "version": "v.0.2",

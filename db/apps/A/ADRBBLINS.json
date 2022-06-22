@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ADRBBLINS.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "This homebrew will allow you to easily setup AdrBubbleBooter into your Adrenaline installation. Installs the required files for bubbles made with 'Adrenaline Bubble Booter VPK edition' to work but doesn't create the bubbles itself!",
     "version": "v.0.6",

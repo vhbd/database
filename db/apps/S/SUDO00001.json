@@ -12,10 +12,8 @@
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/SUDO00001_icon0.png"
     ],
     "downloads": [
-        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=129",
-        "https:\/\/dl.coolatoms.org\/vitadb\/Homebrews\/VitaSudoku.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SUDO00001.vpk"
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/SUDO00001.vpk"
     ],
-    "repos": [],
     "type": "game",
     "description": "VitaSudoku is a sudoku game for PSVITA wrote using Lua Player Plus which has an algorithm to automatically generate a sudoku allowing you to play infinite sudokus.\nIt also supports BGM audio playback during your gaming sessions.",
     "version": "v.1.3",

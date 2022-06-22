@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/EPSPINSTA.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "This is a tool that quickly installs a mini ePSP bubble for use with Adrenaline or ARK.\nNo need to be on IDU or to have a PS3. Moreover, the bubble will only cost you 3.5MB !\nSince v2.0, you can even activate your PSVita directly through the app !\nSince v3.0, you can clone ePSP bubbles and delete them if needed.\nOpen the app and follow what is written on screen. Enjoy, finally, ARK and Adrenaline.",
     "version": "v.3.1",

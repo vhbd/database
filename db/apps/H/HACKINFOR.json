@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/HACKINFOR.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "Simple application that automatically opens the webbrowser to HackInformer portal.",
     "version": "v.1.0",

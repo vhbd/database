@@ -20,10 +20,8 @@
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/icon0\/THHM00001_icon0.png"
     ],
     "downloads": [
-        "https:\/\/vitadb.rinnegatamante.it\/get_hb_url.php?id=379",
-        "https:\/\/dl.coolatoms.org\/vitadb\/Vita Hangman - Touhou Edition.vpk|https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/THHM00001.vpk"
+        "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/THHM00001.vpk"
     ],
-    "repos": [],
     "type": "game",
     "description": "Hangman game for PSVITA coded in Lua. Enhanced version of Vita Hangman with sounds, BGMs, backgrounds and enhanced game mechanics.",
     "version": "v.1.1A-TH1",

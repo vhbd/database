@@ -14,7 +14,6 @@
     "downloads": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/vpk\/ARIEL0005.vpk"
     ],
-    "repos": [],
     "type": "app",
     "description": "This homebrew shows the real percentage of your PSVita's battery and it makes a nice waiting screen when charging.",
     "version": "v.1.0",
