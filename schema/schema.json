@@ -82,6 +82,7 @@
           "type": "array",
           "title": "Homebrew authors (if any)",
           "uniqueItems": true,
+          "minItems": 1,
           "items": {
             "type": "object",
             "properties" : {
@@ -114,10 +115,11 @@
             "type": "string"
           }
         },
-        "download": {
+        "downloads": {
           "type": "array",
           "title": "Homebrew direct-download URLs (if any)",
           "uniqueItems": true,
+          "minItems": 1,
           "items": {
             "type": "string"
           }
@@ -154,10 +156,11 @@
             "type": "string"
           }
         },
-        "icon": {
+        "icons": {
           "type": "array",
           "title": "Homebrew direct-download icon URLs",
           "uniqueItems": true,
+          "minItems": 1,
           "items": {
             "type": "string"
           }
@@ -262,7 +265,6 @@
         "title_id",
         "name",
         "type",
-        "icons",
         "downloads",
         "license",
         "updated_at"
