@@ -1,7 +1,7 @@
 {
     "title_id": "ABUS00001",
     "name": "Abuse Vita",
-    "updated_at": "2022-06-22",
+    "updated_at": "2022-11-15",
     "authors": [
         {
             "name": "isage",
@@ -12,17 +12,13 @@
         "https:\/\/github.com\/isage\/abuse-vita\/raw\/master\/sce_sys\/icon0.png"
     ],
     "downloads": [
-        "https:\/\/github.com\/isage\/abuse-vita\/releases\/download\/v1.0\/abuse.vpk"
+        "https:\/\/github.com\/isage\/abuse-vita\/releases\/download\/v1.1\/abuse.vpk"
     ],
-    "data": [
-        "https:\/\/www.libsdl.org\/projects\/SDL_mixer\/timidity\/timidity.tar.gz"
-    ],
-    "data_path": "ux0:\/data\/",
     "repos": [
-        "https:\/\/github.com\/Rinnegatamante\/abuse-vita"
+        "https:\/\/github.com\/isage\/abuse-vita"
     ],
     "type": "game",
     "description": "CDC Abuse PSVIta port",
-    "version": "v1.0",
+    "version": "v1.1",
     "license": "GPL2"
 }
