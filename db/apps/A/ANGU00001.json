@@ -26,6 +26,6 @@
         "https:\/\/github.com\/angguss\/OpenTTD\/releases\/download\/0.3-vita\/data.zip",
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/3e8db578_data.zip"
     ],
-    "data_path": "ux0:\/data",
+    "data_path": "ux0:\/data\/",
     "license": "Unknown"
 }

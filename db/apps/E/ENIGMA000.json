@@ -26,6 +26,6 @@
         "https:\/\/github.com\/rsn8887\/Enigma\/releases\/download\/1.16\/data.zip",
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/29672496_data.zip"
     ],
-    "data_path": "ux0:\/data",
+    "data_path": "ux0:\/data\/",
     "license": "GPL2"
 }

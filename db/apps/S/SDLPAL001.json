@@ -25,6 +25,6 @@
     "data": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/595c20fd_data.zip"
     ],
-    "data_path": "ux0:\/data",
+    "data_path": "ux0:\/data\/",
     "license": "GPL3"
 }

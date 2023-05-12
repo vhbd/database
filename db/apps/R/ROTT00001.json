@@ -18,7 +18,7 @@
         "https:\/\/github.com\/Northfear\/rottexpr-vita"
     ],
     "data": [
-        "https:\/\/www.libsdl.org\/projects\/SDL_mixer\/timidity\/timidity.tar.gz"
+        "https:\/\/www.libsdl.org\/projects\/mixer\/timidity\/timidity.tar.gz"
     ],
     "data_path": "ux0:\/data\/",
     "type": "game",

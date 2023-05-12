@@ -24,6 +24,6 @@
     "data": [
         "https:\/\/gitlab.com\/SilicaAndPina\/cbpsdb\/-\/raw\/master\/data\/ec02344b_data.zip"
     ],
-    "data_path": "ux0:\/data",
+    "data_path": "ux0:\/data\/",
     "license": "Unknown"
 }
